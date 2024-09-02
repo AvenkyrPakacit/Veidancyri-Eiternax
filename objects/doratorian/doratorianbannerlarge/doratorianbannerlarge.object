@@ -1,0 +1,28 @@
+{
+  "objectName" : "doratorianbannerlarge",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A large doratorian wallbanner from a doratorian academy.",
+  "shortdescription" : "Large doratorian Wall Banner",
+  "race" : "voderaiarkai",
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner! Charming!",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large doratorian banner...",
+  "humanDescription" : "The doratorian banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "inventoryIcon" : "doratorianbannerlargeicon.png",
+  "orientations" : [
+    {
+      "image" : "doratorianbannerlarge.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}
