@@ -1,0 +1,22 @@
+{
+	"id" : "syrnlunification",
+	"title" : "Unification of the Axilarium",
+	"description" : "A council mandated declaration.",
+	"icon" : "syrnlhccover.png",
+	"contentPages" : [
+    "On this day, Einfernax, 65ae, High Queen of Syrenalia, Katasamnia Eathyratis has announced the formation of the Axilarium Unitarium.
+
+They will henceforth be our combined law, and military.
+
+The Illiatari now comprise the common and royal guard.",
+	"All in The Axilarium are henceforth considered nobility in their own right.
+
+The Exarch and Daminat, are henceforth to be respected by their rank. Failure to do so, will be subject to punishment!
+
+Syrenalia is better united, no more strife amongst the kindred of the sister moons. The Axilarium will henceforth fight and die to ensure the safety of our pact."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "kind" : "ve_chaosswoosh",
+  "definition" : {
+    "duration" : 0.3,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "ve_chaosswoosh1", "ve_chaosswoosh3", "ve_chaosswoosh2", "ve_chaosswoosh1", "ve_chaosswoosh3", "ve_chaosswoosh2", "ve_chaosswoosh1", "ve_chaosswoosh3", "ve_chaosswoosh2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "ve_chaosswoosh1", "ve_chaosswoosh3", "ve_chaosswoosh2", "ve_chaosswoosh1", "ve_chaosswoosh3", "ve_chaosswoosh2", "ve_chaosswoosh1", "ve_chaosswoosh3", "ve_chaosswoosh2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "ve_chaosswoosh4", "ve_chaosswoosh4", "ve_chaosswoosh4", "ve_chaosswoosh4", "ve_chaosswoosh4", "ve_chaosswoosh4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

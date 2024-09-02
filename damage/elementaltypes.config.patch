@@ -1,0 +1,30 @@
+[
+	{
+		"op": "add",
+		"path": "/ve_chaos",
+		"value": {
+				"resistanceStat": "ve_chaosResistance",
+				"damageNumberParticles": {
+				"hit": "ve_chaosdamagenumber",
+				"stronghit": "ve_chaosdamagenumberstrong",
+				"weakhit": "ve_chaosdamagenumberweak",
+				"shieldhit": "ve_chaosdamagenumber",
+				"kill": "ve_chaosdamagenumber"
+			}
+		}
+	},
+	{
+		"op": "add",
+		"path": "/ve_sin",
+		"value": {
+				"resistanceStat": "ve_sinResistance",
+				"damageNumberParticles": {
+				"hit": "ve_sindamagenumber",
+				"stronghit": "ve_sindamagenumberstrong",
+				"weakhit": "ve_sindamagenumberweak",
+				"shieldhit": "ve_sindamagenumber",
+				"kill": "ve_sindamagenumber"
+			}
+		}
+	}
+]

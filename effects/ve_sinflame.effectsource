@@ -1,0 +1,29 @@
+{
+  "kind" : "ve_sinflame",
+  "definition" : {
+    "duration" : 0.2,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "ve_sfmessage" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "ve_sfdust" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "ve_sfdust2", "ve_sfdust2", "ve_sfdust2", "ve_sfdust2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+	"id" : "azkuvalianrecital",
+	"title" : "Azkuvalian Scripture",
+	"description" : "A book containing the full sermon for Azkuvalian techpriests.",
+	"icon" : "azkuvaliancover.png",
+	"contentPages" : [
+    "^#00C420;Akatylian verse:^white;
+Children of lesser soul.
+Witness forth the flame of light!
+Let forth the light of fate.
+See as it burns the light!
+Upon the fire of sin.
+Upon the flame of heresy!
+Witness forth.
+Eternal light!",
+    "^#77BFCF;Techpriest verse:^white;
+May the flame bear witness.
+Upon the flames return!
+Sanctity falls as light sees flame.
+May the gods bear witness!
+To the flame of heresy's fall.
+That Arkane sees his fate!
+As it will be forever known.
+Arekena of the metalic flame!",
+    "^#CFC041;Thatylian verse:^white;
+The metal shines.
+With fiery light!
+As sin burns upon the flame.
+Beckon forth!
+The light of fire.
+As it sings with eternal life!
+May the gods bear witness.
+For their fate is forever known!",
+    "^#D74200;Xyatylian verse:^white;
+Heresy's flame upon damnation's curse.
+Sanctity falls upon the flame's return!
+Mortality's disgrace, axitari swine.
+Gods forsaken, do they not understand?
+A single damned thing of their forsaken fate?
+May the gods see to it!
+For it shall be ensured.
+The light of fire, beckons a new flame!"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

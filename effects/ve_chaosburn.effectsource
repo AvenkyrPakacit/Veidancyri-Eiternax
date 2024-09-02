@@ -1,0 +1,29 @@
+{
+  "kind" : "ve_chaosburn",
+  "definition" : {
+    "duration" : 0.2,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "ve_cbmessage" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "ve_cbdust" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "ve_cbdust2", "ve_cbdust2", "ve_cbdust2", "ve_cbdust2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

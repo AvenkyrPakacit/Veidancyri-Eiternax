@@ -1,0 +1,25 @@
+{
+	"id" : "doratoriantitles",
+	"title" : "Doratorian Titles",
+	"description" : "A book that covers the translation of titles.",
+	"icon" : "doratoriancover.png",
+	"contentPages" : [
+	"Akamalask - Pack Prowler
+Akameikal - Pack Elder
+Akamkraato - Pack Fiend
+Akammika - Pack Parent
+Akammina - Pack Mother
+Akammifa - Pack Father
+Cseiklasca - Lost Wanderer
+Daemika - Holy Parent
+Daemina - Holy Mother
+Daemifa - Holy Father
+Uwakati - Charmbeak
+Veskaskwe - Chirptail
+Veskerai - Chirphowler"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

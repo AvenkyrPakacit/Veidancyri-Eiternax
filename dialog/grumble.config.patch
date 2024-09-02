@@ -1,0 +1,72 @@
+[
+	{
+		"op": "add",
+		"path": "/enclosedArea/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/final/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/otherDeed/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/severe/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tagCriteria/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	}
+]

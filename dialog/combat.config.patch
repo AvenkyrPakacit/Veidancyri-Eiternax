@@ -1,0 +1,96 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cantReach/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cheerOn/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+			]
+		}
+	},
+		"op": "add",
+		"path": "/outOfSight/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+		]
+	},
+		"op": "add",
+		"path": "/reattack/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling bark*",
+				"*Rattling growl*",
+				"*Rattling hiss*"
+		]
+	}
+]

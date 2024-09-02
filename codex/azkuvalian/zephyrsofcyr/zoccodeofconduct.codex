@@ -1,0 +1,45 @@
+{
+	"id" : "zoccodeofconduct",
+	"title" : "Zephyrs of Cyr Code of Conduct",
+	"description" : "A book containing the code of conduct for the Zephyrs of Cyr.",
+	"icon" : "zocbookcover.png",
+	"contentPages" : [
+    "If you are reading this then you are either a sword of Cyr, recollecting our code, or a thief, in which case: return it to any Zephyr of Cyr, and you might recieve our mercy.
+
+All text written assumes the reader is of any of the three Azkuvalian Castes. Given our founding, it shouldn't be a surprise that most of among us are Xyatylians.
+
+In any case: this book details our extensive code of conduct, to ensure understanding amongst your brothers and sisters.",
+	"^#CFC041;Code: 1
+Cerimonial Fasting^white;
+
+As common in our culture, fasting is a common practice.
+We understand some might need to handle such matters with leniency, so for those whom don't: do your best to avoid scolding those whom don't abide to such.",
+	"^#CFC041;Code: 2
+Cerimonial Rituals and Prayer^white;
+
+As with fasting, this is a common practice but is optional for those whom don't share our beliefs.
+Any whom aren't of a Azkuvalian faith, or whom don't share our spiritual beliefs are fine to partake in them, provided they don't interrupt any prayer or ritual.",
+	"^#CFC041;Code: 3
+Cerimonial Training^white;
+
+As with the previously mentioned, this is a common practice that is encourage.
+Whilst one may find martial prowess distasteful, one may find it benificial to their long-term emotional, and physical health.",
+	"^#CFC041;Code: 4
+Enslavement^white;
+
+In spite of our culture's purpetuation of it, any Zephyr of Cyr caught actively partaking in it will face execution and the slaves exonerated!
+If however hedonists are seen using apparel or implements commonly associated with such: they are NOT to be shamed!",
+	"^#CFC041;Code: 5
+Murder and Oathbreaking^white;
+
+Similar in practice to our culture's common law.
+One shall not murder another without cause, and one shall maintain the code of conduct as it's written!",
+	"That concludes our written code of conduct.
+
+Speak to a speaker of Cyr, for a full list of what's not allowed."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

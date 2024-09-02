@@ -1,0 +1,26 @@
+{
+	"id" : "syrnlvolunteer",
+	"title" : "Talfieran Volunteering Pamphlet",
+	"description" : "A volunteering pamphlet.",
+	"icon" : "talfierancover.png",
+	"contentPages" : [
+    "Need a place to eat, rest, or self-defense training?
+
+Find your local Talfieran shelter!
+
+Need a place to work, or something to get your mind off of political rhetoric?
+
+Speak to a Talfieran employment specialist!",
+	"Illiatari looking for you for a crime you didn't commit?
+
+Ask some volunteers for help!
+
+The Talfieran Union is here for the people, against political corruption!
+
+For wherever There's Talfieran Civil Volunteers, civil liberty, and justice for all remains!"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,14 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/voderaiarkai",
+		"value": {
+			"default": [
+				"*Growling bark*",
+				"*Growling chirp*",
+				"*Growling hiss*",
+				"*Rattling growl*"
+			]
+		}
+	}
+]

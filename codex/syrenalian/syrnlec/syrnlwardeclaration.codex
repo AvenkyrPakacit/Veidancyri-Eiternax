@@ -1,0 +1,25 @@
+{
+	"id" : "syrnlwardeclaration",
+	"title" : "Declaration of War",
+	"description" : "A council mandated declaration.",
+	"icon" : "syrnleccover.png",
+	"contentPages" : [
+    "This PSA is written at the behest of the Syrenalian Elder Council.
+
+The Veidancyri have made clear their intent to spark treason amongst out kindred.",
+	"Even now, the traitorous queen, Xethyral Vevinastra, plots and sends rebels and spies throughout our sacred moon.
+
+If any of them are seen: report them immediately to the local illiatari or there will be consequences!
+
+Keep close watch of your fellow citizens in your local cities, and towns. If you are found harboring the terrorists, the punishment will be grave!",
+	"Our kindred amongst Octhyratum will be assisting The Unitarium in their efforts. Do not interfere with their business!
+
+All of Syrenalia is under threat, The Veidancyri will pay dearly for their opposition!
+
+Remember this, that Dark Syrenalia will remain the eternal home of our kindred. None shall betray Octusaria's children without punishment!"
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 75
+	}
+}

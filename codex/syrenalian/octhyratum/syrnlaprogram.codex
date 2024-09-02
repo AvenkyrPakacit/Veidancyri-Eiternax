@@ -1,0 +1,26 @@
+{
+	"id" : "syrnlaprogram",
+	"title" : "Octhyratum Ascension Program",
+	"description" : "Documentation of a horrifying experiment.",
+	"icon" : "octhyratumcover.png",
+	"contentPages" : [
+    "Dr. V Velegor, the experiment was a success.
+
+Our first subject was exposed to a large dose of quantum radiation, and Octusaria's chalice crystals.
+
+As much as it was indeed a success, they or it, then tore through most of the facility's illiatari, before eventually being put down by a daminat's psionic ionizer.",
+	"Our second subject was also a success, however whilst casualties remained almost the same: we've managed to recapture it.
+
+Needless to say, it is now confined within the high security portion of the facility's labs.",
+	"Our third subject we managed to prevent the slaughter of our illiatari, by performing the experiment within the afformentioned labs.
+
+This seems to be the most optimal means of handling the ascension. The Einfierans seem to be rather fond of their newfound selves. They will serve as a useful weapon for Octhyratum.",
+	"I'd like to thank the high queen for her generosity to our efforts.
+
+And to an extension, the Talfieran. The volunteers they sent to undermine our efforts, have proved to be worthy test subjects."
+	],
+		"itemConfig" : {
+		"rarity" : "legendary",
+		"price" : 100
+	}
+}
