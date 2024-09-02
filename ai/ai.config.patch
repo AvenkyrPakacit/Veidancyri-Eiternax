@@ -1,0 +1,28 @@
+[{
+		"op" : "add",
+		"path" : "/species/akatylian",
+		"value" : {
+			"aiFrames" : "doratorianAI.png",
+			"portraitFrames" : "portraits/doratorianportrait.png",
+			"staticFrames" : "staticdoratorian.png"	
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/species/eilasalian",
+		"value" : {
+			"aiFrames" : "doratorianAI.png",
+			"portraitFrames" : "portraits/doratorianportrait.png",
+			"staticFrames" : "staticdoratorian.png"	
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/species/voderaiarkai",
+		"value" : {
+			"aiFrames" : "doratorianAI.png",
+			"portraitFrames" : "portraits/doratorianportrait.png",
+			"staticFrames" : "staticdoratorian.png"	
+		}
+	}
+]
