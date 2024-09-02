@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 10
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "syrenalianT7.png",
+      "position" : [-1, 4],
+      "fullbright" : true
+    },
+    {
+      "image" : "syrenalianT7lit.png",
+      "position" : [-1, 4]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "syrenalianT7blocks.png"
+}

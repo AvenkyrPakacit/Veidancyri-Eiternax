@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 8
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "azkuvalianT6.png",
+      "position" : [-1, 3],
+      "fullbright" : true
+    },
+    {
+      "image" : "azkuvalianT6lit.png",
+      "position" : [-1, 3]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "azkuvalianT6blocks.png"
+}
