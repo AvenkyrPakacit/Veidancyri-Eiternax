@@ -1,0 +1,37 @@
+{
+  "itemName" : "ve_axakrios",
+  "price" : 3000,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "The greatblade of ^#50C878;Daeikicekalit^white; enchanted by a draconic song, and imbued with ^#8A3324;sinful flames^white;.",
+  "shortdescription" : "Axakrios",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword","doratorian", "unique"],
+  "inventoryIcon" : "ve_axakrios.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "blade" : "ve_axakrios.png",
+    "handle" : ""
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.9,
+    "baseDps" : 23,
+    "damageConfig" : {
+      "damageSourceKind" : "ve_sinbroadsword",
+      "statusEffects" : [ "ve_sinflame" ],
+      "knockback" : 40,
+      "knockbackMode" : "facing",
+      "timeoutGroup" : "primary"
+    }
+  },
+  "altAbilityType" : "risingslash",
+  "critChance" : 4,
+  "critBonus" : 16,
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}
