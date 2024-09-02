@@ -1,0 +1,110 @@
+{
+  "type" : "crewmembervexara",
+  "baseType" : "crewmember",
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "emptyHands" : false
+    },
+    "crew" : {
+      "role" : {
+        "type" : "axilarium",
+        "name" : "Vexara",
+        "field" : ["Law Enforcement", "Medical", "Special Forces", "Strategist"],
+        "uniformColorIndex" : 6
+      }
+    },
+    "dialog" : {
+      "crewmember" : {
+        "offer" : {
+          "default" : {
+            "default" : [
+              "<field> <role>, <selfname>, at your command."
+            ]
+          }
+        },
+        "roleDescription" : {
+          "default" : {
+            "default" : [
+              "Vexara, <selfname>, at your service."
+            ]
+          }
+        },
+        "respawned" : {
+          "default" : {
+            "default" : [
+              "Gods.."
+            ]
+          }
+        },
+        "follow" : {
+          "default" : {
+            "default" : [
+              "Of course.",
+              "Very well."
+            ]
+          }
+        },
+        "unfollow" : {
+          "default" : {
+            "default" : [
+              "Of course.",
+              "Very well."
+            ]
+          }
+        },
+        "cantreach" : {
+          "default" : {
+            "default" : [
+              "Are we searching the area?",
+              "The farther we are away from one another, the higher the risk. We should not stray far from each other.",
+              "We should stay close."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "items" : {
+    "default" : [
+      [0, [
+          {
+            "head" : [ { "name" : "syrenaliantier1head" },
+            { "name" : "syrenaliantier2head" },
+            { "name" : "syrenaliantier3head" },
+            { "name" : "syrenaliantier4head" },
+            { "name" : "syrenaliantier5ahead" },
+            { "name" : "syrenaliantier5mhead" },
+            { "name" : "syrenaliantier5shead" }],
+            "chest" : [ { "name" : "syrenaliantier1chest" },
+            { "name" : "syrenaliantier2chest" },
+            { "name" : "syrenaliantier3chest" },
+            { "name" : "syrenaliantier4chest" },
+            { "name" : "syrenaliantier5achest" },
+            { "name" : "syrenaliantier5mchest" },
+            { "name" : "syrenaliantier5schest" }],
+            "legs" : [ { "name" : "syrenaliantier1pants" },
+            { "name" : "syrenaliantier2pants" },
+            { "name" : "syrenaliantier3pants" },
+            { "name" : "syrenaliantier4pants" },
+            { "name" : "syrenaliantier5apants" },
+            { "name" : "syrenaliantier5mpants" },
+            { "name" : "syrenaliantier5spants" }],
+            "primary" : [
+          { "name" : "commonaxe" },
+          { "name" : "commonbroadsword" },
+          { "name" : "commonhammer" },
+          { "name" : "commonshortsword" },
+          { "name" : "commonspear" }],
+            "sheathedprimary" : [
+          { "name" : "unitariumbattlerifle" },
+          { "name" : "unitariumbolter" },
+          { "name" : "unitariumcombatrifle" }],
+          "alt" : [
+          { "name" : "commondagger" },
+          { "name" : "commonmachinepistol" },
+          { "name" : "commonpistol" }]
+          }
+        ] ]
+    ]
+  }
+}

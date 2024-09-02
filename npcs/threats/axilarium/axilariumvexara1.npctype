@@ -1,0 +1,82 @@
+{
+  "type" : "axilariumvexara1",
+  "baseType" : "hostile",
+  "levelVariance" : [2, 4],
+  "dropPools" : [ "axilariumTreasure2" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmemberAxilarium"]
+    },
+    "dialog" : {
+      "attack" : "/dialog/axilariumvexara.config:attack",
+      "beacon" : "/dialog/axilariumvexara.config:beacon",
+      "cantReach" : "/dialog/axilariumvexara.config:cantReach",
+      "cheerOn" : "/dialog/axilariumvexara.config:cheerOn",
+      "converse" : "/dialog/axilariumvexara.config:converse",
+      "enclosedArea" : "/dialog/axilariumvexara.config:enclosedArea",
+      "final" : "/dialog/axilariumvexara.config:final",
+      "greeting" : "/dialog/axilariumvexara.config:greeting",
+      "hail" : "/dialog/axilariumvexara.config:hail",
+      "helpme" : "/dialog/axilariumvexara.config:helpme",
+      "killedTarget" : "/dialog/axilariumvexara.config:killedTarget",
+      "lostTarget" : "/dialog/axilariumvexara.config:lostTarget",
+      "otherDeed" : "/dialog/axilariumvexara.config:otherDeed",
+      "outOfSight" : "/dialog/axilariumvexara.config:outOfSight",
+      "reattack" : "/dialog/axilariumvexara.config:reattack",
+      "rent" : "/dialog/axilariumvexara.config:rent",
+      "severe" : "/dialog/axilariumvexara.config:severe",
+      "tagCriteria" : "/dialog/axilariumvexara.config:tagCriteria"
+    }
+  },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "syrenaliantier1head" },
+            { "name" : "syrenaliantier2head" },
+            { "name" : "syrenaliantier3head" }
+			],
+            "chest" : [ { "name" : "syrenaliantier1chest" },
+            { "name" : "syrenaliantier2chest" },
+            { "name" : "syrenaliantier3chest" }
+			],
+            "legs" : [ { "name" : "syrenaliantier1pants" },
+            { "name" : "syrenaliantier2pants" },
+            { "name" : "syrenaliantier3pants" }
+			],
+            "primary" : [
+          { "name" : "commonaxe" },
+          { "name" : "commonbroadsword" },
+          { "name" : "commonhammer" },
+          { "name" : "commonshortsword" },
+          { "name" : "commonspear" }
+        ],
+        "sheathedprimary" : [
+          { "name" : "unitariumbattlerifle" },
+          { "name" : "unitariumbolter" },
+          { "name" : "unitariumcombatrifle" }
+        ],
+        "alt" : [
+          { "name" : "commondagger" },
+          { "name" : "commonmachinepistol" },
+          { "name" : "commonpistol" }
+        ]
+          }
+        ] ]
+    ]
+  },
+  "statusControllerSettings" : {    
+    "stats" : {
+      "maxHealth" : {
+        "baseValue" : 250.0
+      },
+      "powerMultiplier" : {
+        "baseValue" : 1.5
+      },
+      "protection" : {
+        "baseValue" : 1.5
+      }
+    }
+  }
+}

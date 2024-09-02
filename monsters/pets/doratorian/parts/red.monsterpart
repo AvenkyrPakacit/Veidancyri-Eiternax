@@ -1,0 +1,9 @@
+{
+  "name" : "red",
+  "category" : "doratorianpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "red.png"
+  }
+}
