@@ -1,0 +1,8 @@
+[
+  [{"op":"test","inverse":true,"path":"/labels/ve_battleRifle"},{"op": "add","path": "/labels/ve_battleRifle","value": "Battle Rifle"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_bolter"},{"op": "add","path": "/labels/ve_bolter","value": "Bolter"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_combatRifle"},{"op": "add","path": "/labels/ve_combatRifle","value": "Combat Rifle"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_pdw"},{"op": "add","path": "/labels/ve_pdw","value": "Personal Defense Weapon"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_polearm"},{"op": "add","path": "/labels/ve_polearm","value": "Polearm"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_saw"},{"op": "add","path": "/labels/ve_saw","value": "Squad Automatic Weapon"}]
+]
