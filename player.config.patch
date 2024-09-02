@@ -1,0 +1,5 @@
+[
+{ "op" : "add", "path" : "/defaultCodexes/akatylian", "value" : [ "protectorate1", "protectorate2", "azkuvalianrecital" ] },
+{ "op" : "add", "path" : "/defaultCodexes/eilasalian", "value" : [ "protectorate1", "protectorate2" ] },
+{ "op" : "add", "path" : "/defaultCodexes/voderaiarkai", "value" : [ "protectorate1", "protectorate2", "doratoriantitles" ] }
+]

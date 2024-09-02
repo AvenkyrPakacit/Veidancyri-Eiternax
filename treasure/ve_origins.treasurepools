@@ -1,0 +1,47 @@
+{
+  "azkuvalianOriginPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "azkuvalianCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianOriginPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorianArmourRandomPools"},
+        {"weight" : 1.0, "pool" : "doratorianequipmentRandom"},
+        {"weight" : 1.0, "pool" : "doratorianWeaponsRandomPools"}
+      ],
+      "poolRounds" : [
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrenalianOriginPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlArmourRandomPools"},
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
+        {"weight" : 1.0, "pool" : "syrnlequipmentRandom"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
+      ],
+      "poolRounds" : [
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}

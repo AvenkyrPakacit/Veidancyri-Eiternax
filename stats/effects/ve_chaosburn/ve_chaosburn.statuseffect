@@ -1,0 +1,12 @@
+{
+  "name" : "ve_chaosburn",
+  "blockingStat" : "ve_chaosStatusImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+  "scripts" : [
+    "ve_chaosburn.lua"
+  ],
+  "animationConfig" : "ve_chaosburn.animation",
+  "label" : "Chaotic Embers",
+  "icon" : "/interface/statuses/ve_chaos.png"
+}

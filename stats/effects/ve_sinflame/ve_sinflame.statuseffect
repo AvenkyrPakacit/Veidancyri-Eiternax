@@ -1,0 +1,12 @@
+{
+  "name" : "ve_sinflame",
+  "blockingStat" : "ve_sinStatusImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+  "scripts" : [
+    "ve_sinflame.lua"
+  ],
+  "animationConfig" : "ve_sinflame.animation",
+  "label" : "Sin Flame",
+  "icon" : "/interface/statuses/ve_sin.png"
+}
