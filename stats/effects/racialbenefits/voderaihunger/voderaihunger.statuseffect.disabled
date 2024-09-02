@@ -1,0 +1,10 @@
+{
+  "name" : "voderaihunger",
+  "effectConfig" : {
+  },
+  "defaultDuration" : 5.0,
+  "scripts" : [
+    "voderaihunger.lua"
+  ],
+  "label" : "Voracious Demeanor: Your instincts are empowered the closer you are to starvation."
+}

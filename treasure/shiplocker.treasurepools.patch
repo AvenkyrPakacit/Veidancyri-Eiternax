@@ -1,0 +1,32 @@
+[
+  {
+    "op": "add",
+    "path": "/AzkuvalianStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"},
+        {"pool" : "azkuvalianOriginPools"}
+      ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/DoratorianStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"},
+        {"pool" : "doratorianOriginPools"}
+      ]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/SyrenalianStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"},
+        {"pool" : "syrenalianOriginPools"}
+      ]
+    }]]
+  }
+]

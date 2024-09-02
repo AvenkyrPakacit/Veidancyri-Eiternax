@@ -1,0 +1,118 @@
+{
+  "azkuvalianCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "azkuvalianGenericCodexPools"},
+        {"weight" : 0.25, "pool" : "zephyrsofcyrCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "azkuvalianGenericCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "azkuvalianrecital-codex"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "octhyratumCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.12, "item" : "syrnlaprogram-codex"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrenalianCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.06, "pool" : "octhyratumCodexPools"},
+        {"weight" : 0.25, "pool" : "syrnlecCodexPools"},
+        {"weight" : 0.5, "pool" : "syrnlhcCodexPools"},
+        {"weight" : 0.12, "pool" : "syrnlmokCodexPools"},
+        {"weight" : 0.03, "pool" : "talfieranCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+    "syrnlecCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.25, "item" : "syrnlwardeclaration-codex"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+    "syrnlhcCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "syrnlunification-codex"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+    "syrnlmokCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.12, "item" : "syrnlhumanity-codex"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "talfieranCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "syrnlvolunteer-codex"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "zephyrsofcyrCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "zoccodeofconduct-codex"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}

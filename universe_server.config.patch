@@ -1,0 +1,44 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/akatylian",
+		"value" : [
+		    "/ships/azkuvalian/azkuvaliant0.structure",
+			"/ships/azkuvalian/azkuvaliant1.structure",
+			"/ships/azkuvalian/azkuvaliant2.structure",
+			"/ships/azkuvalian/azkuvaliant3.structure",
+			"/ships/azkuvalian/azkuvaliant4.structure",
+			"/ships/azkuvalian/azkuvaliant5.structure",
+			"/ships/azkuvalian/azkuvaliant6.structure",
+			"/ships/azkuvalian/azkuvaliant7.structure",
+			"/ships/azkuvalian/azkuvaliant8.structure"
+		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/eilasalian",
+		"value" : [
+		    "/ships/syrenalian/syrenaliant0.structure",
+			"/ships/syrenalian/syrenaliant1.structure",
+			"/ships/syrenalian/syrenaliant2.structure",
+			"/ships/syrenalian/syrenaliant3.structure",
+			"/ships/syrenalian/syrenaliant4.structure",
+			"/ships/syrenalian/syrenaliant5.structure",
+			"/ships/syrenalian/syrenaliant6.structure",
+			"/ships/syrenalian/syrenaliant7.structure",
+			"/ships/syrenalian/syrenaliant8.structure"
+		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/voderaiarkai",
+		"value" : [
+		    "/ships/doratorian/doratoriant0.structure",
+			"/ships/doratorian/doratoriant1.structure",
+			"/ships/doratorian/doratoriant2.structure",
+			"/ships/doratorian/doratoriant3.structure",
+			"/ships/doratorian/doratoriant4.structure",
+			"/ships/doratorian/doratoriant5.structure",
+			"/ships/doratorian/doratoriant6.structure",
+			"/ships/doratorian/doratoriant7.structure",
+			"/ships/doratorian/doratoriant8.structure"
+		]
+	}
+]

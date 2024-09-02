@@ -1,0 +1,72 @@
+{
+  "axilariumTreasure1" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier1Pool"},
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.30, 1],
+        [0.50, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "axilariumTreasure2" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier2Pool"},
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.30, 1],
+        [0.50, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "axilariumTreasure3" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier3Pool"},
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.30, 1],
+        [0.50, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "axilariumTreasure4" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier4Pool"},
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.30, 1],
+        [0.50, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "axilariumTreasure5" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier5Pool"},
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.30, 1],
+        [0.50, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}

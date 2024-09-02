@@ -1,0 +1,56 @@
+{
+  "doratorianWeaponsUniquePool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "ve_avikyros"},
+        {"weight" : 1.0, "item" : "ve_axakrios"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianWeaponsRandomPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.12, "pool" : "doratorianWeaponsUniquePool"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ],
+  "syrnlWeaponsTier1Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.25, "item" : "octhyratumbattlerifle"},
+        {"weight" : 0.25, "item" : "octhyratumbolter"},
+        {"weight" : 0.25, "item" : "octhyratumcombatrifle"},
+        {"weight" : 0.5, "item" : "talfieranbattlerifle"},
+        {"weight" : 0.5, "item" : "talfieranbolter"},
+        {"weight" : 0.5, "item" : "talfierancombatrifle"},
+        {"weight" : 1.0, "item" : "unitariumbattlerifle"},
+        {"weight" : 1.0, "item" : "unitariumbolter"},
+        {"weight" : 1.0, "item" : "unitariumcombatrifle"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrnlWeaponsRandomPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlWeaponsTier1Pool"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ]
+}

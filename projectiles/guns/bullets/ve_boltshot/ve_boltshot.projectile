@@ -1,0 +1,28 @@
+{
+  "projectileName" : "ve_boltshot",
+  "image" : "ve_boltshot.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "piercing" : true,
+  "pointLight" : false,
+  "timeToLive" : 0.1,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "trishot",
+      "inheritDamageFactor" : 0.333,
+      "angleAdjust" : 10
+    },
+    {
+      "action" : "projectile",
+      "type" : "trishot",
+      "inheritDamageFactor" : 0.333,
+      "angleAdjust" : -10
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 75,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

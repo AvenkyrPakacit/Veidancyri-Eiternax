@@ -1,0 +1,9 @@
+{
+  "name" : "fullblack",
+  "category" : "doratorianpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fullblack.png"
+  }
+}

@@ -1,0 +1,23 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/akatylian",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/eilasalian",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/voderaiarkai",
+		"value": [
+			"protectorate"
+		]
+	}
+]

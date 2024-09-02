@@ -1,0 +1,30 @@
+[
+	{
+		"op":"add",
+		"path":"/ve_archaic",
+		"value" : [
+			[0.60, "ember"],
+			[0.40, "glowingrain"]
+		]
+	},
+    {
+		"op":"add",
+		"path":"/ve_elder",
+		"value" : [
+			[0.30, "clear"],
+			[0.25, "drizzle"],
+			[0.25, "rain"],
+			[0.10, "snowstorm"],
+			[0.10, "storm"]
+		]
+	},
+    {
+		"op":"add",
+		"path":"/ve_primordial",
+		"value" : [
+			[0.15, "clear"],
+			[0.40, "ember"],
+			[0.45, "glowingrain"]
+		]
+	}
+]

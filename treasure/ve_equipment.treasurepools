@@ -1,0 +1,178 @@
+{
+  "doratorianEquipmentTier1Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorianArmourTier1Pool"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianEquipmentTier2Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorianArmourTier2Pool"},
+        {"weight" : 0.5, "pool" : "doratorianEquipmentTier3Pool"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianEquipmentTier3Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorianArmourTier3Pool"},
+        {"weight" : 0.5, "pool" : "doratorianEquipmentTier4Pool"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianEquipmentTier4Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorianArmourTier4Pool"},
+        {"weight" : 0.5, "pool" : "doratorianEquipmentTier5Pool"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianEquipmentTier5Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorianArmourTier5Pool"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianequipmentRandom" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorianEquipmentTier1Pool"},
+        {"weight" : 1.0, "pool" : "doratorianEquipmentTier2Pool"},
+        {"weight" : 1.0, "pool" : "doratorianEquipmentTier3Pool"},
+        {"weight" : 1.0, "pool" : "doratorianEquipmentTier4Pool"},
+        {"weight" : 1.0, "pool" : "doratorianEquipmentTier5Pool"},
+        {"weight" : 0.5, "pool" : "doratorianWeaponsRandomPools"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrnlEquipmentTier1Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlArmourTier1Pool"},
+        {"weight" : 0.5, "pool" : "syrnlEquipmentTier2Pool"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsTier1Pool"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrnlEquipmentTier2Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlArmourTier2Pool"},
+        {"weight" : 0.5, "pool" : "syrnlEquipmentTier3Pool"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsTier1Pool"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrnlEquipmentTier3Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlArmourTier3Pool"},
+        {"weight" : 0.5, "pool" : "syrnlEquipmentTier4Pool"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsTier1Pool"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrnlEquipmentTier4Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlArmourTier4Pool"},
+        {"weight" : 0.5, "pool" : "syrnlEquipmentTier5Pool"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsTier1Pool"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrnlEquipmentTier5Pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlArmourTier5Pool"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsTier1Pool"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "syrnlequipmentRandom" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier1Pool"},
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier2Pool"},
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier3Pool"},
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier4Pool"},
+        {"weight" : 1.0, "pool" : "syrnlEquipmentTier5Pool"},
+        {"weight" : 0.5, "pool" : "syrnlWeaponsRandomPools"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}

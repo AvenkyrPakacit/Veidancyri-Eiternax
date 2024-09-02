@@ -1,0 +1,28 @@
+{
+  "objectName" : "azkuvalianbannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A small azkuvalian wallbanner from a azkuvalian academy.",
+  "shortdescription" : "Small azkuvalian Wall Banner",
+  "race" : "akatylian",
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner! Charming!",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small azkuvalian banner...",
+  "humanDescription" : "The azkuvalian banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "inventoryIcon" : "azkuvalianbannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "azkuvalianbannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}
