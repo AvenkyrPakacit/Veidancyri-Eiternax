@@ -1,0 +1,11 @@
+{
+  "itemName" : "vedoratorm1bard",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm1bar.png",
+  "description" : "An Azyrtrum bar. Can be made into ^#F0DC82;Syrenalian Brass^white;.",
+  "shortdescription" : "Azyrtrum Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal1"],
+  "itemTags" : [ "reagent" ]
+}

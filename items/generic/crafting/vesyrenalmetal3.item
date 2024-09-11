@@ -1,0 +1,10 @@
+{
+  "itemName" : "vesyrenalmetal3",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm3bar.png",
+  "description" : "An ^#F0DC82;Syrenalian Bronze^white; bar.",
+  "shortdescription" : "^#F0DC82;Syrenalian Bronze^white;",
+  "itemTags" : [ "reagent" ]
+}

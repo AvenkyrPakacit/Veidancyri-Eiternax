@@ -1,0 +1,11 @@
+{
+  "itemName" : "vedoratorm4bard",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm4bar.png",
+  "description" : "An Eikalaskia bar. Can be made into ^#F0DC82;Syrenalian Steel^white;.",
+  "shortdescription" : "Eikalaskia Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal4"],
+  "itemTags" : [ "reagent" ]
+}

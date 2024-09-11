@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 5 },
+    { "item" : "vesyrenalmetal1", "count" : 5 },
     { "item" : "fabric", "count" : 5 },
     { "item" : "string", "count" : 1 } 
   ],

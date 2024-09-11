@@ -1,0 +1,11 @@
+{
+  "itemName" : "vedoratorm3barf",
+  "price" : 40,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm3bar.png",
+  "description" : "An Ikyrium bar. Can be made into ^#F0DC82;Syrenalian Bronze^white;.",
+  "shortdescription" : "Ikyrium Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal3"],
+  "itemTags" : [ "reagent" ]
+}

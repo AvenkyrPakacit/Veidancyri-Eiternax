@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "refinedferozium", "count" : 10 },
+    { "item" : "vesyrenalmetal4", "count" : 10 },
     { "item" : "silk", "count" : 1 },
     { "item" : "syntheticmaterial", "count" : 1 }
   ],

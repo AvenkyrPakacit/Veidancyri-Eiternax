@@ -1,0 +1,11 @@
+{
+  "itemName" : "vedoratorm4barf",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm4bar.png",
+  "description" : "An Eikalakita bar. Can be made into ^#F0DC82;Syrenalian Steel^white;.",
+  "shortdescription" : "Eikalakita Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal4"],
+  "itemTags" : [ "reagent" ]
+}

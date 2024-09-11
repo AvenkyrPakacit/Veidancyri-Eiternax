@@ -1,0 +1,12 @@
+{
+  "itemName" : "vedoratorm4ored",
+  "price" : 15,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm4ore.png",
+  "description" : "Eikalaskia ore. Can be used for smelting.",
+  "shortdescription" : "Eikalaskia Ore",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : ["vedoratorm4bard"],
+  "radioMessagesOnPickup" : [ "pickupore" ]
+}

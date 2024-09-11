@@ -1,0 +1,11 @@
+{
+  "itemName" : "vedoratorm2barf",
+  "price" : 40,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm2bar.png",
+  "description" : "An Avyramit bar. Can be made into ^#F0DC82;Syrenalian Chrome^white;.",
+  "shortdescription" : "Avyramit Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
+  "itemTags" : [ "reagent" ]
+}
