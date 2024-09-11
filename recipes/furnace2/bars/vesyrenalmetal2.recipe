@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "vedoratorm2ored", "count" : 1 },
+    { "item" : "vedoratorm2oref", "count" : 1 }
+  ],
+  "output" : { "item" : "vesyrenalmetal2", "count" : 2 },
+  "duration" : 0.15,
+  "groups" : [ "craftingfurnace", "bars", "all" ]
+}

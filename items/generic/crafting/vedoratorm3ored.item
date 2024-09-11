@@ -1,0 +1,12 @@
+{
+  "itemName" : "vedoratorm3ored",
+  "price" : 20,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm3ore.png",
+  "description" : "Ikfiinia ore. Can be used for smelting.",
+  "shortdescription" : "Ikfiinia Ore",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : ["vedoratorm3bard"],
+  "radioMessagesOnPickup" : [ "pickupore" ]
+}

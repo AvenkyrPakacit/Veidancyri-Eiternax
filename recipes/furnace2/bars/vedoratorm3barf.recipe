@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "vedoratorm3oref", "count" : 2 }
+  ],
+  "output" : { "item" : "vedoratorm3barf", "count" : 1 },
+  "duration" : 0.15,
+  "groups" : [ "craftingfurnace", "bars", "all" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "vesyrenalmetal1",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm1bar.png",
+  "description" : "An ^#F0DC82;Syrenalian Brass^white; bar.",
+  "shortdescription" : "^#F0DC82;Syrenalian Brass^white;",
+  "itemTags" : [ "reagent" ]
+}

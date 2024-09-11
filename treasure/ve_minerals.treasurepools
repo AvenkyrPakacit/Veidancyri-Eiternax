@@ -1,0 +1,156 @@
+{
+  "doratorian1metalPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vedoratorm1bard"},
+        {"weight" : 1.0, "item" : "vedoratorm1barf"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorian2metalPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vedoratorm2bard"},
+        {"weight" : 1.0, "item" : "vedoratorm2barf"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorian3metalPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vedoratorm3bard"},
+        {"weight" : 1.0, "item" : "vedoratorm3barf"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorian4metalPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vedoratorm4bard"},
+        {"weight" : 1.0, "item" : "vedoratorm4barf"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianmineralPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorian1mineralPool"},
+        {"weight" : 1.0, "pool" : "doratorian2mineralPool"},
+        {"weight" : 1.0, "pool" : "doratorian3mineralPool"},
+        {"weight" : 1.0, "pool" : "doratorian4mineralPool"}
+      ],
+      "poolRounds" : [
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorian1mineralPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vedoratorm1ored"},
+        {"weight" : 1.0, "item" : "vedoratorm1oref"},
+        {"weight" : 1.0, "pool" : "doratorian1metalPool"}
+      ],
+      "poolRounds" : [
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorian2mineralPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vedoratorm2ored"},
+        {"weight" : 1.0, "item" : "vedoratorm2oref"},
+        {"weight" : 1.0, "pool" : "doratorian2metalPool"}
+      ],
+      "poolRounds" : [
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorian3mineralPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vedoratorm3ored"},
+        {"weight" : 1.0, "item" : "vedoratorm3oref"},
+        {"weight" : 1.0, "pool" : "doratorian3metalPool"}
+      ],
+      "poolRounds" : [
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorian4mineralPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vedoratorm4ored"},
+        {"weight" : 1.0, "item" : "vedoratorm4oref"},
+        {"weight" : 1.0, "pool" : "doratorian4metalPool"}
+      ],
+      "poolRounds" : [
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "SyrenalianmetalPool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "vesyrenalmetal1"},
+        {"weight" : 1.0, "item" : "vesyrenalmetal2"},
+        {"weight" : 1.0, "item" : "vesyrenalmetal3"},
+        {"weight" : 1.0, "item" : "vesyrenalmetal4"}
+      ],
+      "poolRounds" : [
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}

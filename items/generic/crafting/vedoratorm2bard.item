@@ -1,0 +1,11 @@
+{
+  "itemName" : "vedoratorm2bard",
+  "price" : 40,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm2bar.png",
+  "description" : "An Avdawena bar. Can be made into ^#F0DC82;Syrenalian Chrome^white;.",
+  "shortdescription" : "Avdawena Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
+  "itemTags" : [ "reagent" ]
+}

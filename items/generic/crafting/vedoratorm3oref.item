@@ -1,0 +1,12 @@
+{
+  "itemName" : "vedoratorm3oref",
+  "price" : 20,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratorm3ore.png",
+  "description" : "Ikyrium ore. Can be used for smelting.",
+  "shortdescription" : "Ikyrium Ore",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : ["vedoratorm3barf"],
+  "radioMessagesOnPickup" : [ "pickupore" ]
+}
