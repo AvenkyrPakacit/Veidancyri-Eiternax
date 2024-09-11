@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "vesyrenalmetal1", "count" : 2 },
+    { "item" : "fabric", "count" : 2 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "syrenaliantier1pants", "count" : 1 },
+  "groups" : [ "craftinganvil", "armours", "all" ]
+}

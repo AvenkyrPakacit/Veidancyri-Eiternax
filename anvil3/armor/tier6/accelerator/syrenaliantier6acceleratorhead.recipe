@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "vesyrenalmetal4", "count" : 12 },
+    { "item" : "syrenaliantier5ahead", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "syrenaliantier6ahead", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "armours", "all" ]
+}
