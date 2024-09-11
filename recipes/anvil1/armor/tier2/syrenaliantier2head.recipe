@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "tungstenbar", "count" : 6 },
+    { "item" : "vesyrenalmetal2", "count" : 6 },
     { "item" : "cottonwool", "count" : 1 }
   ],
   "duration" : 5,

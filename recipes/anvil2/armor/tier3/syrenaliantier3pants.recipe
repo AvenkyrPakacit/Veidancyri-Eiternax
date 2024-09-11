@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "titaniumbar", "count" : 4 },
+    { "item" : "vesyrenalmetal3", "count" : 4 },
     { "item" : "canvas", "count" : 1 }
   ],
   "duration" : 5,
