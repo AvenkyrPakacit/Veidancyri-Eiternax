@@ -1,0 +1,34 @@
+[
+  	{ 	"op": "add", 
+		"path": "/pickupdoratorma4",
+		"value":
+		{
+			"type" : "tutorial",
+			"text" : "You've obtained a bar of archaic metal. This metal in particular can refined to produce a alloy of Syrenalian Steel."
+		}
+	},
+  	{ 	"op": "add", 
+		"path": "/pickupdoratorma3",
+		"value":
+		{
+			"type" : "tutorial",
+			"text" : "You've obtained a heavy weight bar of metal. This metal in particular can refined to produce a alloy of Syrenalian Bronze."
+		}
+	},
+  	{ 	"op": "add", 
+		"path": "/pickupdoratorma1",
+		"value":
+		{
+			"type" : "tutorial",
+			"text" : "You've obtained a light weight bar of metal. This metal in particular can refined to produce a alloy of Syrenalian Brass."
+		}
+	},
+  	{ 	"op": "add", 
+		"path": "/pickupdoratorma2",
+		"value":
+		{
+			"type" : "tutorial",
+			"text" : "You've obtained a medium weight bar of metal. This metal in particular can refined to produce a alloy of Syrenalian Chrome."
+		}
+	}
+]

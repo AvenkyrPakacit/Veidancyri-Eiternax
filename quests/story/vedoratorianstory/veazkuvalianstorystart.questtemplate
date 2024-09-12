@@ -1,0 +1,49 @@
+{
+  "id" : "veazkuvalianstorystart",
+  "mainQuest" : true,
+  "prerequisites" : [ "bootship" ],
+  "title" : "Azkuvalian Story - Starting Messages",
+  "text" : "This quest serves as an introduction to the Azkuvalian storyline.",
+  "completionText" : "This quest serves as an introduction to the Azkuvalian storyline..",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : false,
+  "showInLog" : false,
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "rewards" : [ ],
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/vehiddenradiomessage3.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "requireTurnIn" : false,
+    "conditions" : [ ],
+    "radioMessages" : {
+	  "startMessage" : {
+		"messageId" : "azkuvalianStoryStart",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Arekena Azkedara",
+		"text" : "So. It's clear you haven't heard my relations with the Zephyrs of Cyr. Yes, I am their leader. A bit trivial given things.."
+	  },
+	  "secondMessage" : {
+		"messageId" : "azkuvalianStoryStart2",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Sword of Cyr, Valindayr",
+		"text" : "Are mother, I.. there's a Veidancyri beacon somewhere that needs their attention."
+	  },
+	  "thirdMessage" : {
+		"messageId" : "azkuvalianStoryStart3",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Arekena Azkedara",
+		"text" : "Of course chi..son. Find that beacon and attune to it, if you will. I have things to do. May the light of fire guide your soul."
+	  }
+	},
+	"messageInterval" : 7,
+	"firstMessageDelay" : 1
+  }
+}

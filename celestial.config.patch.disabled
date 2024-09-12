@@ -14,7 +14,7 @@
         "value" : {
             "baseImages" : "/celestial/system/terrestrial/biomes/ve_elder/maskie<num>.png",
             "liquidImages" : "",
-            "dynamicsImages" : "/celestial/system/terrestrial/dynamics/ocean/<num>.png",
+            "dynamicsImages" : "/celestial/system/terrestrial/dynamics/temperate/<num>.png",
             "dynamicsRange" : [1, 50]
           }
         },
@@ -29,7 +29,7 @@
         "op" : "add",
         "path" : "/terrestrialHorizonGraphics/ve_primordial",
         "value" : {
-            "baseImages" : "/celestial/system/terrestrial/horizon/textures/ve_primordial_<selector>.png",
+            "baseImages" : "/celestial/system/terrestrial/horizon/textures/ve_primordial<selector>.png",
             "maskPerPlanetRange" : [3, 3]
             }
         },
@@ -39,7 +39,7 @@
         "value" : {
             "baseImages" : "/celestial/system/terrestrial/biomes/ve_primordial/maskie<num>.png",
             "liquidImages" : "",
-            "dynamicsImages" : "/celestial/system/terrestrial/dynamics/ocean/<num>.png",
+            "dynamicsImages" : "/celestial/system/terrestrial/dynamics/temperate/<num>.png",
             "dynamicsRange" : [1, 40]
           }
         },

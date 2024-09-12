@@ -1,0 +1,22 @@
+{
+  //Syrenalian story intro
+  "syrenalianstory-intro1" : {
+    "type" : "quest",
+    "senderName" : "High Monarch, Vanatiel Eiviozal",
+    "text" : "Wait this is actually working? Oh hi!",
+    "persistTime" : 7.0
+  },
+  "syrenalianstory-intro2" : {
+    "type" : "quest",
+    "senderName" : "Queen, Xethyral Vevinastra",
+    "text" : "That light going off, is indicating something. Let's see if I can trace it. And there!",
+    "persistTime" : 7.0
+  },
+  "syrenalianstory-intro3" : {
+    "type" : "quest",
+    "senderName" : "High Queen, Aeriskala Katafiera",
+    "text" : "It's a fucking beacon? For what? Gods who gives a flaming fuck, you there! Track it down, if you will!",
+    "portraitImage" : "yell.<frame>",
+    "persistTime" : 7.0
+  }
+}

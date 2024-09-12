@@ -1,0 +1,21 @@
+{
+  //Azkuvalian story intro
+  "azkuvalianstory-intro1" : {
+    "type" : "quest",
+    "senderName" : "Arekena Azkedara",
+    "text" : "So. It's clear you haven't heard my relations with the Zephyrs of Cyr. Yes, I am their leader. A bit trivial given things..",
+    "persistTime" : 7.0
+  },
+  "azkuvalianstory-intro2" : {
+    "type" : "quest",
+    "senderName" : "Sword of Cyr, Valindayr",
+    "text" : "Are..mother, I.. there's a Veidancyri beacon somewhere that needs their attention.",
+    "persistTime" : 7.0
+  },
+  "azkuvalianstory-intro3" : {
+    "type" : "quest",
+    "senderName" : "Arekena Azkedara",
+    "text" : "Of course chi..son. Find that beacon and attune to it, if you will. I have things to do. May the light of fire guide your soul.",
+    "persistTime" : 7.0
+  }
+}
