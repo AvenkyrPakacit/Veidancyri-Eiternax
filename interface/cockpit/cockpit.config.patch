@@ -1,0 +1,40 @@
+[
+  {
+    "op" : "add",
+    "path" : "/visitableTypeDescription/ve_elder",
+    "value" : [
+      "^#FFDF00;Elden^white; stone wrought forth to the spendor of elder trees.",
+      "^#BAA300;Elden^white; woods pierce the sky, shattering between the pillars.",
+      "Age prolonged between the wooden pillars, as the stone ages before time itself."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_elder",
+    "value" : "Elder"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_elder",
+    "value" : [255, 255, 0]
+  },
+  {
+    "op" : "add",
+    "path" : "/visitableTypeDescription/ve_primordial",
+    "value" : [
+      "^#A5A5CF;Primordial^white; vines cling to life, as the world makes known the ancient will.",
+      "^#7C7C9C;Primordial^white; metal of stone unturned, beckon forth dream's misery.",
+      "The plants move in a lively manner, as metal thrusts into the sky."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_primordial",
+    "value" : "Primordial"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_primordial",
+    "value" : [233, 116, 81]
+  }
+]
