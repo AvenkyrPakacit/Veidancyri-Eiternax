@@ -1,0 +1,49 @@
+{
+  "id" : "vedaestorystart",
+  "mainQuest" : true,
+  "prerequisites" : [ "bootship" ],
+  "title" : "Azkuvalian Story - Starting Messages",
+  "text" : "This quest serves as an introduction to the Azkuvalian storyline.",
+  "completionText" : "This quest serves as an introduction to the Azkuvalian storyline..",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : false,
+  "showInLog" : false,
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "rewards" : [ ],
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/vehiddenradiomessage3.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "requireTurnIn" : false,
+    "conditions" : [ ],
+    "radioMessages" : {
+	  "startMessage" : {
+		"messageId" : "azkuvalianStoryStart",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Se'leex",
+		"text" : "Ekluat akuit dae. Ekluat akuit shirask. Shirask akuit imaata. Imaata akuit shirask."
+	  },
+	  "secondMessage" : {
+		"messageId" : "azkuvalianStoryStart2",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Se'leex",
+		"text" : "Child of divine. Child of lesser soul. Lesser soul of guardian. Guardian of lesser soul."
+	  },
+	  "thirdMessage" : {
+		"messageId" : "azkuvalianStoryStart3",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Se'leex",
+		"text" : "Imaata guided by free will, not by one's own divine.."
+	  }
+	},
+	"messageInterval" : 7,
+	"firstMessageDelay" : 1
+  }
+}

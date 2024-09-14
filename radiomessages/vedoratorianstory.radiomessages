@@ -1,0 +1,21 @@
+{
+  //Doratorian story intro
+  "doratorianstory-intro1" : {
+    "type" : "quest",
+    "senderName" : "Avenkyr Daemina",
+    "text" : "Child, it's reasonable to see you alive. Things could've gone better.. My return from the eternal realm of creation, could've gone better..",
+    "persistTime" : 7.0
+  },
+  "doratorianstory-intro2" : {
+    "type" : "quest",
+    "senderName" : "Avenkyr Daemina",
+    "text" : "Dorator's 'fall', could've been prevented. And simply said: it remains regardless. Our home could've avoided that flame..",
+    "persistTime" : 7.0
+  },
+  "doratorianstory-intro3" : {
+    "type" : "quest",
+    "senderName" : "Avenkyr Daemina",
+    "text" : "If you will: find a Veidancyri beacon, and attune to it. May the blood be a sacrifice of sin. As we have all at one point or another.",
+    "persistTime" : 7.0
+  }
+}

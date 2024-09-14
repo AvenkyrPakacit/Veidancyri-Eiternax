@@ -65,18 +65,5 @@
           }
         ] ]
     ]
-  },
-  "statusControllerSettings" : {
-    "stats" : {
-      "maxHealth" : {
-        "baseValue" : 250.0
-      },
-      "powerMultiplier" : {
-        "baseValue" : 1.5
-      },
-      "protection" : {
-        "baseValue" : 1.5
-      }
-    }
   }
 }

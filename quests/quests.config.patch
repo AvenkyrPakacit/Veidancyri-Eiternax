@@ -3,21 +3,48 @@
 		"op": "add",
 		"path": "/initialquests/akatylian",
 		"value": [
-			"protectorate"
+			"protectorate",
+			"veazkuvalianstorystart"
 		]
 	},
 	{
 		"op": "add",
 		"path": "/initialquests/eilasalian",
 		"value": [
-			"protectorate"
+			"protectorate",
+			"vesyrenalianstorystart"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/einfieran",
+		"value": [
+			"protectorate",
+			"vesyrenalianstorystart"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/imaata",
+		"value": [
+			"protectorate",
+			"vedaestorystart"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/octusarian",
+		"value": [
+			"protectorate",
+			"vesyrenalianstorystart"
 		]
 	},
 	{
 		"op": "add",
 		"path": "/initialquests/voderaiarkai",
 		"value": [
-			"protectorate"
+			"protectorate",
+			"vedoratorianstorystart"
 		]
 	}
 ]

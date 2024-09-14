@@ -1,0 +1,62 @@
+[
+  [{
+    "op": "add",
+    "path": "/planetTypes/ve_elder",
+    "value": {
+      "threatRange" : [1,6],
+      "layers": {
+        "surface": {
+          "primaryRegion" : ["ve_elder"],
+          "secondaryRegions" : [],
+          "dungeons" : []
+        },
+        "subsurface" : {
+          "primaryRegion" : ["barrenunderground"]
+        },"core":{"primaryRegion":["core"]
+        }
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/regionTypes/ve_elder",
+    "value": {
+      "caveLiquid": ["water"],
+      "blockSelector": ["remixedMildSurface"],
+      "fgCaveSelector": ["surfaceCaves"],
+      "bgCaveSelector": ["empty"],
+      "biome": [[0,["ve_elder"]]],
+      "subRegion" : ["ve_primordial"]
+    }
+  }],
+  [{
+    "op": "add",
+    "path": "/planetTypes/ve_primordial",
+    "value": {
+      "threatRange" : [1,6],
+      "layers": {
+        "surface": {
+          "primaryRegion" : ["ve_primordial"],
+          "secondaryRegions" : [],
+          "dungeons" : []
+        },
+        "subsurface" : {
+          "primaryRegion" : ["barrenunderground"]
+        },"core":{"primaryRegion":["core"]
+        }
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/regionTypes/ve_primordial",
+    "value": {
+      "caveLiquid": ["water"],
+      "blockSelector": ["remixedMildSurface"],
+      "fgCaveSelector": ["surfaceCaves"],
+      "bgCaveSelector": ["empty"],
+      "biome": [[0,["ve_primordial"]]],
+      "subRegion" : ["ve_elder"]
+    }
+  }]
+]

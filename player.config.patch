@@ -1,5 +1,8 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/akatylian", "value" : [ "protectorate1", "protectorate2", "azkuvalianrecital" ] },
-{ "op" : "add", "path" : "/defaultCodexes/eilasalian", "value" : [ "protectorate1", "protectorate2" ] },
-{ "op" : "add", "path" : "/defaultCodexes/voderaiarkai", "value" : [ "protectorate1", "protectorate2", "doratoriantitles" ] }
+{ "op" : "add", "path" : "/defaultCodexes/akatylian", "value" : [ "azkuvalianrecital" ] },
+{ "op" : "add", "path" : "/defaultCodexes/eilasalian", "value" : [ "protectorate1" ] },
+{ "op" : "add", "path" : "/defaultCodexes/einfieran", "value" : [ "protectorate1" ] },
+{ "op" : "add", "path" : "/defaultCodexes/imaata", "value" : [ "protectorate1" ] },
+{ "op" : "add", "path" : "/defaultCodexes/octusarian", "value" : [ "protectorate1" ] },
+{ "op" : "add", "path" : "/defaultCodexes/voderaiarkai", "value" : [ "doratoriantitles" ] }
 ]

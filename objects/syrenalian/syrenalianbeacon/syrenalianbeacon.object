@@ -1,0 +1,28 @@
+{
+  "objectName" : "syrenalianbeacon",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 150,
+  "printable" : false,
+  "description" : "A beacon made of syrenalian chrome.",
+  "shortdescription" : "Syrenalian Beacon",
+  "race" : "eilasalian",
+  "apexDescription" : "A beacon...",
+  "avianDescription" : "A beacon! Oh how it glows!",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Weary. A beacon...",
+  "humanDescription" : "A beacon for whom?",
+  "hylotlDescription" : "This beacon is glows in combined light.",
+  "novakidDescription" : "Who left this becone here?",
+  "inventoryIcon" : "syrenalianbeaconicon.png",
+  "orientations" : [
+    {
+      "image" : "syrenalianbeacon.png:<color>",
+      "imagePosition" : [10, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}
