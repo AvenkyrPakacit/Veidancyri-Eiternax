@@ -1,0 +1,21 @@
+{
+  //Dae story intro
+  "vedaestory-intro1" : {
+    "type" : "quest",
+    "senderName" : "Se'leex",
+    "text" : "Ekluat akuit dae. Ekluat akuit shirask. Shirask akuit imaata. Imaata akuit shirask.",
+    "persistTime" : 7.0
+  },
+  "vedaestory-intro2" : {
+    "type" : "quest",
+    "senderName" : "Se'leex",
+    "text" : "Child of divine. Child of lesser soul. Lesser soul of guardian. Guardian of lesser soul.",
+    "persistTime" : 7.0
+  },
+  "vedaestory-intro3" : {
+    "type" : "quest",
+    "senderName" : "Se'leex",
+    "text" : "Imaata guided by free will, not by one's own divine..",
+    "persistTime" : 7.0
+  }
+}

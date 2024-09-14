@@ -25,6 +25,20 @@
       "allowDuplication" : false
     }]
   ],
+  "doratorianGenericCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.12, "item" : "doratoriandiary-codex"},
+        {"weight" : 1.0, "item" : "doratoriantitles-codex"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
   "octhyratumCodexPools" : [
     [1, {
       "pool" : [
