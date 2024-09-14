@@ -1,72 +1,62 @@
 [
-    {
-    "op" : "add",
-    "path" : "/planetTypes/ve_elder",
-    "value" : {
-      "blendSize" : 30,
-      "threatRange" : [6, 7],
-    "layers" : {
-        "space" : {
-            "primaryRegion" : ["asteroids"]
-            },
-            "surface" : {
-                "primaryRegion" : ["ve_elder"],
-                "secondaryRegions" : [ "alien", "forest", "jungle", "savannah" ]
-            },
-            "subsurface" : {
-                "primaryRegion" : ["subsurface"]
-            },
-            "underground1" : {
-                "primaryRegion" : ["shallowunderground"],
-                "secondaryRegions" : []
-            },
-            "underground2" : {
-                "primaryRegion" : ["midunderground"],
-                "secondaryRegions" : []
-            },
-            "underground3" : {
-                "primaryRegion" : ["deepunderground"],
-                "secondaryRegions" : []
-            },
-            "core" : {
-                "primaryRegion" : ["core"],
-                "baseHeight" : 150
-            }}
+  [{
+    "op": "add",
+    "path": "/planetTypes/ve_elder",
+    "value": {
+      "threatRange" : [1,6],
+      "layers": {
+        "surface": {
+          "primaryRegion" : ["ve_elder"],
+          "secondaryRegions" : [],
+          "dungeons" : []
+        },
+        "subsurface" : {
+          "primaryRegion" : ["barrenunderground"]
+        },"core":{"primaryRegion":["core"]
         }
-    },
-    {
-    "op" : "add",
-    "path" : "/planetTypes/ve_primordial",
-    "value" : {
-      "blendSize" : 30,
-      "threatRange" : [5, 6],
-    "layers" : {
-        "space" : {
-            "primaryRegion" : ["asteroids"]
-            },
-            "surface" : {
-                "primaryRegion" : ["ve_primordial"],
-                "secondaryRegions" : [ "alien", "forest", "jungle", "savannah" ]
-            },
-            "subsurface" : {
-                "primaryRegion" : ["subsurface"]
-            },
-            "underground1" : {
-                "primaryRegion" : ["shallowunderground"],
-                "secondaryRegions" : []
-            },
-            "underground2" : {
-                "primaryRegion" : ["midunderground"],
-                "secondaryRegions" : []
-            },
-            "underground3" : {
-                "primaryRegion" : ["deepunderground"],
-                "secondaryRegions" : []
-            },
-            "core" : {
-                "primaryRegion" : ["core"],
-                "baseHeight" : 150
-            }}
-        }
+      }
     }
+  },
+  {
+    "op": "add",
+    "path": "/regionTypes/ve_elder",
+    "value": {
+      "caveLiquid": ["water"],
+      "blockSelector": ["remixedMildSurface"],
+      "fgCaveSelector": ["surfaceCaves"],
+      "bgCaveSelector": ["empty"],
+      "biome": [[0,["ve_elder"]]],
+      "subRegion" : ["ve_primordial"]
+    }
+  }],
+  [{
+    "op": "add",
+    "path": "/planetTypes/ve_primordial",
+    "value": {
+      "threatRange" : [1,6],
+      "layers": {
+        "surface": {
+          "primaryRegion" : ["ve_primordial"],
+          "secondaryRegions" : [],
+          "dungeons" : []
+        },
+        "subsurface" : {
+          "primaryRegion" : ["barrenunderground"]
+        },"core":{"primaryRegion":["core"]
+        }
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/regionTypes/ve_primordial",
+    "value": {
+      "caveLiquid": ["water"],
+      "blockSelector": ["remixedMildSurface"],
+      "fgCaveSelector": ["surfaceCaves"],
+      "bgCaveSelector": ["empty"],
+      "biome": [[0,["ve_primordial"]]],
+      "subRegion" : ["ve_elder"]
+    }
+  }]
 ]
