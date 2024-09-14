@@ -11,6 +11,15 @@
   },
   {
     "op": "add",
+    "path": "/ve_DaeStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"}
+      ]
+    }]]
+  },
+  {
+    "op": "add",
     "path": "/DoratorianStarterTreasure",
     "value": [[0, {
       "fill" : [

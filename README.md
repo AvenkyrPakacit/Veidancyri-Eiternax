@@ -6,6 +6,28 @@
 
 Accessible via interacting with a Syrenalian Beacon.
 
+## Planets
+
+### Archaic
+
+### Arid
+
+### Elder
+
+### Frost
+
+### Lush
+
+### Penumbral
+
+### Plains
+
+### Primordial
+
+### Tropical
+
+### Wetland
+
 ## Playable Races
 
 ### Aizalvaran

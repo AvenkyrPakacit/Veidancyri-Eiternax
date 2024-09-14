@@ -4,7 +4,7 @@
 		"value":
 		{
 			"type" : "tutorial",
-			"text" : "You've obtained a bar of archaic metal. This metal in particular can refined to produce a alloy of Syrenalian Steel."
+			"text" : "You've obtained a bar of archaic metal. This metal in particular can be refined to produce a alloy of Syrenalian Steel."
 		}
 	},
   	{ 	"op": "add", 
@@ -12,7 +12,7 @@
 		"value":
 		{
 			"type" : "tutorial",
-			"text" : "You've obtained a heavy weight bar of metal. This metal in particular can refined to produce a alloy of Syrenalian Bronze."
+			"text" : "You've obtained a heavy weight bar of metal. This metal in particular can be refined to produce a alloy of Syrenalian Bronze."
 		}
 	},
   	{ 	"op": "add", 
@@ -20,7 +20,7 @@
 		"value":
 		{
 			"type" : "tutorial",
-			"text" : "You've obtained a light weight bar of metal. This metal in particular can refined to produce a alloy of Syrenalian Brass."
+			"text" : "You've obtained a light weight bar of metal. This metal in particular can be refined to produce a alloy of Syrenalian Brass."
 		}
 	},
   	{ 	"op": "add", 
@@ -28,7 +28,7 @@
 		"value":
 		{
 			"type" : "tutorial",
-			"text" : "You've obtained a medium weight bar of metal. This metal in particular can refined to produce a alloy of Syrenalian Chrome."
+			"text" : "You've obtained a medium weight bar of metal. This metal in particular can be refined to produce a alloy of Syrenalian Chrome."
 		}
 	}
 ]
