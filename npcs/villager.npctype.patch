@@ -28,6 +28,50 @@
 		]
 	},
 	{ "op" : "add",
+		"path" : "/items/einfieran",
+		"value" : [
+			[0, [
+				{
+				"chest" : [
+				  { "name" : "syrenalianoutfit1chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit2chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit3chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit4chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+				],
+
+				"legs" : [
+				  { "name" : "syrenalianoutfit1legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit2legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit3legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit4legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+					]
+				}
+			] ]
+		]
+	},
+	{ "op" : "add",
+		"path" : "/items/octusarian",
+		"value" : [
+			[0, [
+				{
+				"chest" : [
+				  { "name" : "syrenalianoutfit1chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit2chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit3chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit4chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+				],
+
+				"legs" : [
+				  { "name" : "syrenalianoutfit1legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit2legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit3legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "syrenalianoutfit4legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+					]
+				}
+			] ]
+		]
+	},
+	{ "op" : "add",
 		"path" : "/items/voderaiarkai",
 		"value" : [
 			[0, [

@@ -17,6 +17,30 @@
 	},
 	{
 		"op": "add",
+		"path": "/initialquests/einfieran",
+		"value": [
+			"protectorate",
+			"vesyrenalianstorystart"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/imaata",
+		"value": [
+			"protectorate",
+			"vedaestorystart"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/octusarian",
+		"value": [
+			"protectorate",
+			"vesyrenalianstorystart"
+		]
+	},
+	{
+		"op": "add",
 		"path": "/initialquests/voderaiarkai",
 		"value": [
 			"protectorate",
