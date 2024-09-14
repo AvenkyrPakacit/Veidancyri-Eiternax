@@ -64,7 +64,7 @@ Dyavi
 
 ### Eiltaresian
 
-Korshek Visage
+Dal Satrokian
 
 ### Syrenalian
 
