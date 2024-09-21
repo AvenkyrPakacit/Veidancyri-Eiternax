@@ -10,23 +10,43 @@ Accessible via interacting with a Syrenalian Beacon.
 
 ### Archaic
 
+Tier 6-10
+
 ### Arid
+
+Tier 4-8
 
 ### Elder
 
+Tier 1-8
+
 ### Frost
+
+Tier 5-10
 
 ### Lush
 
+Tier 1-6
+
 ### Penumbral
+
+Tier 5-8
 
 ### Plains
 
+Tier 3-6
+
 ### Primordial
+
+Tier 1-10
 
 ### Tropical
 
+Tier 3-9
+
 ### Wetland
+
+Tier 2-4
 
 ## Playable Races
 
@@ -64,7 +84,7 @@ Dyavi
 
 ### Eiltaresian
 
-Korshek Visage
+Dal Satrokian
 
 ### Syrenalian
 
