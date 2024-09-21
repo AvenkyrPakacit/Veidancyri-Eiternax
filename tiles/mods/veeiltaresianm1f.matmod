@@ -1,0 +1,18 @@
+{
+  "modId" : 9990,
+  "modName" : "veeiltaresianm1f",
+  "itemDrop" : "veeiltaresianm1oref",
+  "description" : "Azakstrafa.",
+  "health" : 2,
+  "harvestLevel" : 2,
+  "breaksWithTile" : true,
+  "miningSounds" : [ "/sfx/tools/pickaxe_ore.ogg", "/sfx/tools/pickaxe_ore2.ogg" ],
+  "miningParticle" : "orespark",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "veeiltaresianm1.png",
+    "variants" : 8,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

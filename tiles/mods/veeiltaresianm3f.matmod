@@ -1,0 +1,18 @@
+{
+  "modId" : 9986,
+  "modName" : "veeiltaresianm3f",
+  "itemDrop" : "veeiltaresianm3oref",
+  "description" : "Ikyrium.",
+  "health" : 4,
+  "harvestLevel" : 4,
+  "breaksWithTile" : true,
+  "miningSounds" : [ "/sfx/tools/pickaxe_ore.ogg", "/sfx/tools/pickaxe_ore2.ogg" ],
+  "miningParticle" : "orespark",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "veeiltaresianm23.png",
+    "variants" : 8,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

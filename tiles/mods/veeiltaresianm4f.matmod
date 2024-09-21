@@ -1,0 +1,18 @@
+{
+  "modId" : 9984,
+  "modName" : "veeiltaresianm4f",
+  "itemDrop" : "veeiltaresianm4oref",
+  "description" : "Eikalakita.",
+  "health" : 5,
+  "harvestLevel" : 5,
+  "breaksWithTile" : true,
+  "miningSounds" : [ "/sfx/tools/pickaxe_ore.ogg", "/sfx/tools/pickaxe_ore2.ogg" ],
+  "miningParticle" : "orespark",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "veeiltaresianm4.png",
+    "variants" : 8,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}
