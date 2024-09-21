@@ -7,5 +7,6 @@
   "description" : "An Ikyrium bar. Can be made into ^#F0DC82;Syrenalian Bronze^white;.",
   "shortdescription" : "Ikyrium Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal3"],
+  "radioMessagesOnPickup" : [ "pickupdoratorma3" ],
   "itemTags" : [ "reagent" ]
 }

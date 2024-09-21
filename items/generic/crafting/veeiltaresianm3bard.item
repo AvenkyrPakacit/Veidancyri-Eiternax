@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm3bard",
+  "price" : 40,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm3bar.png",
+  "description" : "An Ikfiinia bar.",
+  "shortdescription" : "Ikfiinia Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal3"],
+  "radioMessagesOnPickup" : [ "pickupeiltaresianma3" ],
+  "itemTags" : [ "reagent" ]
+}

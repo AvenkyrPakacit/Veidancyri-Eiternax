@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm4bard",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm4bar.png",
+  "description" : "An Eikalaskia bar.",
+  "shortdescription" : "Eikalaskia Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal4"],
+  "radioMessagesOnPickup" : [ "pickupeiltaresianma4" ],
+  "itemTags" : [ "reagent" ]
+}

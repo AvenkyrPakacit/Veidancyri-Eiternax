@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm2bard",
+  "price" : 40,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm2bar.png",
+  "description" : "An Avdawena bar.",
+  "shortdescription" : "Avdawena Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
+  "radioMessagesOnPickup" : [ "pickupeiltaresianma2" ],
+  "itemTags" : [ "reagent" ]
+}

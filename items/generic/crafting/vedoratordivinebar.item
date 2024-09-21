@@ -1,0 +1,10 @@
+{
+  "itemName" : "vedoratordivinebar",
+  "price" : 120,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratordivinebar.png",
+  "description" : "Diety's Bane.",
+  "shortdescription" : "Daeminashrei Wafer",
+  "itemTags" : [ "reagent" ]
+}

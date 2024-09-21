@@ -7,5 +7,6 @@
   "description" : "An Azyrtrum bar. Can be made into ^#F0DC82;Syrenalian Brass^white;.",
   "shortdescription" : "Azyrtrum Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal1"],
+  "radioMessagesOnPickup" : [ "pickupdoratorma1" ],
   "itemTags" : [ "reagent" ]
 }

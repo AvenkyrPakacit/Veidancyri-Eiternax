@@ -7,5 +7,6 @@
   "description" : "An Avdawena bar. Can be made into ^#F0DC82;Syrenalian Chrome^white;.",
   "shortdescription" : "Avdawena Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
+  "radioMessagesOnPickup" : [ "pickupdoratorma2" ],
   "itemTags" : [ "reagent" ]
 }
