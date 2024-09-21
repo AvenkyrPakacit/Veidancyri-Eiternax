@@ -1,0 +1,14 @@
+{
+  "name" : "voderaihunger",
+  "effectConfig" : {
+    // damage increase as percentage of missing food
+    "powerMultiplier" : 2,
+    "protection" : 1
+  },
+  "defaultDuration" : 5,
+  "scriptDelta" : 1,
+  "scripts" : [
+    "voderaihunger.lua"
+  ],
+  "label" : "Voracious Demeanor: Your instincts are empowered the closer you are to starvation."
+}

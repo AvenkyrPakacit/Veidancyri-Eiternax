@@ -1,16 +1,13 @@
 {
-  "kind" : "voderaiarkai",
+  "kind" : "thatylian",
 	"charCreationTooltip" : {
-	"title" : "Arkaedus",
-	"subTitle" : "Avian wolf cats",
-	"description" : "A psuedobipedal avian wolf cat, of voderai origin. As with their quadrupedal kindred, they are subject to their hunger.
-
-^#FFDF00;Prone to feral Instincts^white;"
+	"title" : "Thatyl",
+	"subTitle" : "Azkuvalian caste",
+	"description" : "A caste of Azkuvalians."
   },
-  "statusEffects" : [ "voderaihunger" ],
-  "nameGen" : [ "/species/doratoriannamegen.config:names", "/species/doratoriannamegen.config:names" ],
-  "ouchNoises" : [ "/sfx/humanoid/ve_voderaihurt.ogg", "/sfx/humanoid/ve_voderaihurt.ogg" ],
-  "charGenTextLabels" : [ "Primary colour", "Mane style", "Shirt", "Legwear", "Secondary colour", "Tertiary colour", "Shirt colour", "Legwear colour", "Voderai Arkai", "Personality" ],
+  "nameGen" : [ "/species/azkuvaliannamegen.config:names", "/species/azkuvaliannamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "Thatylian", "Personality" ],
   "skull" : "/humanoid/doratorian/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
@@ -92,8 +89,8 @@
   "genders" : [
     {
        "name" : "male",
-      "image" : "/interface/title/doratorianmaleico.png",
-      "characterImage" : "/interface/title/voderaiarkaimale.png",
+      "image" : "/interface/title/azkuvalianmaleico.png",
+      "characterImage" : "/interface/title/akatylianmale.png",
       "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
       "shirt" : [ "doratorianoutfit1chest", "doratorianoutfit2chest", "doratorianoutfit3chest", "doratorianoutfit4chest" ],
       "pants" : [ "doratorianoutfit1legs", "doratorianoutfit2legs", "doratorianoutfit3legs", "doratorianoutfit4legs" ],
@@ -104,8 +101,8 @@
     },
     {
       "name" : "female",
-      "image" : "/interface/title/doratorianfemico.png",
-      "characterImage" : "/interface/title/voderaiarkaifemale.png",
+      "image" : "/interface/title/azkuvalianfemico.png",
+      "characterImage" : "/interface/title/akatylianfemale.png",
       "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13", "fem14", "fem15", "fem16", "fem17", "fem18", "fem19", "fem20", "fem21", "fem22", "fem23", "fem24", "fem25", "fem26", "fem27", "fem28", "fem29", "fem30", "fem31", "fem32", "fem33", "fem34", "fem35", "fem36", "fem37", "fem38", "fem39", "fem40", "fem41", "fem42", "fem43", "fem44", "fem45", "fem46", "fem47", "fem48", "fem49", "fem50", "fem51", "fem52", "fem53", "fem54", "fem55", "fem56", "fem57", "fem58", "fem59", "fem60", "fem61", "fem62", "fem63", "fem64" ],
       "shirt" : [ "doratorianoutfit1chest", "doratorianoutfit2chest", "doratorianoutfit3chest", "doratorianoutfit4chest" ],
       "pants" : [ "doratorianoutfit1legs", "doratorianoutfit2legs", "doratorianoutfit3legs", "doratorianoutfit4legs" ],
