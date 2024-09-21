@@ -7,5 +7,6 @@
   "description" : "An Eikalakita bar. Can be made into ^#F0DC82;Syrenalian Steel^white;.",
   "shortdescription" : "Eikalakita Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal4"],
+  "radioMessagesOnPickup" : [ "pickupdoratorma4" ],
   "itemTags" : [ "reagent" ]
 }

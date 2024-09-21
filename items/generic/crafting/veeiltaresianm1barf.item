@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm1barf",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm1bar.png",
+  "description" : "An Azakstrafa bar.",
+  "shortdescription" : "Azakstrafa Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal1"],
+  "radioMessagesOnPickup" : [ "pickupeiltaresianma1" ],
+  "itemTags" : [ "reagent" ]
+}

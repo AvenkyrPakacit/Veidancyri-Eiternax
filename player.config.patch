@@ -4,5 +4,7 @@
 { "op" : "add", "path" : "/defaultCodexes/einfieran", "value" : [ "protectorate1" ] },
 { "op" : "add", "path" : "/defaultCodexes/imaata", "value" : [ "protectorate1" ] },
 { "op" : "add", "path" : "/defaultCodexes/octusarian", "value" : [ "protectorate1" ] },
-{ "op" : "add", "path" : "/defaultCodexes/voderaiarkai", "value" : [ "doratoriantitles" ] }
+{ "op" : "add", "path" : "/defaultCodexes/thatylian", "value" : [ "azkuvalianrecital" ] },
+{ "op" : "add", "path" : "/defaultCodexes/voderaiarkai", "value" : [ "doratoriantitles" ] },
+{ "op" : "add", "path" : "/defaultCodexes/xyatylian", "value" : [ "azkuvalianrecital" ] }
 ]

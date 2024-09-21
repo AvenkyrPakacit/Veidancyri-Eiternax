@@ -3,8 +3,11 @@
 	"charCreationTooltip" : {
 	"title" : "Arkaedus",
 	"subTitle" : "Avian wolf cats",
-	"description" : "A psuedobipedal avian wolf cat, of voderai origin. As with their quadrupedal kindred, they are subject to their hunger."
+	"description" : "A psuedobipedal avian wolf cat, of voderai origin. As with their quadrupedal kindred, they are subject to their hunger.
+
+^#FFDF00;Prone to feral Instincts^white;"
   },
+  "statusEffects" : [ "voderaihunger" ],
   "nameGen" : [ "/species/doratoriannamegen.config:names", "/species/doratoriannamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/ve_voderaihurt.ogg", "/sfx/humanoid/ve_voderaihurt.ogg" ],
   "charGenTextLabels" : [ "Primary colour", "Mane style", "Shirt", "Legwear", "Secondary colour", "Tertiary colour", "Shirt colour", "Legwear colour", "Voderai Arkai", "Personality" ],

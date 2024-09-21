@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm1bard",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm1bar.png",
+  "description" : "An Azyrtrum bar.",
+  "shortdescription" : "Azyrtrum Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal1"],
+  "radioMessagesOnPickup" : [ "pickupeiltaresianma1" ],
+  "itemTags" : [ "reagent" ]
+}

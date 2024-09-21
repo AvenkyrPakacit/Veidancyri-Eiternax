@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm2barf",
+  "price" : 40,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm2bar.png",
+  "description" : "An Avyramit bar.",
+  "shortdescription" : "Avyramit Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
+  "radioMessagesOnPickup" : [ "pickupeiltaresianma2" ],
+  "itemTags" : [ "reagent" ]
+}

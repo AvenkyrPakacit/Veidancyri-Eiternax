@@ -70,6 +70,20 @@
 		]
 	},
 	{ "op" : "add",
+		"path" : "/speciesShips/thatylian",
+		"value" : [
+		    "/ships/azkuvalian/azkuvaliant0.structure",
+			"/ships/azkuvalian/azkuvaliant1.structure",
+			"/ships/azkuvalian/azkuvaliant2.structure",
+			"/ships/azkuvalian/azkuvaliant3.structure",
+			"/ships/azkuvalian/azkuvaliant4.structure",
+			"/ships/azkuvalian/azkuvaliant5.structure",
+			"/ships/azkuvalian/azkuvaliant6.structure",
+			"/ships/azkuvalian/azkuvaliant7.structure",
+			"/ships/azkuvalian/azkuvaliant8.structure"
+		]
+	},
+	{ "op" : "add",
 		"path" : "/speciesShips/voderaiarkai",
 		"value" : [
 		    "/ships/doratorian/doratoriant0.structure",
@@ -81,6 +95,20 @@
 			"/ships/doratorian/doratoriant6.structure",
 			"/ships/doratorian/doratoriant7.structure",
 			"/ships/doratorian/doratoriant8.structure"
+		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/xyatylian",
+		"value" : [
+		    "/ships/azkuvalian/azkuvaliant0.structure",
+			"/ships/azkuvalian/azkuvaliant1.structure",
+			"/ships/azkuvalian/azkuvaliant2.structure",
+			"/ships/azkuvalian/azkuvaliant3.structure",
+			"/ships/azkuvalian/azkuvaliant4.structure",
+			"/ships/azkuvalian/azkuvaliant5.structure",
+			"/ships/azkuvalian/azkuvaliant6.structure",
+			"/ships/azkuvalian/azkuvaliant7.structure",
+			"/ships/azkuvalian/azkuvaliant8.structure"
 		]
 	}
 ]

@@ -1,8 +1,12 @@
 {
   "name" : "voderaihunger",
   "effectConfig" : {
+    // damage increase as percentage of missing food
+    "powerMultiplier" : 2,
+    "protection" : 1
   },
-  "defaultDuration" : 5.0,
+  "defaultDuration" : 5,
+  "scriptDelta" : 1,
   "scripts" : [
     "voderaihunger.lua"
   ],

@@ -1,0 +1,10 @@
+{
+  "itemName" : "vedoratordivinecloth",
+  "price" : 100,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratordivinecloth.png",
+  "description" : "A square of soft, ungodly heavy cloth",
+  "shortdescription" : "Daeminashrei Cloth",
+  "itemTags" : [ "reagent" ]
+}

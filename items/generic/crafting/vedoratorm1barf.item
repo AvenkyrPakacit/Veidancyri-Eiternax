@@ -7,5 +7,6 @@
   "description" : "An Azakstrafa bar. Can be made into ^#F0DC82;Syrenalian Brass^white;.",
   "shortdescription" : "Azakstrafa Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal1"],
+  "radioMessagesOnPickup" : [ "pickupdoratorma1" ],
   "itemTags" : [ "reagent" ]
 }

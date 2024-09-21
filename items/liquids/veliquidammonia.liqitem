@@ -1,0 +1,9 @@
+{
+  "itemName" : "veliquidammonia",
+  "rarity" : "Common",
+  "category" : "liquid",
+  "inventoryIcon" : "liquidammoniaicon.png",
+  "shortdescription" : "Liquid Ammonia",
+  "description" : "A ounce of liquid ammonia.",
+  "liquid" : "velammonia"
+}

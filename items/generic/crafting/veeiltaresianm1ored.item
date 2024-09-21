@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm1ored",
+  "price" : 15,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm1ore.png",
+  "description" : "Azyrtrum ore. Can be used for smelting.",
+  "shortdescription" : "Azyrtrum Ore",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : ["veeiltaresianm1bard"],
+  "radioMessagesOnPickup" : [ "pickupore" ]
+}

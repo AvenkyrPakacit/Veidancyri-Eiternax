@@ -1,9 +1,28 @@
 [
   {
     "op" : "add",
+    "path" : "/visitableTypeDescription/ve_arid",
+    "value" : [
+      "^#7B3F00;Sandy^white; pillars of civilization span deep the catacombs of ^#8A3324;Violence^white;.",
+      "^#8A3324;Violent^white; hordes span plenty across the ^#7B3F00;Sandy^white; steppes.",
+      "Wind courses throughout the sands, as nomads travel to avoid their untimely demise."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_arid",
+    "value" : "Arid"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_arid",
+    "value" : [152, 118, 84]
+  },
+  {
+    "op" : "add",
     "path" : "/visitableTypeDescription/ve_elder",
     "value" : [
-      "^#FFDF00;Elden^white; stone wrought forth to the spendor of elder trees.",
+      "^#FFDF00;Elden^white; stone wrought forth to the splendor of elder trees.",
       "^#BAA300;Elden^white; woods pierce the sky, shattering between the pillars.",
       "Age prolonged between the wooden pillars, as the stone ages before time itself."
       ]
@@ -17,6 +36,25 @@
     "op" : "add",
     "path" : "/planetTypeColors/ve_elder",
     "value" : [255, 255, 0]
+  },
+  {
+    "op" : "add",
+    "path" : "/visitableTypeDescription/ve_frost",
+    "value" : [
+      "^#ADDFAD;Frozen^white; wastelands of glacial patterns splinter the falls of ice.",
+      "^#98FF98;Frosted^white; plains of snow and ice comprise the glacial mountains.",
+      "Korshek spear to blade, devout intertwined amongst the frost blooded."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_frost",
+    "value" : "Frost"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_frost",
+    "value" : [175, 238, 238]
   },
   {
     "op" : "add",
@@ -36,5 +74,109 @@
     "op" : "add",
     "path" : "/planetTypeColors/ve_primordial",
     "value" : [233, 116, 81]
-  }
+  },
+  [{
+      "op": "test",
+      "path": "/displayOres/vedoratorm1ored",
+      "inverse": true
+    }, {
+      "op": "add",
+      "path": "/displayOres/vedoratorm1ored",
+      "value": {
+        "displayName": "Azyrtrum",
+        "icon": "/items/generic/crafting/vedoratorm1ore.png"
+      }
+    }
+  ],
+  [{
+      "op": "test",
+      "path": "/displayOres/vedoratorm1oref",
+      "inverse": true
+    }, {
+      "op": "add",
+      "path": "/displayOres/vedoratorm1oref",
+      "value": {
+        "displayName": "Azakstrafa",
+        "icon": "/items/generic/crafting/vedoratorm1ore.png"
+      }
+    }
+  ],
+  [{
+      "op": "test",
+      "path": "/displayOres/vedoratorm2ored",
+      "inverse": true
+    }, {
+      "op": "add",
+      "path": "/displayOres/vedoratorm2ored",
+      "value": {
+        "displayName": "Avdawena",
+        "icon": "/items/generic/crafting/vedoratorm2ore.png"
+      }
+    }
+  ],
+  [{
+      "op": "test",
+      "path": "/displayOres/vedoratorm2oref",
+      "inverse": true
+    }, {
+      "op": "add",
+      "path": "/displayOres/vedoratorm2oref",
+      "value": {
+        "displayName": "Avyramit",
+        "icon": "/items/generic/crafting/vedoratorm2ore.png"
+      }
+    }
+  ],
+  [{
+      "op": "test",
+      "path": "/displayOres/vedoratorm3ored",
+      "inverse": true
+    }, {
+      "op": "add",
+      "path": "/displayOres/vedoratorm3ored",
+      "value": {
+        "displayName": "Ikfiinia",
+        "icon": "/items/generic/crafting/vedoratorm3ore.png"
+      }
+    }
+  ],
+  [{
+      "op": "test",
+      "path": "/displayOres/vedoratorm3oref",
+      "inverse": true
+    }, {
+      "op": "add",
+      "path": "/displayOres/vedoratorm3oref",
+      "value": {
+        "displayName": "Ikyrium",
+        "icon": "/items/generic/crafting/vedoratorm3ore.png"
+      }
+    }
+  ],
+  [{
+      "op": "test",
+      "path": "/displayOres/vedoratorm4ored",
+      "inverse": true
+    }, {
+      "op": "add",
+      "path": "/displayOres/vedoratorm4ored",
+      "value": {
+        "displayName": "Eikalaskia",
+        "icon": "/items/generic/crafting/vedoratorm4ore.png"
+      }
+    }
+  ],
+  [{
+      "op": "test",
+      "path": "/displayOres/vedoratorm4oref",
+      "inverse": true
+    }, {
+      "op": "add",
+      "path": "/displayOres/vedoratorm4oref",
+      "value": {
+        "displayName": "Eikalakita",
+        "icon": "/items/generic/crafting/vedoratorm4ore.png"
+      }
+    }
+  ]
 ]

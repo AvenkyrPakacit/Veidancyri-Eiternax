@@ -1,0 +1,10 @@
+{
+  "itemName" : "vedoratordivineore",
+  "price" : 60,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "vedoratordivineore.png",
+  "description" : "Daeminashrei. Can be extracted for strands.",
+  "shortdescription" : "Daeminashrei",
+  "itemTags" : [ "reagent" ]
+}

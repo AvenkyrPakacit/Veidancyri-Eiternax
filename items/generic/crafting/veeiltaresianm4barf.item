@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm4barf",
+  "price" : 30,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm4bar.png",
+  "description" : "An Eikalakita bar.",
+  "shortdescription" : "Eikalakita Bar",
+  "learnBlueprintsOnPickup" : ["vesyrenalmetal4"],
+  "radioMessagesOnPickup" : [ "pickupeiltaresianma4" ],
+  "itemTags" : [ "reagent" ]
+}

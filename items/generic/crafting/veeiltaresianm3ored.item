@@ -1,0 +1,12 @@
+{
+  "itemName" : "veeiltaresianm3ored",
+  "price" : 20,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresianm3ore.png",
+  "description" : "Ikfiinia ore. Can be used for smelting.",
+  "shortdescription" : "Ikfiinia Ore",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : ["veeiltaresianm3bard"],
+  "radioMessagesOnPickup" : [ "pickupore" ]
+}
