@@ -12,11 +12,16 @@
       }
     },
     "buyFactor" : 1.0,
-    "sellFactor" : 0.2,
+    "sellFactor" : 0.5,
     "items" : [
-    { "item" : ["bomb", 5] },
+    { "item" : "vesyrenalmetal1" },
+    { "item" : "vesyrenalmetal2" },
+    { "item" : "vesyrenalmetal3" },
+    { "item" : "vesyrenalmetal4" },
     { "item" : "syrenalianbannerlarge" },
-	  { "item" : "syrenalianbannersmall" }
+    { "item" : "syrenalianbannersmall" },
+    { "item" : "syrenalianbeacon" },
+	  { "item" : "ve_syrnlliquidjuice" }
     ]
   },
   "description" : "Is that a Penguin?",

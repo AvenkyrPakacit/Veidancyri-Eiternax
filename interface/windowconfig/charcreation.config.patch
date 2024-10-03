@@ -1,5 +1,7 @@
 [
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "akatylian" },
+    { "op" : "add", "path" : "/speciesOrdering/-", "value" : "ashayashian" },
+    { "op" : "add", "path" : "/speciesOrdering/-", "value" : "eidraskian" },
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "eilasalian" },
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "einfieran" },
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "imaata" },
