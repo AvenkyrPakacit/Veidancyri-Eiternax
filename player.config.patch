@@ -1,5 +1,7 @@
 [
 { "op" : "add", "path" : "/defaultCodexes/akatylian", "value" : [ "azkuvalianrecital" ] },
+{ "op" : "add", "path" : "/defaultCodexes/ashayashian", "value" : [ "protectorate1" ] },
+{ "op" : "add", "path" : "/defaultCodexes/eidraskian", "value" : [ "protectorate1" ] },
 { "op" : "add", "path" : "/defaultCodexes/eilasalian", "value" : [ "protectorate1" ] },
 { "op" : "add", "path" : "/defaultCodexes/einfieran", "value" : [ "protectorate1" ] },
 { "op" : "add", "path" : "/defaultCodexes/imaata", "value" : [ "protectorate1" ] },
