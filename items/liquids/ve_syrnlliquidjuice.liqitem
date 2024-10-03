@@ -1,0 +1,11 @@
+{
+  "itemName" : "ve_syrnlliquidjuice",
+  "rarity" : "Legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "ve_syrnljuiceicon.png",
+  "shortdescription" : "Syrenalian juice",
+  "description" : "An ounce of coagulating liquid.",
+  "liquid" : "ve_syrnljuice",
+  "fuelAmount" : 3,
+  "price" : 3
+}

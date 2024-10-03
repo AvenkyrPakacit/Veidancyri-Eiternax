@@ -18,11 +18,11 @@ Tier 4-8
 
 ### Elder
 
-Tier 1-8
+Tier 1-8: Doratorian ores
 
 ### Frost
 
-Tier 5-10
+Tier 5-10: Eiltaresian ores
 
 ### Lush
 
@@ -52,44 +52,44 @@ Tier 2-4
 
 ### Aizalvaran
 
-Eidraskian
+Eidraskian: Twin Spirited
 
 ### Azkuvalian
 
-Akatylian
+Akatylian: Ath'yriimita's Grace
 
-Thatylian
+Thatylian: Ath'yriimita's Widom
 
-Xyatylian
+Xyatylian: Ath'yriimita's Justice
 
 ### Ashilesian
 
-Ashayashi
+Ashayashi: Drunken Swallow
 
 ### Dae
 
-I'maat'a
+I'maat'a: Celestial Guardian
 
 ### Dasdarfoxan
 
-Kalavylian
+Kalavylian: Psionic Siblings
 
 ### Doratorian
 
-Voderai Arkai
+Voderai Arkai: Voracious Demeanor
 
 ### Eilsavian
 
-Dyavi
+Dyavi: Life Woven
 
 ### Eiltaresian
 
-Dal Satrokian
+Dal Satrokian: Scientific Wisdom
 
 ### Syrenalian
 
-Eilasalian
+Eilasalian: Aura Affinity
 
-Einfieran
+Einfieran: Talco's Fury
 
-Octusarian
+Octusarian: Xethyrum's Will

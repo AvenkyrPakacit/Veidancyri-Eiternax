@@ -1,6 +1,15 @@
 [
   {
     "op": "add",
+    "path": "/AshilesianStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"}
+      ]
+    }]]
+  },
+  {
+    "op": "add",
     "path": "/AzkuvalianStarterTreasure",
     "value": [[0, {
       "fill" : [

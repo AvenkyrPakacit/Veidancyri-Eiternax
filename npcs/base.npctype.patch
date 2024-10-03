@@ -1,6 +1,38 @@
 [
   {
     "op": "add",
+    "path": "/scriptConfig/chatSounds/ashayashian",
+    "value": {
+      "male": [
+        "/sfx/humanoid/avian_chatter_female1.ogg",
+        "/sfx/humanoid/avian_chatter_female2.ogg",
+        "/sfx/humanoid/avian_chatter_female3.ogg"
+      ],
+      "female": [
+        "/sfx/humanoid/avian_chatter_female1.ogg",
+        "/sfx/humanoid/avian_chatter_female2.ogg",
+        "/sfx/humanoid/avian_chatter_female3.ogg"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/chatSounds/eidraskian",
+    "value": {
+      "male": [
+        "/sfx/humanoid/avian_chatter_female1.ogg",
+        "/sfx/humanoid/avian_chatter_female2.ogg",
+        "/sfx/humanoid/avian_chatter_female3.ogg"
+      ],
+      "female": [
+        "/sfx/humanoid/avian_chatter_female1.ogg",
+        "/sfx/humanoid/avian_chatter_female2.ogg",
+        "/sfx/humanoid/avian_chatter_female3.ogg"
+      ]
+    }
+  },
+  {
+    "op": "add",
     "path": "/scriptConfig/chatSounds/eilasalian",
     "value": {
       "male": [
@@ -52,14 +84,14 @@
     "path": "/scriptConfig/chatSounds/voderaiarkai",
     "value": {
       "male": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
+        "/sfx/humanoid/ve_voderairattle.ogg",
+        "/sfx/humanoid/ve_voderaichirp.ogg",
+        "/sfx/humanoid/ve_voderaichirprattle.ogg"
       ],
       "female": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
+        "/sfx/humanoid/ve_voderairattle.ogg",
+        "/sfx/humanoid/ve_voderaichirp.ogg",
+        "/sfx/humanoid/ve_voderaichirprattle.ogg"
       ]
     }
   }
