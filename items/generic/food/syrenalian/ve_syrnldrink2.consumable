@@ -1,0 +1,25 @@
+{
+  "itemName" : "ve_syrnldrink2",
+  "rarity" : "Uncommon",
+  "price" : 300,
+  "category" : "drink",
+  "inventoryIcon" : "ve_syrnldrink2.png",
+  "description" : "A fresh glass of Syrenalian juice.",
+  "shortdescription" : "Syrenalian Juice",
+  "effects" : [ [
+    {
+        "effect" : "burning",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 60,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}
