@@ -1,6 +1,41 @@
 [
 	{
 		"op": "add",
+		"path": "/helpme/eilasalian",
+		"value": {
+			"default": [
+				"I'm being attacked!",
+				"Help! Someone!",
+				"Help!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/helpme/einfieran",
+		"value": {
+			"default": [
+				"I'm being attacked!",
+				"Fucking help!",
+				"Help! Someone!",
+				"Help!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/helpme/octusarian",
+		"value": {
+			"default": [
+				"I'm being attacked!",
+				"Fucking help!",
+				"Help! Someone!",
+				"Help!"
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/helpme/voderaiarkai",
 		"value": {
 			"default": [

@@ -1,14 +1,53 @@
 [
 	{
 		"op": "add",
+		"path": "/converse/eilasalian",
+		"value": {
+			"default": [
+				"Anything of note vexara?",
+				"Anything you need vexara?",
+				"What exactly, vexara?",
+				"What vexara?",
+				"Need anything vexara?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/einfieran",
+		"value": {
+			"default": [
+				"Anything of note vexara?",
+				"Anything you need vexara?",
+				"What exactly, vexara?",
+				"What vexara?",
+				"Need anything vexara?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/octusarian",
+		"value": {
+			"default": [
+				"Anything of note vexara?",
+				"Anything you need vexara?",
+				"What exactly, vexara?",
+				"What vexara?",
+				"Need anything vexara?"
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/converse/voderaiarkai",
 		"value": {
 			"default": [
-				"Adventure ahoy!",
-				"Flying through space, running into misadventure... This is the life!",
-				"Life aboard a spaceship... Is anything more exciting?",
-				"Don't worry, you'll be safe with me around!",
-				"What lies next on the road ahead? Adventure, intrigue, pillaging? Not pillaging, right?"
+				"*Chattering bark* Anything of note?",
+				"*Chattering chirp* Anything you need?",
+				"*Chattering growl* What exactly?",
+				"*Chattering hiss* What?",
+				"*Chattering purr* Need anything?"
 			]
 		}
 	}
