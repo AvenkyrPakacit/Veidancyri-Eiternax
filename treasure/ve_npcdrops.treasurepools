@@ -3,12 +3,13 @@
     [1, {
       "pool" : [
         {"weight" : 1.0, "pool" : "syrnlEquipmentTier1Pool"},
-        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
       "poolRounds" : [
-        [0.20, 0],
-        [0.30, 1],
-        [0.50, 2]
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
       ],
       "allowDuplication" : false
     }]
@@ -17,12 +18,14 @@
     [1, {
       "pool" : [
         {"weight" : 1.0, "pool" : "syrnlEquipmentTier2Pool"},
-        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
       "poolRounds" : [
-        [0.20, 0],
-        [0.30, 1],
-        [0.50, 2]
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
       ],
       "allowDuplication" : false
     }]
@@ -31,12 +34,14 @@
     [1, {
       "pool" : [
         {"weight" : 1.0, "pool" : "syrnlEquipmentTier3Pool"},
-        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
       "poolRounds" : [
-        [0.20, 0],
-        [0.30, 1],
-        [0.50, 2]
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
       ],
       "allowDuplication" : false
     }]
@@ -45,12 +50,14 @@
     [1, {
       "pool" : [
         {"weight" : 1.0, "pool" : "syrnlEquipmentTier4Pool"},
-        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
       "poolRounds" : [
-        [0.20, 0],
-        [0.30, 1],
-        [0.50, 2]
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
       ],
       "allowDuplication" : false
     }]
@@ -59,12 +66,14 @@
     [1, {
       "pool" : [
         {"weight" : 1.0, "pool" : "syrnlEquipmentTier5Pool"},
-        {"weight" : 1.0, "pool" : "syrenalianCodexPools"}
+        {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
+        {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
       "poolRounds" : [
-        [0.20, 0],
-        [0.30, 1],
-        [0.50, 2]
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
       ],
       "allowDuplication" : false
     }]

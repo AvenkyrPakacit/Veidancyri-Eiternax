@@ -16,8 +16,8 @@
         }
       }
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_arid",
     "value": {
@@ -55,8 +55,8 @@
         }
       }
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_elder",
     "value": {
@@ -94,8 +94,8 @@
         }
       }
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_frost",
     "value": {
@@ -124,8 +124,8 @@
         }
       }
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_primordial",
     "value": {
@@ -137,7 +137,7 @@
       "subRegion" : ["ve_arid", "ve_elder", "ve_frost"]
     }
   }],
-  {
+  [{
     "op": "add",
     "path": "/regionTypes/ve_elderunderground1",
     "value": {
@@ -145,8 +145,8 @@
       "biome": [[0,["ve_elderunderground1"]]],
       "subRegion": []
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_elderunderground2",
     "value": {
@@ -154,8 +154,8 @@
       "biome": [[0,["ve_elderunderground2"]]],
       "subRegion": []
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_elderunderground3",
     "value": {
@@ -163,8 +163,8 @@
       "biome": [[0,["ve_elderunderground3"]]],
       "subRegion": []
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_eldercorelayer",
     "value": {
@@ -175,8 +175,8 @@
       "biome": [[0,["ve_eldercorelayer"]]],
       "subRegion": []
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_frostunderground1",
     "value": {
@@ -184,8 +184,8 @@
       "biome": [[0,["ve_frostunderground1"]]],
       "subRegion": []
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_frostunderground2",
     "value": {
@@ -193,8 +193,8 @@
       "biome": [[0,["ve_frostunderground2"]]],
       "subRegion": []
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_frostunderground3",
     "value": {
@@ -202,8 +202,8 @@
       "biome": [[0,["ve_frostunderground3"]]],
       "subRegion": []
     }
-  },
-  {
+  }],
+  [{
     "op": "add",
     "path": "/regionTypes/ve_frostcorelayer",
     "value": {
@@ -214,5 +214,5 @@
       "biome": [[0,["ve_eldercorelayer"]]],
       "subRegion": []
     }
-  }
+  }]
 ]

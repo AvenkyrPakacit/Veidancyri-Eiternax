@@ -39,6 +39,18 @@
       "allowDuplication" : false
     }]
   ],
+  "doratorianCodexPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "doratorianGenericCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
   "octhyratumCodexPools" : [
     [1, {
       "pool" : [
@@ -108,11 +120,13 @@
   "talfieranCodexPools" : [
     [1, {
       "pool" : [
+        {"weight" : 0.5, "item" : "syrnlfracking-codex"},
         {"weight" : 1.0, "item" : "syrnlvolunteer-codex"}
       ],
       "poolRounds" : [
-        [0.20, 0],
-        [0.60, 1]
+        [0.30, 0],
+        [0.50, 1],
+        [0.20, 2]
       ],
       "allowDuplication" : false
     }]

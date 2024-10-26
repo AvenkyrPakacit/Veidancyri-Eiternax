@@ -1,0 +1,18 @@
+{
+	"id" : "syrnlfracking",
+	"title" : "Talfieran Fracking Notices",
+	"description" : "A collection of work notices.",
+	"icon" : "talfierancover.png",
+	"contentPages" : [
+    "Does Talco have official permissions to divert resources outside of The Axilarium? - Xesamnum",
+	"Keeping these self-contained in order to prevent the usual devastation of the surrounding enviroment is higher value, in spite of The Axilarium's interests. - Varinesa",
+	"How is the way Talco handles these things more enviroment friendly? - Xesamnum",
+	"Because the tools we have isn't the usual fracking equipment. - Varinesa",
+	"What if The Axilarium finds out? - Xesamnum",
+	"Hon, just shut up and get back to guarding the place. We can fuck later. - Varinesa"
+	],
+		"itemConfig" : {
+		"rarity" : "uncommon",
+		"price" : 50
+	}
+}
