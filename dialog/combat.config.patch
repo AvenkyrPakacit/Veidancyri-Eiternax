@@ -1,6 +1,39 @@
 [
 	{
 		"op": "add",
+		"path": "/attack/eilasalian",
+		"value": {
+			"default": [
+				"Hostiles spotted!",
+				"Attack!",
+				"For Eilasalia!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/attack/einfieran",
+		"value": {
+			"default": [
+				"Hostiles spotted!",
+				"Attack!",
+				"For Einfiera!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/attack/octusarian",
+		"value": {
+			"default": [
+				"Hostiles spotted!",
+				"Attack!",
+				"For Octusaria!"
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/attack/voderaiarkai",
 		"value": {
 			"default": [
@@ -10,6 +43,84 @@
 				"*Rattling bark*",
 				"*Rattling growl*",
 				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/attack/voderaiarkai",
+		"value": {
+			"eilasalian": [
+				"*Growling bark*",
+				"*Growling bark* Syrenal!",
+				"*Growling chirp*",
+				"*Growling chirp* Vengeance!",
+				"*Growling hiss*",
+				"*Growling hiss* DIE SYRENALIAN!",
+				"*Rattling bark*",
+				"*Rattling bark* Fucking kill!",
+				"*Rattling growl*",
+				"*Rattling growl* May you perish, Syrenalian!",
+				"*Rattling hiss*"
+				"*Rattling hiss* Die Syrenal!"
+			],
+			"einfieran": [
+				"*Growling bark*",
+				"*Growling bark* Syrenal!",
+				"*Growling chirp*",
+				"*Growling chirp* Vengeance!",
+				"*Growling hiss*",
+				"*Growling hiss* DIE SYRENALIAN!",
+				"*Rattling bark*",
+				"*Rattling bark* Fucking kill!",
+				"*Rattling growl*",
+				"*Rattling growl* May you perish, Syrenalian!",
+				"*Rattling hiss*"
+				"*Rattling hiss* Die Syrenal!"
+			],
+			"octusarian": [
+				"*Growling bark*",
+				"*Growling bark* Syrenal!",
+				"*Growling chirp*",
+				"*Growling chirp* Vengeance!",
+				"*Growling hiss*",
+				"*Growling hiss* DIE SYRENALIAN!",
+				"*Rattling bark*",
+				"*Rattling bark* Fucking kill!",
+				"*Rattling growl*",
+				"*Rattling growl* May you perish, Syrenalian!",
+				"*Rattling hiss*"
+				"*Rattling hiss* Die Syrenal!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cantReach/eilasalian",
+		"value": {
+			"default": [
+				"Hostile's out of reach!",
+				"Target's out of reach!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cantReach/einfieran",
+		"value": {
+			"default": [
+				"Hostile's out of reach!",
+				"Target's out of reach!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cantReach/octusarian",
+		"value": {
+			"default": [
+				"Hostile's out of reach!",
+				"Target's out of reach!"
 			]
 		}
 	},
@@ -29,6 +140,33 @@
 	},
 	{
 		"op": "add",
+		"path": "/cheerOn/eilasalian",
+		"value": {
+			"default": [
+				"For Eilasalia!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cheerOn/einfieran",
+		"value": {
+			"default": [
+				"For Einfiera!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cheerOn/octusarian",
+		"value": {
+			"default": [
+				"For Octusaria!"
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/cheerOn/voderaiarkai",
 		"value": {
 			"default": [
@@ -38,6 +176,36 @@
 				"*Rattling bark*",
 				"*Rattling growl*",
 				"*Rattling hiss*"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/eilasalian",
+		"value": {
+			"default": [
+				"Hostile down!",
+				"Hostile's dealt with!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/einfieran",
+		"value": {
+			"default": [
+				"Hostile down!",
+				"Hostile's dealt with!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/octusarian",
+		"value": {
+			"default": [
+				"Hostile down!",
+				"Hostile's dealt with!"
 			]
 		}
 	},

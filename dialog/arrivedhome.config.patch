@@ -1,6 +1,45 @@
 [
 	{
 		"op": "add",
+		"path": "/beacon/eilasalian",
+		"value": {
+			"default": [
+				"Anything you need?",
+				"What is it?",
+				"Speak what you need.",
+				"Any reason for bothering me?",
+				"Speak, be brief."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/beacon/einfieran",
+		"value": {
+			"default": [
+				"Anything you need?",
+				"What is it?",
+				"Speak what you need.",
+				"Any reason for bothering me?",
+				"Speak, be brief."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/beacon/octusarian",
+		"value": {
+			"default": [
+				"Anything you need?",
+				"What is it?",
+				"Speak what you need.",
+				"Any reason for bothering me?",
+				"Speak, be brief."
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/beacon/voderaiarkai",
 		"value": {
 			"default": [
@@ -28,11 +67,44 @@
 	},
 	{
 		"op": "add",
+		"path": "/rent/eilasalian",
+		"value": {
+			"default": [
+				"Hope this covers everything.",
+				"Here, take it."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/einfieran",
+		"value": {
+			"default": [
+				"Hope this covers everything.",
+				"Here, take it."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/octusarian",
+		"value": {
+			"default": [
+				"Hope this covers everything.",
+				"Here, take it."
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/rent/voderaiarkai",
 		"value": {
 			"default": [
-				"I thought you might like this!",
-				"Here's a gift, for all your help."
+				"*Chattering bark* Here's a bit of something.",
+				"*Chattering chirp* A bit of something for you.",
+				"*Chattering growl* Here..",
+				"*Chattering hiss* Here! Now fuck off if you will!",
+				"*Chattering purr* May this be of use?"
 			]
 		}
 	}
