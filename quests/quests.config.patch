@@ -9,6 +9,13 @@
 	},
 	{
 		"op": "add",
+		"path": "/initialquests/ashayashian",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
 		"path": "/initialquests/eilasalian",
 		"value": [
 			"protectorate",
@@ -29,6 +36,13 @@
 		"value": [
 			"protectorate",
 			"vedaestorystart"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/kalavylian",
+		"value": [
+			"protectorate"
 		]
 	},
 	{

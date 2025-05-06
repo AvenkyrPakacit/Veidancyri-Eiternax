@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ansiamia", "count" : 1 }
+  ],
+  "output" : { "item" : "ansiamiajuice", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ]
+}

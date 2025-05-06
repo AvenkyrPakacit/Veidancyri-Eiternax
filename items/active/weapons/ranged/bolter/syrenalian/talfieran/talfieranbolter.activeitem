@@ -1,6 +1,6 @@
 {
   "itemName" : "talfieranbolter",
-  "price" : 990,
+  "price" : 2970,
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "description" : "A standard issue, bolter.",
@@ -20,11 +20,11 @@
   "primaryAbility" : {
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
-    "fireTime" : [0.11, 0.18],
-    "baseDps" : [9.5, 10.5],
+    "fireTime" : [0.33, 0.54],
+    "baseDps" : [28.5, 31.5],
     "energyUsage" : [28.5, 31.5],
-    "inaccuracy" : 0.02,
-    "burstTime" : 0.075,
+    "inaccuracy" : 0.06,
+    "burstTime" : 0.225,
     "burstCount" : [2,10],
     "fireType" : "burst",
     "projectileType" : "ve_boltshot",

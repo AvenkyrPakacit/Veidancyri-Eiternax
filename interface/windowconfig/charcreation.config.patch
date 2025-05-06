@@ -5,6 +5,7 @@
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "eilasalian" },
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "einfieran" },
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "imaata" },
+    { "op" : "add", "path" : "/speciesOrdering/-", "value" : "kalavylian" },
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "octusarian" },
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "thatylian" },
     { "op" : "add", "path" : "/speciesOrdering/-", "value" : "voderaiarkai" },

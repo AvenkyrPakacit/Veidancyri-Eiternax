@@ -20,62 +20,14 @@
     "path": "/scriptConfig/chatSounds/eidraskian",
     "value": {
       "male": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
+        "/sfx/humanoid/glitch_chatter_male1.ogg",
+        "/sfx/humanoid/glitch_chatter_male2.ogg",
+        "/sfx/humanoid/glitch_chatter_male3.ogg"
       ],
       "female": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/chatSounds/eilasalian",
-    "value": {
-      "male": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
-      ],
-      "female": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/chatSounds/einfieran",
-    "value": {
-      "male": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
-      ],
-      "female": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/chatSounds/octusarian",
-    "value": {
-      "male": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
-      ],
-      "female": [
-        "/sfx/humanoid/avian_chatter_female1.ogg",
-        "/sfx/humanoid/avian_chatter_female2.ogg",
-        "/sfx/humanoid/avian_chatter_female3.ogg"
+        "/sfx/humanoid/glitch_chatter_female1.ogg",
+        "/sfx/humanoid/glitch_chatter_female2.ogg",
+        "/sfx/humanoid/glitch_chatter_female3.ogg"
       ]
     }
   },

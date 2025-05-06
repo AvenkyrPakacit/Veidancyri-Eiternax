@@ -16,7 +16,6 @@
       "pool" : [
         {"weight" : 1.0, "pool" : "doratorianArmourRandomPools"},
         {"weight" : 1.0, "pool" : "doratorianCodexPools"},
-        {"weight" : 1.0, "pool" : "doratorianequipmentRandom"},
         {"weight" : 1.0, "pool" : "doratorianmineralPool"},
         {"weight" : 1.0, "pool" : "doratorianWeaponsRandomPools"}
       ],
@@ -34,7 +33,6 @@
       "pool" : [
         {"weight" : 1.0, "pool" : "syrnlArmourRandomPools"},
         {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
-        {"weight" : 1.0, "pool" : "syrnlequipmentRandom"},
         {"weight" : 1.0, "pool" : "SyrenalianmetalPool"},
         {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"},
         {"weight" : 1.0, "pool" : "SyrenalianBlueprintPools"}

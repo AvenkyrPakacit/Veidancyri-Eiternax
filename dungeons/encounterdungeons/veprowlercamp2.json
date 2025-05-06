@@ -59,8 +59,8 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":64,
-                 "y":264
+                 "x":80,
+                 "y":272
                 }, 
                 {
                  "height":8,
@@ -75,45 +75,29 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":104,
+                 "x":136,
                  "y":272
                 }, 
                 {
-                 "height":8,
-                 "id":781,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"voderaiarkai",
-                     "typeName":"doratorianpackfiend"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":168,
-                 "y":256
-                }, 
-                {
-                 "gid":2147490394,
+                 "gid":5468,
                  "height":16,
-                 "id":782,
+                 "id":784,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"basicTreasure\"]}"
+
                     },
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":24,
-                 "x":120,
+                 "width":48,
+                 "x":88,
                  "y":280
                 }, 
                 {
-                 "gid":5667,
-                 "height":10,
-                 "id":783,
+                 "gid":5642,
+                 "height":16,
+                 "id":785,
                  "name":"",
                  "properties":
                     {
@@ -123,7 +107,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":128,
+                 "x":104,
                  "y":264
                 }],
          "opacity":1,
@@ -400,7 +384,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":784,
+ "nextobjectid":787,
  "orientation":"orthogonal",
  "properties":
     {

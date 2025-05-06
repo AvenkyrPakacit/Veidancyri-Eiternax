@@ -29,12 +29,14 @@
     [1, {
       "pool" : [
         {"weight" : 0.12, "item" : "doratoriandiary-codex"},
+        {"weight" : 0.12, "item" : "doratoriandrawings-codex"},
         {"weight" : 1.0, "item" : "doratoriantitles-codex"}
       ],
       "poolRounds" : [
         [0.30, 0],
-        [0.50, 1],
-        [0.20, 2]
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
       ],
       "allowDuplication" : false
     }]
@@ -121,12 +123,14 @@
     [1, {
       "pool" : [
         {"weight" : 0.5, "item" : "syrnlfracking-codex"},
+        {"weight" : 0.25, "item" : "syrnlpoem-codex"},
         {"weight" : 1.0, "item" : "syrnlvolunteer-codex"}
       ],
       "poolRounds" : [
-        [0.30, 0],
-        [0.50, 1],
-        [0.20, 2]
+        [0.10, 0],
+        [0.20, 1],
+        [0.30, 2],
+        [0.40, 3]
       ],
       "allowDuplication" : false
     }]

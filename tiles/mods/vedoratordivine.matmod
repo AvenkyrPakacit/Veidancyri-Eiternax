@@ -2,7 +2,7 @@
   "modId" : 9983,
   "modName" : "vedoratordivine",
   "itemDrop" : "vedoratordivineore",
-  "description" : "Daeminashrei! Praise the miners!",
+  "description" : "Raw Daeminashrei! Praise the miners!",
   "health" : 6,
   "harvestLevel" : 6,
   "breaksWithTile" : true,

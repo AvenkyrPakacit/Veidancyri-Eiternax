@@ -1,0 +1,51 @@
+{
+  "objectName" : "talfieranmerchant",
+  "colonyTags" : ["syrenalian", "commerce"],
+  "rarity" : "Legendary",
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/merchant.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Commerce Table",
+        "subtitle" : "Stock"
+      }
+    },
+    "buyFactor" : 0.75,
+    "sellFactor" : 0.5,
+    "items" : [
+    { "item" : "syrenalianmerchant" },
+    { "item" : "talfieranbattlerifle" },
+    { "item" : "talfieranbolter" },
+    { "item" : "talfierancombatrifle" }
+    ]
+  },
+  "description" : "A Syrenalian trade table.",
+  "shortdescription" : "Syrenalian Trade Table",
+  "race" : "eilasalian",
+  "category" : "Merchant",
+  "price" : 1000,
+  "printable" : false,
+  "unbreakable" : false,
+  "apexDescription" : "A holographic table. Interesting.",
+  "avianDescription" : "By Kluex this table has a welcoming glow.",
+  "floranDescription" : "Floran findsss table pretty.",
+  "glitchDescription" : "Inquisitive. This table can be used for trade.",
+  "humanDescription" : "Hey! I can use this table to trade!",
+  "hylotlDescription" : "A finely crafted table. I should meditate on the glow.",
+  "novakidDescription" : "Don't see many tables like this 'round 'ere.",
+  "eilasalianDescription" : "A commerce table.",
+  "einfieranDescription" : "A commerce table.",
+  "octusarianDescription" : "A commerce table.",
+  "inventoryIcon" : "talfieranmerchanticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "talfieranmerchant.png:<color>.<frame>",
+      "imagePosition" : [-15, 0],
+      "frames" : 4,
+      "animationCycle" : 2,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

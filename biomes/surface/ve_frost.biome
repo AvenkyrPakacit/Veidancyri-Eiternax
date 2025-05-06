@@ -48,23 +48,21 @@
 
   "weather" : [
     [0, [
-      "/weather.config:snow"
+      "/weather.config:ve_frost"
     ]]
   ],
 
   "skyOptions" : [
     {
-      "mainColor" : [255, 255, 255],
-
-      "morningColors" : [ [174, 89, 47], [255, 197, 54] ],
-      "dayColors" : [ [255, 243, 231], [255, 255, 255] ],
-      "eveningColors" : [ [3, 90, 92], [250, 138, 77] ],
-      "nightColors" : [ [24, 38, 53, 80], [58, 42, 70, 160] ],
-
-      "morningLightColor" : [140, 71, 0],
-      "dayLightColor" : [200, 200, 200],
-      "eveningLightColor" : [180, 120, 120],
-      "nightLightColor" : [40, 20, 60]
+      "mainColor" : [175, 238, 238],
+      "morningColors" : [ [152, 255, 152], [173, 223, 173] ],
+      "dayColors" : [ [133, 181, 181], [101, 138, 138] ],
+      "eveningColors" : [ [135, 173, 135], [98, 163, 98] ],
+      "nightColors" : [ [75, 0, 130], [49, 0, 98] ],
+      "morningLightColor" : [109, 145, 35],
+      "dayLightColor" : [154, 205, 50],
+      "eveningLightColor" : [36, 107, 66],
+      "nightLightColor" : [28, 0, 56]
     }
   ],
 
@@ -85,10 +83,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg", "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg", "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
     }
   },
 

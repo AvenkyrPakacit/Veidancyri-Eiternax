@@ -1,0 +1,46 @@
+{
+  "objectName" : "ansiamiaseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "A Ansiamia plant, native to Dorator.",
+  "shortdescription" : "Ansiamia Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 15,
+  "apexDescription" : "Ansiamia. It looks nice",
+  "avianDescription" : "A simple ansiamia.",
+  "floranDescription" : "Ansssiamia iss a pretty flower.",
+  "glitchDescription" : "Approving. Ansiamias are pleasant to admire.",
+  "humanDescription" : "Ansiamias. It's a flower.",
+  "hylotlDescription" : "Ansiamias are beautiful flowers.",
+  "novakidDescription" : "The flowery ansiamia.",
+  "inventoryIcon" : "ansiamiaseedicon.png",
+  "tooltipKind" : "seed",
+  "largeImage" : "ansiamiaseed.png:default.2.0",
+  "orientations" : [
+    {
+      "dualImage" : "ansiamiaseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaces" : [ [0, 0], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+  "stages" : [
+    {
+      "duration" : [570, 630]
+    },
+    {
+      "duration" : [570, 630]
+    },
+    {
+      "alts" : 5,
+      "harvestPool" : "ansiamiaHarvest"
+    }
+  ],
+  "maxImmersion" : 0.25
+}

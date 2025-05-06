@@ -3,7 +3,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt17sOgCAMheHz6L6rbL6ELixEU5FebHqGfyN8CWFoG7C1n7YDkPJytPwV64ut6b1xLTzJ9TYtvSe3gunhjS5NmjRp0qSZ3awyJ0SZVebbqN0hakfSsGedu+Bo9Y7rvpkiTA03g+n1tv2c5j+SbG1Lsq290fXyMnYCB4dfig==",
+         "data":"eJzt1zEOgCAMheEe3bvK5iWUwYXEVOS1tekb\/o3wJYShbSJb+2m7iGh5OSh\/xfpiI703roWnud6mpffkVjA9vNGlSZMmTZo0s5tV5oQos8p8G7U7RO1ICHvWWfFRVu+47pspwkS4GUyvt73PIf+RZqMtzbb2RtfLy9gJwsFg7g==",
          "encoding":"base64",
          "height":45,
          "name":"back",
@@ -93,38 +93,6 @@
                  "width":8,
                  "x":128,
                  "y":272
-                }, 
-                {
-                 "height":8,
-                 "id":781,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"voderaiarkai",
-                     "typeName":"doratorianelderhunter"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":168,
-                 "y":256
-                }, 
-                {
-                 "gid":6746,
-                 "height":16,
-                 "id":782,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{\"treasurePools\":[\"basicTreasure\"]}"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":80,
-                 "y":280
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -250,7 +218,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":72,
+                 "x":80,
                  "y":280
                 }, 
                 {
@@ -314,7 +282,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":72,
+                 "x":80,
                  "y":280
                 }, 
                 {
@@ -400,7 +368,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":783,
+ "nextobjectid":782,
  "orientation":"orthogonal",
  "properties":
     {

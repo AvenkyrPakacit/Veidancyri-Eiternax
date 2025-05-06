@@ -7,6 +7,5 @@
   "description" : "An Ikfiinia bar. Can be made into ^#F0DC82;Syrenalian Bronze^white;.",
   "shortdescription" : "Ikfiinia Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal3"],
-  "radioMessagesOnPickup" : [ "pickupdoratorma3" ],
   "itemTags" : [ "reagent" ]
 }

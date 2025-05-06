@@ -2,7 +2,7 @@
   "axilariumTreasure1" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "pool" : "syrnlEquipmentTier1Pool"},
+        {"weight" : 1.0, "pool" : "syrnlArmourTier1Pool"},
         {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
         {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
@@ -17,7 +17,7 @@
   "axilariumTreasure2" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "pool" : "syrnlEquipmentTier2Pool"},
+        {"weight" : 1.0, "pool" : "syrnlArmourTier2Pool"},
         {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
         {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
@@ -33,7 +33,7 @@
   "axilariumTreasure3" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "pool" : "syrnlEquipmentTier3Pool"},
+        {"weight" : 1.0, "pool" : "syrnlArmourTier3Pool"},
         {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
         {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
@@ -49,7 +49,7 @@
   "axilariumTreasure4" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "pool" : "syrnlEquipmentTier4Pool"},
+        {"weight" : 1.0, "pool" : "syrnlArmourTier4Pool"},
         {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
         {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
@@ -65,7 +65,7 @@
   "axilariumTreasure5" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "pool" : "syrnlEquipmentTier5Pool"},
+        {"weight" : 1.0, "pool" : "syrnlArmourTier5Pool"},
         {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
         {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],

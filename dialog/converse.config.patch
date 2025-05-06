@@ -1,0 +1,54 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/eilasalian",
+		"value": {
+			"default": [
+				"Anything of note?",
+				"Anything you need?",
+				"What exactly?",
+				"What?",
+				"Need anything?"
+			]
+		}
+	},
+    {
+		"op": "add",
+		"path": "/converse/einfieran",
+		"value": {
+			"default": [
+				"Anything of note?",
+				"Anything you need?",
+				"What exactly?",
+				"What?",
+				"Need anything?"
+			]
+		}
+	},
+    {
+		"op": "add",
+		"path": "/converse/octusarian",
+		"value": {
+			"default": [
+				"Anything of note?",
+				"Anything you need?",
+				"What exactly?",
+				"What?",
+				"Need anything?"
+			]
+		}
+	},
+    {
+		"op": "add",
+		"path": "/converse/voderaiarkai",
+		"value": {
+			"default": [
+				"*Chattering bark* Anything of note?",
+				"*Chattering chirp* Anything you need?",
+				"*Chattering growl* Anyone else to bother?",
+				"*Chattering hiss* What exactly?",
+				"*Chattering purr* Need anything?"
+			]
+		}
+	}
+]

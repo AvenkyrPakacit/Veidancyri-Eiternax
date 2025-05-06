@@ -7,9 +7,48 @@
 			[0.40, "glowingrain"]
 		]
 	},
+	{
+		"op":"add",
+		"path":"/ve_arid",
+		"value" : [
+			[0.60, "ember"],
+			[0.40, "glowingrain"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/ve_frost",
+		"value" : [
+			[0.20, "snowstorm"],
+			[0.20, "icestorm"],
+			[0.60, "snow"]
+		]
+	},
+	{
+		"op":"add",
+		"path":"/ve_plains",
+		"value" : [
+			[0.30, "clear"],
+			[0.25, "drizzle"],
+			[0.25, "rain"],
+			[0.10, "snowstorm"],
+			[0.10, "storm"]
+		]
+	},
     {
 		"op":"add",
 		"path":"/ve_elder",
+		"value" : [
+			[0.30, "clear"],
+			[0.25, "drizzle"],
+			[0.25, "rain"],
+			[0.10, "snowstorm"],
+			[0.10, "storm"]
+		]
+	},
+    {
+		"op":"add",
+		"path":"/ve_lush",
 		"value" : [
 			[0.30, "clear"],
 			[0.25, "drizzle"],

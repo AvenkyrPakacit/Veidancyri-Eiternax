@@ -1,6 +1,25 @@
 [
   {
     "op" : "add",
+    "path" : "/visitableTypeDescription/ve_archaic",
+    "value" : [
+      "^#FADADD;Archaic^white; witness to the eternal fire.",
+      "^#E75480;Magic^white; bears significance upon the flame of sin.",
+      "^#FADADD;Archaic^white; ^#E75480;Magic^white; flows throughout the veins of the world."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_archaic",
+    "value" : "Archaic"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_archaic",
+    "value" : [250, 218, 221]
+  },
+  {
+    "op" : "add",
     "path" : "/visitableTypeDescription/ve_arid",
     "value" : [
       "^#7B3F00;Sandy^white; pillars of civilization span deep the catacombs of ^#8A3324;Violence^white;.",
@@ -17,6 +36,44 @@
     "op" : "add",
     "path" : "/planetTypeColors/ve_arid",
     "value" : [152, 118, 84]
+  },
+  {
+    "op" : "add",
+    "path" : "/visitableTypeDescription/ve_lush",
+    "value" : [
+      "^#00A86B;Lush^white; natural gardens spring to live across the word's surface.",
+      "^#006B44;Blessings^white; of eilasalian bounty spans across the ^#00A86B;Lush^white; enviroment.",
+      "A calm wind spans the surface, whistling fourth a natural song."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_lush",
+    "value" : "Lush"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_lush",
+    "value" : [0, 168, 107]
+  },
+  {
+    "op" : "add",
+    "path" : "/visitableTypeDescription/ve_plains",
+    "value" : [
+      "^#454F59;Plains^white; span the world's surface, as rivers flow throughout.",
+      "^#262B30;Gentle^white; sogns of eilsavian age spans across the ^#454F59;Plains^white;.",
+      "A calm wind spans the surface, echoing past songs."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_plains",
+    "value" : "Plains"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_plains",
+    "value" : [112, 128, 144]
   },
   {
     "op" : "add",
@@ -74,6 +131,63 @@
     "op" : "add",
     "path" : "/planetTypeColors/ve_primordial",
     "value" : [233, 116, 81]
+  },
+  {
+    "op" : "add",
+    "path" : "/visitableTypeDescription/ve_tropical",
+    "value" : [
+      "^#E34234;Magmatic^white; cinders spark the jungle in ^#C04000;Flame^white;.",
+      "^#C04000;Flame^white; kindles as sparks of ^#E34234;Magma^white;.",
+      "Incediary sparks bring chaos to life."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_tropical",
+    "value" : "Tropical"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_tropical",
+    "value" : [244, 194, 194]
+  },
+  {
+    "op" : "add",
+    "path" : "/visitableTypeDescription/ve_penumbral",
+    "value" : [
+      "The ^#DF73FF;eternal glow^white; watches in wait, to prowl upon prey in darkness.",
+      "^#606;Darkness^white; shrouds the land.",
+      "Despair awaits those without light."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_penumbral",
+    "value" : "Penumbral"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_penumbral",
+    "value" : [223, 115, 255]
+  },
+  {
+    "op" : "add",
+    "path" : "/visitableTypeDescription/ve_wetland",
+    "value" : [
+      "The ^#ADDFAD;glow^white; of the swamplands gathers herbs and fish alike.",
+      "^#ADFF2F;Water^white; spreads throughout, seeking fish.",
+      "Fish swim throughout the swamp as Ashayashians fish along with."
+      ]
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeNames/ve_wetland",
+    "value" : "Wetland"
+  },
+  {
+    "op" : "add",
+    "path" : "/planetTypeColors/ve_wetland",
+    "value" : [173, 223, 173]
   },
   [{
       "op": "test",

@@ -14,6 +14,9 @@
     "buyFactor" : 1.0,
     "sellFactor" : 0.5,
     "items" : [
+    { "item" : "octhyratummerchant" },
+    { "item" : "talfieranmerchant" },
+    { "item" : "unitariummerchant" },
     { "item" : "vesyrenalmetal1" },
     { "item" : "vesyrenalmetal2" },
     { "item" : "vesyrenalmetal3" },
@@ -21,6 +24,7 @@
     { "item" : "ve_syrnldrink1" },
     { "item" : "ve_syrnldrink2" },
     { "item" : "ve_syrnldrink3" },
+    { "item" : "commonsyrnlpolearm" },
     { "item" : "syrenalianoutfit1chest" },
     { "item" : "syrenalianoutfit1legs" },
     { "item" : "syrenalianoutfit2chest" },

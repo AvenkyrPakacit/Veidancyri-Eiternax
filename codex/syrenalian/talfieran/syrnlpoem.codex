@@ -1,0 +1,30 @@
+{
+	"id" : "syrnlpoem",
+	"title" : "Alvaneia's upon the flame's sun",
+	"description" : "Poetry.",
+	"icon" : "talfierancover.png",
+	"contentPages" : [
+    "Alvaneia Talfiera
+
+Calm cinders of fire's light. Cinders of flame born to light. Words spark from written flame.",
+	"Varinesa Talfiera
+
+Divine flame is sparked upon the world. Yet she cares not for her birthright, but for those around.",
+	"Fiera Talfiera, The Singer of Flames
+
+The alluring light burns with passionate flame.
+A song echoes the flame that burns within the heart.
+A fiery heart that beckons the love of those around.
+For even a mere spark can set a world alight.",
+	"Kata 'Hellshot' Shavikskala, The Hell Omen
+
+A flame kindled from the depths of Hell.
+An angel of fire bursts forth upon the world.
+An eye blazing with hellish flame.
+For the Hand of Kata, fires his hellish shot."
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 75
+	}
+}
