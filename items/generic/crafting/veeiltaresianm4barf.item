@@ -7,6 +7,5 @@
   "description" : "An Eikalakita bar.",
   "shortdescription" : "Eikalakita Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal4"],
-  "radioMessagesOnPickup" : [ "pickupeiltaresianma4" ],
   "itemTags" : [ "reagent" ]
 }

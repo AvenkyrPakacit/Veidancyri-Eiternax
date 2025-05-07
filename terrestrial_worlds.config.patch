@@ -1,218 +1,901 @@
 [
-  [{
-    "op": "add",
-    "path": "/planetTypes/ve_arid",
-    "value": {
-      "threatRange" : [4,8],
-      "layers": {
-        "surface": {
-          "primaryRegion" : ["ve_arid"],
-          "secondaryRegions" : [],
-          "dungeons" : []
-        },
-        "subsurface" : {
-          "primaryRegion" : ["barrenunderground"]
-        },"core":{"primaryRegion":["core"]
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_arid",
+            "value": {
+                "threatRange": [
+                    4,
+                    8
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_arid"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "barrenunderground"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "core"
+                        ]
+                    }
+                }
+            }
         }
-      }
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_arid",
-    "value": {
-      "caveLiquid": ["water"],
-      "blockSelector": ["remixedMildSurface"],
-      "fgCaveSelector": ["surfaceCaves"],
-      "bgCaveSelector": ["empty"],
-      "biome": [[0,["ve_arid"]]],
-      "subRegion" : ["ve_elder", "ve_primordial"]
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/planetTypes/ve_elder",
-    "value": {
-      "threatRange" : [1,8],
-      "layers": {
-        "surface": {
-          "primaryRegion" : ["ve_elder"],
-          "secondaryRegions" : [],
-          "dungeons" : []
-        },
-        "subsurface" : {
-          "primaryRegion" : ["ve_elderunderground1"]
-        },
-        "underground1" : {
-          "primaryRegion" : ["ve_elderunderground1"]
-        },
-        "underground2" : {
-          "primaryRegion" : ["ve_elderunderground2"]
-        },
-        "underground3" : {
-          "primaryRegion" : ["ve_elderunderground3"]
-        },"core":{"primaryRegion":["ve_eldercorelayer"]
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_arid",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_arid"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_elder",
+                    "ve_archaic",
+                    "ve_lush",
+                    "ve_plains",
+                    "ve_frost",
+                    "ve_tropical",
+                    "ve_penumbral",
+                    "ve_primordial"
+                ]
+            }
         }
-      }
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_elder",
-    "value": {
-      "caveLiquid": ["water"],
-      "blockSelector": ["remixedMildSurface"],
-      "fgCaveSelector": ["surfaceCaves"],
-      "bgCaveSelector": ["empty"],
-      "biome": [[0,["ve_elder"]]],
-      "subRegion" : ["ve_arid", "ve_frost", "ve_primordial"]
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/planetTypes/ve_frost",
-    "value": {
-      "threatRange" : [1,8],
-      "layers": {
-        "surface": {
-          "primaryRegion" : ["ve_frost"],
-          "secondaryRegions" : [],
-          "dungeons" : []
-        },
-        "subsurface" : {
-          "primaryRegion" : ["ve_frostunderground1"]
-        },
-        "underground1" : {
-          "primaryRegion" : ["ve_frostunderground1"]
-        },
-        "underground2" : {
-          "primaryRegion" : ["ve_frostunderground2"]
-        },
-        "underground3" : {
-          "primaryRegion" : ["ve_frostunderground3"]
-        },"core":{"primaryRegion":["ve_frostcorelayer"]
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_archaic",
+            "value": {
+                "threatRange": [
+                    4,
+                    8
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_archaic"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "barrenunderground"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "core"
+                        ]
+                    }
+                }
+            }
         }
-      }
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_frost",
-    "value": {
-      "caveLiquid": ["velammonia"],
-      "blockSelector": ["remixedMildSurface"],
-      "fgCaveSelector": ["surfaceCaves"],
-      "bgCaveSelector": ["empty"],
-      "biome": [[0,["ve_frost"]]],
-      "subRegion" : ["ve_elder", "ve_arid", "ve_primordial"]
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/planetTypes/ve_primordial",
-    "value": {
-      "threatRange" : [1,10],
-      "layers": {
-        "surface": {
-          "primaryRegion" : ["ve_primordial"],
-          "secondaryRegions" : [],
-          "dungeons" : []
-        },
-        "subsurface" : {
-          "primaryRegion" : ["barrenunderground"]
-        },"core":{"primaryRegion":["core"]
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_archaic",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_archaic"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_elder",
+                    "ve_arid",
+                    "ve_lush",
+                    "ve_plains",
+                    "ve_frost",
+                    "ve_tropical",
+                    "ve_penumbral",
+                    "ve_primordial"
+                ]
+            }
         }
-      }
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_primordial",
-    "value": {
-      "caveLiquid": ["water"],
-      "blockSelector": ["remixedMildSurface"],
-      "fgCaveSelector": ["surfaceCaves"],
-      "bgCaveSelector": ["empty"],
-      "biome": [[0,["ve_primordial"]]],
-      "subRegion" : ["ve_arid", "ve_elder", "ve_frost"]
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_elderunderground1",
-    "value": {
-      "caveLiquid": [ "water" ],
-      "biome": [[0,["ve_elderunderground1"]]],
-      "subRegion": []
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_elderunderground2",
-    "value": {
-      "caveLiquid": [ "water" ],
-      "biome": [[0,["ve_elderunderground2"]]],
-      "subRegion": []
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_elderunderground3",
-    "value": {
-      "caveLiquid": [ "water" ],
-      "biome": [[0,["ve_elderunderground3"]]],
-      "subRegion": []
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_eldercorelayer",
-    "value": {
-      "caveLiquid": [ "lava" ],
-      "blockSelector" : [ "coreCaves" ],
-      "fgCaveSelector" : [ "empty" ],
-      "bgCaveSelector" : [ "empty" ],
-      "biome": [[0,["ve_eldercorelayer"]]],
-      "subRegion": []
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_frostunderground1",
-    "value": {
-      "caveLiquid": [ "velammonia" ],
-      "biome": [[0,["ve_frostunderground1"]]],
-      "subRegion": []
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_frostunderground2",
-    "value": {
-      "caveLiquid": [ "velammonia" ],
-      "biome": [[0,["ve_frostunderground2"]]],
-      "subRegion": []
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_frostunderground3",
-    "value": {
-      "caveLiquid": [ "velammonia" ],
-      "biome": [[0,["ve_frostunderground3"]]],
-      "subRegion": []
-    }
-  }],
-  [{
-    "op": "add",
-    "path": "/regionTypes/ve_frostcorelayer",
-    "value": {
-      "caveLiquid": [ "velammonia" ],
-      "blockSelector" : [ "coreCaves" ],
-      "fgCaveSelector" : [ "empty" ],
-      "bgCaveSelector" : [ "empty" ],
-      "biome": [[0,["ve_eldercorelayer"]]],
-      "subRegion": []
-    }
-  }]
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_elder",
+            "value": {
+                "threatRange": [
+                    1,
+                    8
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_elder"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "ve_elderunderground1"
+                        ]
+                    },
+                    "underground1": {
+                        "primaryRegion": [
+                            "ve_elderunderground1"
+                        ]
+                    },
+                    "underground2": {
+                        "primaryRegion": [
+                            "ve_elderunderground2"
+                        ]
+                    },
+                    "underground3": {
+                        "primaryRegion": [
+                            "ve_elderunderground3"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "ve_eldercorelayer"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_elder",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_elder"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_arid",
+                    "ve_archaic",
+                    "ve_frost",
+                    "ve_lush",
+                    "ve_plains",
+                    "ve_tropical",
+                    "ve_penumbral",
+                    "ve_primordial"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_frost",
+            "value": {
+                "threatRange": [
+                    5,
+                    10
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_frost"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "ve_frostunderground1"
+                        ]
+                    },
+                    "underground1": {
+                        "primaryRegion": [
+                            "ve_frostunderground1"
+                        ]
+                    },
+                    "underground2": {
+                        "primaryRegion": [
+                            "ve_frostunderground2"
+                        ]
+                    },
+                    "underground3": {
+                        "primaryRegion": [
+                            "ve_frostunderground3"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "ve_frostcorelayer"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_frost",
+            "value": {
+                "caveLiquid": [
+                    "velammonia"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_frost"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_elder",
+                    "ve_archaic",
+                    "ve_arid",
+                    "ve_lush",
+                    "ve_plains",
+                    "ve_tropical",
+                    "ve_penumbral",
+                    "ve_primordial"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_primordial",
+            "value": {
+                "threatRange": [
+                    1,
+                    10
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_primordial"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "barrenunderground"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "core"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_primordial",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_primordial"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_arid",
+                    "ve_archaic",
+                    "ve_elder",
+                    "ve_frost",
+                    "ve_lush",
+                    "ve_plains",
+                    "ve_penumbral",
+                    "ve_tropical"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_elderunderground1",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_elderunderground1"
+                        ]
+                    ]
+                ],
+                "subRegion": []
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_elderunderground2",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_elderunderground2"
+                        ]
+                    ]
+                ],
+                "subRegion": []
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_elderunderground3",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_elderunderground3"
+                        ]
+                    ]
+                ],
+                "subRegion": []
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_eldercorelayer",
+            "value": {
+                "caveLiquid": [
+                    "lava"
+                ],
+                "blockSelector": [
+                    "coreCaves"
+                ],
+                "fgCaveSelector": [
+                    "empty"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_eldercorelayer"
+                        ]
+                    ]
+                ],
+                "subRegion": []
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_frostunderground1",
+            "value": {
+                "caveLiquid": [
+                    "velammonia"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_frostunderground1"
+                        ]
+                    ]
+                ],
+                "subRegion": []
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_frostunderground2",
+            "value": {
+                "caveLiquid": [
+                    "velammonia"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_frostunderground2"
+                        ]
+                    ]
+                ],
+                "subRegion": []
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_frostunderground3",
+            "value": {
+                "caveLiquid": [
+                    "velammonia"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_frostunderground3"
+                        ]
+                    ]
+                ],
+                "subRegion": []
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_frostcorelayer",
+            "value": {
+                "caveLiquid": [
+                    "velammonia"
+                ],
+                "blockSelector": [
+                    "coreCaves"
+                ],
+                "fgCaveSelector": [
+                    "empty"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_eldercorelayer"
+                        ]
+                    ]
+                ],
+                "subRegion": []
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_lush",
+            "value": {
+                "threatRange": [
+                    1,
+                    6
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_lush"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "barrenunderground"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "core"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_lush",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_lush"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_arid",
+                    "ve_archaic",
+                    "ve_elder",
+                    "ve_tropical",
+                    "ve_plains",
+                    "ve_frost",
+                    "ve_penumbral",
+                    "ve_primordial"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_plains",
+            "value": {
+                "threatRange": [
+                    3,
+                    6
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_plains"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "barrenunderground"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "core"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_plains",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_plains"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_arid",
+                    "ve_archaic",
+                    "ve_elder",
+                    "ve_lush",
+                    "ve_tropical",
+                    "ve_frost",
+                    "ve_penumbral",
+                    "ve_primordial"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_tropical",
+            "value": {
+                "threatRange": [
+                    3,
+                    9
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_tropical"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "barrenunderground"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "core"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_tropical",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_tropical"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_arid",
+                    "ve_archaic",
+                    "ve_elder",
+                    "ve_lush",
+                    "ve_plains",
+                    "ve_frost",
+                    "ve_penumbral",
+                    "ve_primordial"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_penumbral",
+            "value": {
+                "threatRange": [
+                    5,
+                    8
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_penumbral"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "barrenunderground"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "core"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_penumbral",
+            "value": {
+                "caveLiquid": [
+                    "water"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_penumbral"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_arid",
+                    "ve_archaic",
+                    "ve_elder",
+                    "ve_lush",
+                    "ve_plains",
+                    "ve_frost",
+                    "ve_wetland",
+                    "ve_tropical",
+                    "ve_primordial"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/ve_wetland",
+            "value": {
+                "threatRange": [
+                    2,
+                    4
+                ],
+                "layers": {
+                    "surface": {
+                        "primaryRegion": [
+                            "ve_wetland"
+                        ],
+                        "secondaryRegions": [],
+                        "dungeons": []
+                    },
+                    "subsurface": {
+                        "primaryRegion": [
+                            "barrenunderground"
+                        ]
+                    },
+                    "core": {
+                        "primaryRegion": [
+                            "core"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/regionTypes/ve_wetland",
+            "value": {
+                "caveLiquid": [
+                    "swampwater"
+                ],
+                "blockSelector": [
+                    "remixedMildSurface"
+                ],
+                "fgCaveSelector": [
+                    "surfaceCaves"
+                ],
+                "bgCaveSelector": [
+                    "empty"
+                ],
+                "biome": [
+                    [
+                        0,
+                        [
+                            "ve_wetland"
+                        ]
+                    ]
+                ],
+                "subRegion": [
+                    "ve_arid",
+                    "ve_archaic",
+                    "ve_elder",
+                    "ve_lush",
+                    "ve_plains",
+                    "ve_frost",
+                    "ve_tropical",
+                    "ve_primordial"
+                ]
+            }
+        }
+    ]
 ]

@@ -58,16 +58,13 @@
             { "name" : "syrenaliantier6spants" }
 			],
             "primary" : [
-          { "name" : "commonaxe" },
-          { "name" : "commonbroadsword" },
-          { "name" : "commonhammer" },
-          { "name" : "commonshortsword" },
-          { "name" : "commonspear" }
-        ],
-        "sheathedprimary" : [
           { "name" : "unitariumbattlerifle" },
           { "name" : "unitariumbolter" },
-          { "name" : "unitariumcombatrifle" }
+          { "name" : "unitariumcombatrifle" },
+          { "name" : "commonsyrnlpolearm" }
+        ],
+        "sheathedprimary" : [
+          { "name" : "commonaxe" }
         ],
         "alt" : [
           { "name" : "commondagger" },

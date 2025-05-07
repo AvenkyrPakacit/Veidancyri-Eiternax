@@ -7,6 +7,5 @@
   "description" : "An Ikfiinia bar.",
   "shortdescription" : "Ikfiinia Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal3"],
-  "radioMessagesOnPickup" : [ "pickupeiltaresianma3" ],
   "itemTags" : [ "reagent" ]
 }

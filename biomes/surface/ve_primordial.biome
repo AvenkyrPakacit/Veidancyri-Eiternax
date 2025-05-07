@@ -67,7 +67,7 @@
       "morningColors" : [ [124, 124, 156], [165, 165, 207] ],
       "dayColors" : [ [204, 204, 255], [250, 218, 221] ],
       "eveningColors" : [ [255, 192, 203], [194, 169, 171] ],
-      "nightColors" : [ [196, 148, 156, 80], [231, 84, 128, 160] ],
+      "nightColors" : [ [196, 148, 156], [231, 84, 128] ],
 
       "morningLightColor" : [124, 124, 156],
       "dayLightColor" : [204, 204, 255],
@@ -93,10 +93,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg", "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg", "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
     }
   },
 

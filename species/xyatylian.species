@@ -3,7 +3,7 @@
 	"charCreationTooltip" : {
 	"title" : "Xyatyl",
 	"subTitle" : "Azkuvalian caste",
-	"description" : "A caste of Azkuvalians."
+	"description" : "The militant caste of Azkuvalians."
   },
   "nameGen" : [ "/species/azkuvaliannamegen.config:names", "/species/azkuvaliannamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],

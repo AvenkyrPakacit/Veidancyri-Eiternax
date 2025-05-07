@@ -7,6 +7,5 @@
   "description" : "An Ikyrium bar.",
   "shortdescription" : "Ikyrium Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal3"],
-  "radioMessagesOnPickup" : [ "pickupeiltaresianma3" ],
   "itemTags" : [ "reagent" ]
 }

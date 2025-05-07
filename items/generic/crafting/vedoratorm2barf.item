@@ -7,6 +7,5 @@
   "description" : "An Avyramit bar. Can be made into ^#F0DC82;Syrenalian Chrome^white;.",
   "shortdescription" : "Avyramit Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
-  "radioMessagesOnPickup" : [ "pickupdoratorma2" ],
   "itemTags" : [ "reagent" ]
 }

@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 12
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "dasdarfoxanT8.png",
+      "position" : [5.875, 13.5],
+      "fullbright" : true
+    },
+    {
+      "image" : "dasdarfoxanT8lit.png",
+      "position" : [5.875, 13.5]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "dasdarfoxanT8blocks.png"
+}

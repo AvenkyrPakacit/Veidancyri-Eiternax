@@ -1,0 +1,28 @@
+{
+  "objectName" : "unitariumbannerlarge",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A large Unitarium wallbanner.",
+  "shortdescription" : "Large Unitarium Wall Banner",
+  "race" : "eilasalian",
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner! Charming!",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large Unitarium banner...",
+  "humanDescription" : "The Unitarium banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "inventoryIcon" : "unitariumbannerlargeicon.png",
+  "orientations" : [
+    {
+      "image" : "unitariumbannerlarge.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

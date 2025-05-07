@@ -9,7 +9,7 @@
   "twoHanded" : true,
   "itemTags" : ["weapon","staff"],
   "tooltipKind" : "staff",
-  "animation" : "/items/active/weapons/staff/doratorian/doratorianstaff.animation",
+  "animation" : "/items/active/weapons/staff/ve_staff.animation",
   "scripts" : ["/items/active/weapons/staff/staff.lua"],
   "stances" : {
     "idle" : {

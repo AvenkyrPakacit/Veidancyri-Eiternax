@@ -84,6 +84,20 @@
 		]
 	},
 	{ "op" : "add",
+		"path" : "/speciesShips/kalavylian",
+		"value" : [
+		    "/ships/dasdarfoxan/dasdarfoxant0.structure",
+			"/ships/dasdarfoxan/dasdarfoxant1.structure",
+			"/ships/dasdarfoxan/dasdarfoxant2.structure",
+			"/ships/dasdarfoxan/dasdarfoxant3.structure",
+			"/ships/dasdarfoxan/dasdarfoxant4.structure",
+			"/ships/dasdarfoxan/dasdarfoxant5.structure",
+			"/ships/dasdarfoxan/dasdarfoxant6.structure",
+			"/ships/dasdarfoxan/dasdarfoxant7.structure",
+			"/ships/dasdarfoxan/dasdarfoxant8.structure"
+		]
+	},
+	{ "op" : "add",
 		"path" : "/speciesShips/octusarian",
 		"value" : [
 		    "/ships/syrenalian/syrenaliant0.structure",

@@ -13,20 +13,6 @@
       "allowDuplication" : false
     }]
   ],
-  "doratorianStavesPool" : [
-    [1, {
-      "pool" : [
-        {"weight" : 1.0, "item" : "commondoratorstaff"},
-        {"weight" : 0.5, "item" : "uncommondoratorstaff"}
-      ],
-      "poolRounds" : [
-        [0.30, 0],
-        [0.50, 1],
-        [0.20, 2]
-      ],
-      "allowDuplication" : false
-    }]
-  ],
   "doratorianWeaponsRandomPools" : [
     [1, {
       "pool" : [

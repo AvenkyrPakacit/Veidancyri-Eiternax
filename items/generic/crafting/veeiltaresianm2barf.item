@@ -7,6 +7,5 @@
   "description" : "An Avyramit bar.",
   "shortdescription" : "Avyramit Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
-  "radioMessagesOnPickup" : [ "pickupeiltaresianma2" ],
   "itemTags" : [ "reagent" ]
 }

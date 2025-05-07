@@ -45,5 +45,44 @@
 				"*Rattling growl*"
 			]
 		}
-	}
+	},
+  	{
+    	"op" : "add",
+    	"path" : "/safe/eilasalian",
+    	"value" : {
+      	"default" : [
+        	"Everything'll be fine."
+      	]
+    	}
+  	},
+  	{
+    	"op" : "add",
+    	"path" : "/safe/einfieran",
+    	"value" : {
+      	"default" : [
+        	"Everything'll be fine."
+      	]
+    	}
+  	},
+  	{
+    	"op" : "add",
+    	"path" : "/safe/octusarian",
+    	"value" : {
+      	"default" : [
+        	"Everything'll be fine."
+      	]
+    	}
+  	},
+  	{
+    	"op" : "add",
+    	"path" : "/safe/voderaiarkai",
+    	"value" : {
+      	"default" : [
+        	"*Growling bark*",
+			"*Growling chirp*",
+			"*Growling hiss*",
+			"*Rattling growl*"
+      	]
+    	}
+  	}
 ]
