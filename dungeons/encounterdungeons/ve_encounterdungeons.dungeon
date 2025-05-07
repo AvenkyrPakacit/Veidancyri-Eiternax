@@ -1,0 +1,80 @@
+{
+  "metadata" : {
+    "name" : "ve_encounterdungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "veaxilaricamp1", "veaxilaricamp2", "veaxilaricamp3", "veaxilaricamp4", "veprowlercamp1", "veprowlercamp2", "vehuntercamp1", "vehuntercamp2" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+  "parts" : [
+    {
+      "name" : "veaxilaricamp1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "veaxilaricamp1.json" ]
+    },
+    {
+      "name" : "veaxilaricamp2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "veaxilaricamp2.json" ]
+    },
+    {
+      "name" : "veaxilaricamp3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "veaxilaricamp3.json" ]
+    },
+    {
+      "name" : "veaxilaricamp4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "veaxilaricamp4.json" ]
+    },
+    {
+      "name" : "veprowlercamp1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "veprowlercamp1.json" ]
+    },
+    {
+      "name" : "vehuntercamp1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "vehuntercamp1.json" ]
+    },
+    {
+      "name" : "vehuntercamp2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "vehuntercamp2.json" ]
+    },
+    {
+      "name" : "veprowlercamp1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "veprowlercamp1.json" ]
+    },
+    {
+      "name" : "veprowlercamp2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "veprowlercamp2.json" ]
+    }
+  ]
+}
