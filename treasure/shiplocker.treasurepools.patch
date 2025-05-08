@@ -27,6 +27,17 @@
       ]
     }]]
   },
+  ,
+  {
+    "op": "add",
+    "path": "/DasdarfoxanStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"},
+        {"pool" : "dasdarfoxanOriginPools"}
+      ]
+    }]]
+  },
   {
     "op": "add",
     "path": "/DoratorianStarterTreasure",

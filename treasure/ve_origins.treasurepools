@@ -11,6 +11,18 @@
       "allowDuplication" : false
     }]
   ],
+  "dasdarfoxanOriginPools" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "dasdarfoxanCodexPools"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
   "doratorianOriginPools" : [
     [1, {
       "pool" : [

@@ -5,7 +5,7 @@
 { "op" : "add", "path" : "/defaultCodexes/eilasalian", "value" : [ "protectorate1" ] },
 { "op" : "add", "path" : "/defaultCodexes/einfieran", "value" : [ "protectorate1" ] },
 { "op" : "add", "path" : "/defaultCodexes/imaata", "value" : [ "protectorate1" ] },
-{ "op" : "add", "path" : "/defaultCodexes/kalavylian", "value" : [ "protectorate1" ] },
+{ "op" : "add", "path" : "/defaultCodexes/kalavylian", "value" : [ "dasdarfoxentradebook" ] },
 { "op" : "add", "path" : "/defaultCodexes/octusarian", "value" : [ "protectorate1" ] },
 { "op" : "add", "path" : "/defaultCodexes/thatylian", "value" : [ "azkuvalianrecital" ] },
 { "op" : "add", "path" : "/defaultCodexes/voderaiarkai", "value" : [ "doratoriantitles" ] },

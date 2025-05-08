@@ -1,0 +1,42 @@
+{
+	"id" : "dasdarfoxentradebook",
+	"title" : "Kalavylian Trade Book",
+	"description" : "A book that covers the translation of titles.",
+	"icon" : "dasdarfoxancover.png",
+	"contentPages" : [
+	"Trade I,
+
+We're rich!",
+	"Trade II,
+
+Were's even more rich!",
+	"Trade II,
+
+We gambled away all of our money!",
+	"Trade IV,
+
+We stole a pack animal, and sold it to it's owners! We now have a 1k coins!",
+	"Trade V,
+
+We stole the pack animal back!",
+	"Trade VI,
+
+Bounty hunters shot the pack animal!"
+	"Trade VII,
+
+Drinks were stolen",
+	"Trade VIII,
+
+Food was stolen.",
+	"Trade IX,
+
+Guards are dead.",
+	"Trade X,
+
+we were raided and most of us slaughtered by Akdaran hordes. The remaining of us might die, due to how hot the flaming orbs in the sky are!"
+	],
+		"itemConfig" : {
+		"rarity" : "rare",
+		"price" : 75
+	}
+}
