@@ -44,6 +44,66 @@
          "image":"objects-by-origin\/syrenalian\/syrenalianmerchant.png",
          "imageheight":14,
          "imagewidth":30
+        },
+     "4":
+        {
+         "image":"objects-by-origin\/syrenalian\/octhyratum\/octhyratummerchant.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "5":
+        {
+         "image":"objects-by-origin\/syrenalian\/octhyratum\/octhyratumbannerlarge.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "6":
+        {
+         "image":"objects-by-origin\/syrenalian\/octhyratum\/octhyratumbannersmall.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "7":
+        {
+         "image":"objects-by-origin\/syrenalian\/octhyratum\/octhyratummerchant.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "8":
+        {
+         "image":"objects-by-origin\/syrenalian\/talfieran\/talfieranbannerlarge.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "9":
+        {
+         "image":"objects-by-origin\/syrenalian\/talfieran\/talfieranbannersmall.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "10":
+        {
+         "image":"objects-by-origin\/syrenalian\/talfieran\/talfieranmerchant.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "11":
+        {
+         "image":"objects-by-origin\/syrenalian\/unitarium\/unitariumbannerlarge.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "12":
+        {
+         "image":"objects-by-origin\/syrenalian\/unitarium\/unitariumbannersmall.png",
+         "imageheight":14,
+         "imagewidth":30
+        },
+     "13":
+        {
+         "image":"objects-by-origin\/syrenalian\/unitarium\/unitariummerchant.png",
+         "imageheight":14,
+         "imagewidth":30
         }
     },
  "tilewidth":34,

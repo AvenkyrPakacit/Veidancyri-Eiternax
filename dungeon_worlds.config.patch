@@ -1,0 +1,21 @@
+[
+  {
+    "op" : "add",
+    "path" : "/ve_syrenalian_city",
+    "value" : {
+      "primaryDungeon" : "ve_syrenalian_city",
+	  "weatherPool" : [
+		[1.0, "clear"]
+	  ],
+      "threatLevel" : 1,
+      "gravity" : 80,
+      "worldSize" : [1000, 800],
+      "dungeonBaseHeight" : 300,
+	  "dungeonSurfaceHeight" : 130,
+      "ambientLightLevel" : [32, 32, 32],
+      "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
+			"biome": "ve_lush",
+      "musicTrack" : "/music/tranquility-base.ogg"
+    }
+  }
+]

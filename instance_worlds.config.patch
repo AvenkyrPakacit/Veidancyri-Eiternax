@@ -1,0 +1,38 @@
+[
+    {
+	"op" : "add",
+	"path" : "/ve_syrenalian_city",
+	"value" : {
+	  "type" : "FloatingDungeon",
+	  "dungeonWorld" : "ve_syrenalian_city",
+	  "seed" : 4321,
+	  "spawningEnabled" : false,
+	  "beamUpRule" : "Anywhere",
+	  "disableDeathDrops" : true,
+
+	  "worldProperties" : {
+		"nonCombat" : true
+	  },
+
+	  "skyParameters" : {
+		"dayLength" : 800,
+		"surfaceLevel" : 130,
+		"spaceLevel" : 3000,
+		"seed" : -5288806180628666923,
+	  
+		"skyType" : "atmospheric",
+		"skyColoring" : {
+		  "mainColor" : [255, 255, 255],
+
+		  "morningColors" : [ [14, 14, 50, 80], [150, 42, 120, 190] ],
+		  "dayColors" : [ [14, 14, 50, 80], [150, 42, 120, 190] ],
+		  "eveningColors" : [ [14, 14, 50, 80], [150, 42, 120, 190] ],
+		  "nightColors" : [ [14, 14, 50, 80], [150, 42, 120, 190] ],
+
+		  "morningLightColor" : [60, 30, 90],
+		  "dayLightColor" : [60, 30, 90],
+		  "eveningLightColor" : [60, 30, 90],
+		  "nightLightColor" : [60, 30, 90]
+		}
+    }}}
+]

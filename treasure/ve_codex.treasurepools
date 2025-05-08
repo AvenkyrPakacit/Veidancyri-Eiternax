@@ -40,7 +40,7 @@
   "dasdarfoxanGenericCodexPools" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "azkuvalianrecital-codex"}
+        {"weight" : 0.25, "item" : "dasdarfoxentradebook-codex"}
       ],
       "poolRounds" : [
         [0.20, 0],
