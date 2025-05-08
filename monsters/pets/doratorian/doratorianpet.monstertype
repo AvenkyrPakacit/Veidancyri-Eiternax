@@ -41,8 +41,8 @@
       "curiosity" : 60
     },
     "petResourceDeltas" : {
-      "sleepy" : 1,
-      "hunger" : 0.5,
+      "sleepy" : 0.5,
+      "hunger" : 1,
       "playful" : 1,
       "curiosity" : 1
     },
