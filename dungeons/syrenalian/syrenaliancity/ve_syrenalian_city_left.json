@@ -69,7 +69,7 @@
                  "type":"",
                  "visible":true,
                  "width":10,
-                 "x":264,
+                 "x":256,
                  "y":208
                 }, 
                 {
@@ -99,14 +99,14 @@
                 {
                  "gid":4,
                  "height":14,
-                 "id":19,
+                 "id":20,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":30,
-                 "x":224,
-                 "y":208
+                 "x":272,
+                 "y":312
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -179,7 +179,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":256,
+                 "x":248,
                  "y":184
                 }],
          "opacity":1,
@@ -189,7 +189,7 @@
          "y":0
         }],
  "nextlayerid":5,
- "nextobjectid":20,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
@@ -201,15 +201,15 @@
         }, 
         {
          "firstgid":5,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":202,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":226,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/supports.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
         }],
  "tilewidth":8,
  "type":"map",
