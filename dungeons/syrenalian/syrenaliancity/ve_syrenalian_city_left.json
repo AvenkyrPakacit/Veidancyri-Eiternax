@@ -5,7 +5,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt2U1uAyEMBWAuUSn3v9Ps2ihH6aZICNlgG2Mz04f0lpH5MMxfrlLKhSAIgiAIgiAIgiAI8s\/zLUj2HKOcNZaR7bM4V7zZbotz1Zrll7jeTXZ6uRHZU8oZ7W3HbidnjTLXOq8us3uD5ly+C+2lau52tmnr9uvt6RzVjHCOvHUOEm\/vm+3d2RrvtI68dW+v9PEJXqqfP3\/J9o5qvcrcS9k4a5sM76yepL9aa7+WlmuGt1XqLQZvNc\/67OmVnh9J7Utp7b2c2cMrvVac6t1ljfZS5pX+aq0Sbx0jr+T8enotTq3Xcj+ivL1Z411x7vD2Zs7bmqXn18OqOb9S79cD8lF4tc\/Pp4a7XtX9+TQ39c4\/st7dzlml3rvZOavVPHtW0bxjRVsjzBHrMDqzp5g93KPvkid6V9yz782SunfxSr+xa+ZwolX7n4LFza2B9DfF0D9P66pZmlon27nbTdU4went1tbLcq66o+eX4c+eE4Igz8wvB4BofQ==",
+         "data":"eJzt2VuOwyAMBVA2MVJWMPvfTP6m0SylP0VCyDa2eZikF+l+VubgQB49U0ongiAIgiAIgiAIgiDIl+dPkeg5rnLmeEa0z+Ps8Ua7Pc5ea5Rf47qKzPRyY2VPKedqbzlmOznrKnOuc1Rp3Rss+\/JKtJeqOdtZpqxbr\/dIp1Qzj18hvU7Jm+eg8da+1rXbWuPS7hme2jmS1Wq8q5fq5+uTaK9U60htL2XjrGUivK16mv5arfVaes4Mj1ezvprant4eqd3nkV7t\/tHUPo3W2suZR3i1Z8Wu3npIXot1tZcy9\/TXatV485C8mv070utxWr2e+xHlrc0Wb49zhrc2c97SrN2\/I6yW\/av1\/jwg\/wav9fl513DnVb4+n+am3vkl693tnFXrvZuds3rNrWcVyzvWausK84p1kPbsLuYRbum75I7eHnfre7Om7l282m\/sljnsaLX+p+Bxc2ug\/U1y9G+ktdesTa4T7Zztpmrs4BztttaLcva6V88vwh89JwRBnpk3uUtrTw==",
          "encoding":"base64",
          "height":60,
          "id":2,
@@ -19,7 +19,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt2FsKwzAMRNFA19D9L6s\/bdYSDA0Yk1gTx7JiaS7oN+jUeUCXhTHGGGOMMcYYY4x9gfEQ4vTglWzrf2b3IsZyIllXk03v1eqczYo+o96dNetMRXHuRTDuoU4vRbJK3xRP1lQkayqaNxXJmqI3ptejmd+jc\/Nn0E4vxWuj3reDSf2Eyc1X\/p976kjmo7O23vmut2aW7nPr\/Vu9NTfyfFs7ep0v6i3t0nvB+myvvLeQka43yn8WspO2uffvUMubV+qp3hYzWssuml6Nc+1hPrKPekZbjL3dyJRZOctGWPMsrXnazrNG+WppG2cogpExZtsGp88jtA==",
+         "data":"eJzt2E0KgzAQhmEv0Sv0\/rfpxnoToQgWQjCZSZyfZPxemE0XNo9pFLosCCGEEEIIIYQQQmhlTIQ4zgheyradM7uXY8znSdbNZaX36nXOZuWe0ejOmnWmrJzvc\/Zk\/p9Z5rGXu9B1WuM6pRvFa3U2PbzUO0XzOTSiVzN4bfJ6n8JrE7xxzy\/eR2XzR\/i7R\/a+AszRl5jU3PL\/3KhDma\/22nvNd701M\/U7915\/r7fm5pxvb4fU\/nK9uZ16LnjvbctzizPU9az8pThr0jZL34da0bxUo3p7zNx61qLp1dhXCfOV3eqM9hil3ZzJ83LmWVjTPK1p2s5SVr5a2sYZeoIRIeTbDzn7Mxw=",
          "encoding":"base64",
          "height":60,
          "id":1,
@@ -37,9 +37,9 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":9,
+                 "gid":1,
                  "height":80,
-                 "id":1,
+                 "id":12,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -49,9 +49,9 @@
                  "y":280
                 }, 
                 {
-                 "gid":10,
+                 "gid":2,
                  "height":37,
-                 "id":4,
+                 "id":13,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -61,21 +61,21 @@
                  "y":288
                 }, 
                 {
-                 "gid":11,
-                 "height":14,
-                 "id":6,
+                 "gid":3,
+                 "height":13,
+                 "id":14,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":30,
-                 "x":176,
-                 "y":312
+                 "width":10,
+                 "x":264,
+                 "y":208
                 }, 
                 {
-                 "gid":12,
+                 "gid":1,
                  "height":80,
-                 "id":7,
+                 "id":16,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -85,9 +85,9 @@
                  "y":272
                 }, 
                 {
-                 "gid":13,
+                 "gid":2,
                  "height":37,
-                 "id":8,
+                 "id":17,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -97,16 +97,16 @@
                  "y":272
                 }, 
                 {
-                 "gid":14,
+                 "gid":4,
                  "height":14,
-                 "id":9,
+                 "id":19,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":30,
-                 "x":368,
-                 "y":312
+                 "x":224,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -160,6 +160,27 @@
                  "width":8,
                  "x":320,
                  "y":288
+                }, 
+                {
+                 "height":8,
+                 "id":15,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"octusarian",
+                     "typeName":"illiatarivexara1"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":256,
+                 "y":184
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -168,7 +189,7 @@
          "y":0
         }],
  "nextlayerid":5,
- "nextobjectid":12,
+ "nextobjectid":20,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
@@ -180,11 +201,15 @@
         }, 
         {
          "firstgid":15,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":212,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+        }, 
+        {
+         "firstgid":236,
+         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
         }],
  "tilewidth":8,
  "type":"map",
