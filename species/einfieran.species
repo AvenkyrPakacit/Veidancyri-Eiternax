@@ -54,6 +54,10 @@ They originate from the volcanic moon, Einfiera of the planet, Dorator with most
       { "item" : "syrenaliantier6schest" },
       { "item" : "syrenaliantier6spants" },
       { "item" : "aegisaltpistol" },
+// Cooking Table 1
+      { "item" : "ve_syrnldrink1" },
+      { "item" : "ve_syrnldrink2" },
+      { "item" : "ve_syrnldrink3" },
 // Furniture Table 2
       { "item" : "syrenalianstoragelocker" },
       { "item" : "syrenalianshipdoor" },

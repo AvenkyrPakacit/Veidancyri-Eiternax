@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ve_syrnlliquidjuice", "count" : 5 }
+  ],
+  "output" : { "item" : "ve_syrnldrink2", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ]
+}
