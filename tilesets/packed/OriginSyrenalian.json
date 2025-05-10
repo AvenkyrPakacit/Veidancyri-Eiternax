@@ -55,7 +55,7 @@
         },
      "4":
         {
-         "\/\/description":"A teleporter comprised of Syrenalian Chrome.",
+         "\/\/description":"A teleporter comprised of Syrenalian Chrome. \n^red;Destroyed when broken",
          "\/\/name":"syrenalianteleporter",
          "\/\/shortdescription":"Syrenalian Teleporter",
          "imagePositionX":"0",
