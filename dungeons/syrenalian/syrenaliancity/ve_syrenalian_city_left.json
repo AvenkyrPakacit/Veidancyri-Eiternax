@@ -5,7 +5,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt2VuOwyAMBVA2MVJWMPvfTP6m0SylP0VCyDa2eZikF+l+VubgQB49U0ongiAIgiAIgiAIgiDIl+dPkeg5rnLmeEa0z+Ps8Ua7Pc5ea5Rf47qKzPRyY2VPKedqbzlmOznrKnOuc1Rp3Rss+\/JKtJeqOdtZpqxbr\/dIp1Qzj18hvU7Jm+eg8da+1rXbWuPS7hme2jmS1Wq8q5fq5+uTaK9U60htL2XjrGUivK16mv5arfVaes4Mj1ezvprant4eqd3nkV7t\/tHUPo3W2suZR3i1Z8Wu3npIXot1tZcy9\/TXatV485C8mv070utxWr2e+xHlrc0Wb49zhrc2c97SrN2\/I6yW\/av1\/jwg\/wav9fl513DnVb4+n+am3vkl693tnFXrvZuds3rNrWcVyzvWausK84p1kPbsLuYRbum75I7eHnfre7Om7l282m\/sljnsaLX+p+Bxc2ug\/U1y9G+ktdesTa4T7Zztpmrs4BztttaLcva6V88vwh89JwRBnpk3uUtrTw==",
+         "data":"eJzt10FuxCAMBVD2lXKC3v8y2bWjnqebIiELzLfBNpka6W9jHg6E3KWUO5PJZDKZTCaTyWQymUzmn+cLSPQcvZw1mhHt0zhXvNFujXPVGuVHXK8mlt7R8Oxpz+ntbYe1c2T1Mtc6F8ns2yDZl6\/S9\/ZqWjvbtHXpeu90cjXr+GSy6uS8dQ6Il\/pm7+5sjVu7Zmhq13BWqfGp3l4\/v\/8S7eVqXWXu7dlG1jYR3lk9pL9SK11LzZmh8SLri9TW9PYq8z7v9KL7B6l9C63UOzLv8KJnxaleOjivxOrt7ZlX+iu1It46OC+yf3d6NU6pV\/M96nmpWeJdcVp4qXnkbc3o\/t1hlexf1PvxBvkReKX351MzOq\/q+\/lu7t4\/P2d9un1kRb1Ps4+sWvPsriL5x7L0cvOyNHuvA+KNMFu5T\/ZauFGv1nyiVzO3J1qpd3WemmcUA5PUu6s3yNp4WjmvlTv6njLz7nKfcldDvVq39jt2ihfxrzzPw7tq3h3r\/dsm2urtPcHs7Y22W3p\/Aea4+Nc=",
          "encoding":"base64",
          "height":60,
          "id":2,
@@ -19,7 +19,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt2E0KgzAQhmEv0Sv0\/rfpxnoToQgWQjCZSZyfZPxemE0XNo9pFLosCCGEEEIIIYQQQmhlTIQ4zgheyradM7uXY8znSdbNZaX36nXOZuWe0ejOmnWmrJzvc\/Zk\/p9Z5rGXu9B1WuM6pRvFa3U2PbzUO0XzOTSiVzN4bfJ6n8JrE7xxzy\/eR2XzR\/i7R\/a+AszRl5jU3PL\/3KhDma\/22nvNd701M\/U7915\/r7fm5pxvb4fU\/nK9uZ16LnjvbctzizPU9az8pThr0jZL34da0bxUo3p7zNx61qLp1dhXCfOV3eqM9hil3ZzJ83LmWVjTPK1p2s5SVr5a2sYZeoIRIeTbDzn7Mxw=",
+         "data":"eJzt2EGugzAMRdHMu4XufzedtOyEDVSVQEIIYidx\/Jz0XcmTP0hzCoHqp8QYY4wxxhhjjDHG3oqZIY1zBq9kW7YZ3asxnuefrAtkp23VOkezas\/o7M6cdaS8nM9t1sPsf\/MMcS1Xo3VK0zqti+L1OpsIr\/RO6fkciujtGb0+od6n9PpE77znl++je\/PL+LMjex8TzK+PMEdzyf\/noo5kvrrW6D23enNm6T5H77\/Wm3NrzjfaYXV9td6zXXouRPbWmKX1UH6t18Ps8T3QG8trbU6N++vp7XV+rfZYu47Xs+rKa30vau8LtLenG\/m7RfJaukt\/syC9tfbStSN6pe+gda0I97PXeJzfPbTV2xvBjfAi7b29X3VGisE=",
          "encoding":"base64",
          "height":60,
          "id":1,
@@ -197,19 +197,19 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/tilesets\/packed\/Syrenalian.json"
+         "source":"..\/..\/..\/tilesets\/packed\/OriginSyrenalian.json"
         }, 
         {
-         "firstgid":15,
-         "source":"..\/..\/..\/..\/..\/..\/..\/\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
+         "firstgid":5,
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
-         "firstgid":212,
-         "source":"..\/..\/..\/..\/..\/..\/..\/\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "firstgid":202,
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
-         "firstgid":236,
-         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
+         "firstgid":226,
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/supports.json"
         }],
  "tilewidth":8,
  "type":"map",
