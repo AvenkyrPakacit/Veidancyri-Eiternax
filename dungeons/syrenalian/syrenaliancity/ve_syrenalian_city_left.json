@@ -201,15 +201,15 @@
         }, 
         {
          "firstgid":5,
-         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":202,
-         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":226,
-         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/Star..bound\/assets\/packed\/tilesets\/packed\/supports.json"
         }],
  "tilewidth":8,
  "type":"map",

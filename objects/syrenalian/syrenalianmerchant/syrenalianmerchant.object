@@ -65,6 +65,7 @@
     { "item" : "syrenaliantier6spants" },
     { "item" : "syrenalianbannerlarge" },
     { "item" : "syrenalianbannersmall" },
+    { "item" : "syrenalianteleporter" },
     { "item" : "syrenalianbeacon" },
 	  { "item" : "ve_syrnlliquidjuice" }
     ]
