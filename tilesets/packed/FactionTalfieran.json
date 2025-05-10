@@ -4,7 +4,7 @@
      "export":
         {
          "format":"tsx",
-         "target":"Syrenalian..tsx"
+         "target":"Talfieran..tsx"
         }
     },
  "grid":
@@ -14,7 +14,7 @@
      "width":1
     },
  "margin":0,
- "name":"Syrenalian",
+ "name":"Talfieran",
  "spacing":0,
  "tilecount":4,
  "tiledversion":"1.11.0",
@@ -23,27 +23,21 @@
     {
      "0":
         {
-         "image":"objects-by-origin\/syrenalian\/syrenalianbannerlarge.png",
+         "image":"objects-by-faction\/talfieran\/talfieranbannerlarge.png",
          "imageheight":80,
          "imagewidth":34
         },
      "1":
         {
-         "image":"objects-by-origin\/syrenalian\/syrenalianbannersmall.png",
+         "image":"objects-by-faction\/talfieran\/talfieranbannersmall.png",
          "imageheight":37,
          "imagewidth":21
         },
      "2":
         {
-         "image":"objects-by-origin\/syrenalian\/syrenalianbeacon.png",
+         "image":"objects-by-faction\/talfieran\/talfieranmerchant.png",
          "imageheight":13,
          "imagewidth":10
-        },
-     "3":
-        {
-         "image":"objects-by-origin\/syrenalian\/syrenalianmerchant.png",
-         "imageheight":14,
-         "imagewidth":30
         }
     },
  "tilewidth":34,
