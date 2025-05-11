@@ -1,0 +1,49 @@
+{
+  "type" : "ve_merchant_faction",
+  "baseType" : "merchant",
+  "dropPools" : [ "money" ],
+  "scriptConfig" : {
+    "merchant" : {
+      "waitTime" : 40,
+      "storeRadius" : 10,
+      "categories" : {
+        "default" : [
+			"ve_syrnljuice"
+		],
+    "eilasalian" : [
+			"ve_syrnljuiceeilasalian", "ve_unitarium"
+		],
+    "einfieran" : [
+			"ve_syrnljuiceeinfieran", "ve_talfierancv"
+		],
+    "octusarian" : [
+			"ve_syrnljuiceoctusarian", "ve_octhyratum"
+		]
+      },
+      "buyFactorRange" : [ 3.0, 4.0 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 16,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Faction Merchant",
+          "subtitle" : "  Sells drinks & equipment"
+        }
+      }
+    }
+  },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "syrenalianoutfit3chest", "parameters" : { "colorIndex" : [1,2,3] } }
+            ],
+            "legs" : [
+              { "name" : "syrenalianoutfit3legs", "parameters" : { "colorIndex" : [1,2,3] } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

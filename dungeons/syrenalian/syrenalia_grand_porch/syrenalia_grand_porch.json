@@ -101,8 +101,8 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":1144,
-                 "y":1064
+                 "x":1240,
+                 "y":1056
                 }, 
                 {
                  "height":8,
@@ -122,8 +122,8 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":1176,
-                 "y":1056
+                 "x":1648,
+                 "y":984
                 }, 
                 {
                  "height":8,
@@ -143,71 +143,8 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":1208,
-                 "y":1048
-                }, 
-                {
-                 "height":8,
-                 "id":16,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"einfieran",
-                     "typeName":"ve_merchant"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":1664,
-                 "y":976
-                }, 
-                {
-                 "height":8,
-                 "id":17,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"eilasalian",
-                     "typeName":"ve_merchant"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
                  "x":1448,
                  "y":1024
-                }, 
-                {
-                 "height":8,
-                 "id":18,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"octusarian",
-                     "typeName":"ve_merchant"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":896,
-                 "y":1080
                 }],
          "opacity":1,
          "type":"objectgroup",

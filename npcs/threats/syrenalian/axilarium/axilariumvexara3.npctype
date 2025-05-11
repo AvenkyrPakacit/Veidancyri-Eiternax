@@ -1,0 +1,74 @@
+{
+  "type" : "axilariumvexara3",
+  "baseType" : "hostile",
+  "levelVariance" : [4, 6],
+  "dropPools" : [ "axilariumTreasure4" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmemberAxilarium"]
+    },
+    "dialog" : {
+      "attack" : "/dialog/axilariumvexara.config:attack",
+      "beacon" : "/dialog/axilariumvexara.config:beacon",
+      "cantReach" : "/dialog/axilariumvexara.config:cantReach",
+      "cheerOn" : "/dialog/axilariumvexara.config:cheerOn",
+      "converse" : "/dialog/axilariumvexara.config:converse",
+      "enclosedArea" : "/dialog/axilariumvexara.config:enclosedArea",
+      "final" : "/dialog/axilariumvexara.config:final",
+      "greeting" : "/dialog/axilariumvexara.config:greeting",
+      "hail" : "/dialog/axilariumvexara.config:hail",
+      "helpme" : "/dialog/axilariumvexara.config:helpme",
+      "killedTarget" : "/dialog/axilariumvexara.config:killedTarget",
+      "lostTarget" : "/dialog/axilariumvexara.config:lostTarget",
+      "otherDeed" : "/dialog/axilariumvexara.config:otherDeed",
+      "outOfSight" : "/dialog/axilariumvexara.config:outOfSight",
+      "reattack" : "/dialog/axilariumvexara.config:reattack",
+      "rent" : "/dialog/axilariumvexara.config:rent",
+      "severe" : "/dialog/axilariumvexara.config:severe",
+      "tagCriteria" : "/dialog/axilariumvexara.config:tagCriteria"
+    }
+  },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "syrenaliantier3head" },
+            { "name" : "syrenaliantier4head" },
+            { "name" : "syrenaliantier5ahead" },
+            { "name" : "syrenaliantier5mhead" },
+            { "name" : "syrenaliantier5shead" }
+			],
+            "chest" : [ { "name" : "syrenaliantier3chest" },
+            { "name" : "syrenaliantier4chest" },
+            { "name" : "syrenaliantier4chest" },
+            { "name" : "syrenaliantier5achest" },
+            { "name" : "syrenaliantier5mchest" },
+            { "name" : "syrenaliantier5schest" }
+			],
+            "legs" : [ { "name" : "syrenaliantier3pants" },
+            { "name" : "syrenaliantier4pants" },
+            { "name" : "syrenaliantier4pants" },
+            { "name" : "syrenaliantier5apants" },
+            { "name" : "syrenaliantier5mpants" },
+            { "name" : "syrenaliantier5spants" }
+			],
+            "primary" : [
+          { "name" : "unitariumbattlerifle" },
+          { "name" : "unitariumbolter" },
+          { "name" : "unitariumcombatrifle" },
+          { "name" : "commonsyrnlpolearm" }
+        ],
+        "sheathedprimary" : [
+          { "name" : "commonaxe" }
+        ],
+        "alt" : [
+          { "name" : "commondagger" },
+          { "name" : "commonmachinepistol" },
+          { "name" : "commonpistol" }
+        ]
+          }
+        ] ]
+    ]
+  }
+}
