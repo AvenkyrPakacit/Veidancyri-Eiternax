@@ -18,8 +18,8 @@
          "\/\/description":"A large syrenalian wallbanner from a syrenalian academy.",
          "\/\/name":"syrenalianbannerlarge",
          "\/\/shortdescription":"Large syrenalian Wall Banner",
-         "imagePositionX":"0",
-         "imagePositionY":"0",
+         "imagePositionX":"2",
+         "imagePositionY":"-2",
          "object":"syrenalianbannerlarge",
          "tilesetDirection":"right"
         },
@@ -28,8 +28,8 @@
          "\/\/description":"A small syrenalian wallbanner from a syrenalian academy.",
          "\/\/name":"syrenalianbannersmall",
          "\/\/shortdescription":"Small syrenalian Wall Banner",
-         "imagePositionX":"0",
-         "imagePositionY":"0",
+         "imagePositionX":"2",
+         "imagePositionY":"-2",
          "object":"syrenalianbannersmall",
          "tilesetDirection":"right"
         },
@@ -38,7 +38,7 @@
          "\/\/description":"A beacon made of syrenalian chrome.",
          "\/\/name":"syrenalianbeacon",
          "\/\/shortdescription":"Syrenalian Beacon",
-         "imagePositionX":"0",
+         "imagePositionX":"10",
          "imagePositionY":"0",
          "object":"syrenalianbeacon",
          "tilesetDirection":"right"
@@ -48,7 +48,7 @@
          "\/\/description":"A Syrenalian trade table.",
          "\/\/name":"syrenalianmerchant",
          "\/\/shortdescription":"Syrenalian Trade Table",
-         "imagePositionX":"0",
+         "imagePositionX":"-15",
          "imagePositionY":"0",
          "object":"syrenalianmerchant",
          "tilesetDirection":"right"
@@ -58,7 +58,7 @@
          "\/\/description":"A teleporter comprised of Syrenalian Chrome. \n^red;Destroyed when broken",
          "\/\/name":"syrenalianteleporter",
          "\/\/shortdescription":"Syrenalian Teleporter",
-         "imagePositionX":"0",
+         "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"syrenalianteleporter",
          "tilesetDirection":"right"
