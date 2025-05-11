@@ -1,10 +1,10 @@
 [
     {
 	"op" : "add",
-	"path" : "/ve_syrenalian_city",
+	"path" : "/syrenalia_grand_porch",
 	"value" : {
 	  "type" : "FloatingDungeon",
-	  "dungeonWorld" : "ve_syrenalian_city",
+	  "dungeonWorld" : "syrenalia_grand_porch",
 	  "seed" : 4321,
 	  "spawningEnabled" : false,
 	  "beamUpRule" : "Anywhere",
@@ -16,8 +16,8 @@
 
 	  "skyParameters" : {
 		"dayLength" : 800,
-		"surfaceLevel" : 130,
-		"spaceLevel" : 3000,
+		"surfaceLevel" : 100,
+		"spaceLevel" : 2000,
 		"seed" : -5288806180628666923,
 	  
 		"skyType" : "atmospheric",
