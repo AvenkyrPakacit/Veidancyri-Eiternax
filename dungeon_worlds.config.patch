@@ -1,9 +1,9 @@
 [
   {
     "op" : "add",
-    "path" : "/syrenalia_grand_porch",
+    "path" : "/ve_syrenalia_hq",
     "value" : {
-      "primaryDungeon" : "syrenalia_grand_porch",
+      "primaryDungeon" : "ve_syrenalia_hq",
 	  "weatherPool" : [
 		[1.0, "clear"]
 	  ],

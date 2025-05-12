@@ -1,10 +1,10 @@
 [
     {
 	"op" : "add",
-	"path" : "/syrenalia_grand_porch",
+	"path" : "/ve_syrenalia_hq",
 	"value" : {
 	  "type" : "FloatingDungeon",
-	  "dungeonWorld" : "syrenalia_grand_porch",
+	  "dungeonWorld" : "ve_syrenalia_hq",
 	  "seed" : 4321,
 	  "spawningEnabled" : false,
 	  "beamUpRule" : "Anywhere",

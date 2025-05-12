@@ -1,0 +1,145 @@
+[
+    {
+        "op": "add",
+        "path": "/ve_octhyratum",
+        "value": [
+            [
+                0,
+                [
+                    {
+                        "item": "syrenalianmerchant"
+                    },
+                    {
+                        "item": "octhyratumbattlerifle"
+                    },
+                    {
+                        "item": "octhyratumbolter"
+                    },
+                    {
+                        "item": "octhyratumcombatrifle"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/ve_syrnljuice",
+        "value": [
+            [
+                0,
+                [
+                    {
+                        "item": "ve_syrnldrink1"
+                    },
+                    {
+                        "item": "ve_syrnldrink2"
+                    },
+                    {
+                        "item": "ve_syrnldrink3"
+                    },
+                    {
+                        "item": "ve_syrnlliquidjuice"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/ve_syrnljuiceeilasalian",
+        "value": [
+            [
+                0,
+                [
+                    {
+                        "item": "ve_syrnldrink1"
+                    },
+                    {
+                        "item": "ve_syrnlliquidjuice"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/ve_syrnljuiceeinfieran",
+        "value": [
+            [
+                0,
+                [
+                    {
+                        "item": "ve_syrnldrink2"
+                    },
+                    {
+                        "item": "ve_syrnlliquidjuice"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/ve_syrnljuiceoctusarian",
+        "value": [
+            [
+                0,
+                [
+                    {
+                        "item": "ve_syrnldrink2"
+                    },
+                    {
+                        "item": "ve_syrnlliquidjuice"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/ve_talfierancv",
+        "value": [
+            [
+                0,
+                [
+                    {
+                        "item": "syrenalianmerchant"
+                    },
+                    {
+                        "item": "talfieranbattlerifle"
+                    },
+                    {
+                        "item": "talfieranbolter"
+                    },
+                    {
+                        "item": "talfierancombatrifle"
+                    }
+                ]
+            ]
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/ve_unitarium",
+        "value": [
+            [
+                0,
+                [
+                    {
+                        "item": "syrenalianmerchant"
+                    },
+                    {
+                        "item": "unitariumbattlerifle"
+                    },
+                    {
+                        "item": "unitariumbolter"
+                    },
+                    {
+                        "item": "unitariumcombatrifle"
+                    }
+                ]
+            ]
+        ]
+    }
+]
