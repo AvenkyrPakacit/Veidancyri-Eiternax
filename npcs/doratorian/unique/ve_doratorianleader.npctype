@@ -1,0 +1,60 @@
+{
+  "type" : "ve_doratorianleader",
+  "baseType" : "ve-idle",
+  "npcname" : "Daemina",
+  "identity" : {
+    "gender" : "female"
+    },
+  "scriptConfig" : {
+	//"offeredQuests" : [ "tbd" ],
+	//"turnInQuests" : [ "reuinionofdorator", "tbd" ],
+    "dialog" : {
+	  "converse" : {
+      "default" : {
+		    "default" : [
+            "I care little for who you might be, but what is your reasoning?",
+            "I am Avenkyr <selfname>, holy mother of the Avenkyri."
+          ],
+          "avali" : [
+            "You have that particular scent...",
+            "What is it, avali?",
+            "Pakacit might be interested in you, depending on certain things of course."
+          ],
+          "eilasalian" : [
+            "Yes syrenal?",
+            "Eilasalian, how's things?",
+            "Eilasalian, still denying your vocals of particular parts of the Syrenalian language?"
+          ],
+          "einfieran" : [
+            "Yes syrenal?",
+            "Einfieran, how's things?",
+            "Einfieran, are you by potential chance of the Talfieran Civil Volunteers?"
+          ],
+          "octusarian" : [
+            "Yes syrenal?",
+            "Octusarian, how's things?",
+            "Octusarian, tell me you have nothing to do with Octhyratum."
+          ],
+          "voderaiarkai" : [
+            "<entityname>, it's been awhile!",
+            "<entityname>, have you bleed the sin's flame yet?"
+          ]
+        }
+      }
+    }
+  },
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "doratorianoutfit3chest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "doratorianoutfit3legs", "parameters" : { "colorIndex" : 0 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

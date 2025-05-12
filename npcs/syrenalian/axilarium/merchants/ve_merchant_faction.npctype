@@ -20,8 +20,8 @@
 			"ve_syrnljuiceoctusarian", "ve_octhyratum"
 		]
       },
-      "buyFactorRange" : [ 3.0, 4.0 ],
-      "sellFactorRange" : [ 0.2, 0.2 ],
+      "buyFactorRange" : [ 0.5, 1.5 ],
+      "sellFactorRange" : [ 0.5, 1.5 ],
       "numItems" : 16,
       "paneLayoutOverride" : {
         "windowtitle" : {
