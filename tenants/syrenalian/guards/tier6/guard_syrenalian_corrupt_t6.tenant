@@ -1,16 +1,18 @@
 {
-  "name": "ve_villager_syrenalian",
-  "priority": 2,
+  "name": "guard_syrenalian_corrupt_t6",
+  "priority": 5,
   "colonyTagCriteria": {
     "light": 1,
     "door": 1,
-    "syrenalian": 6
+    "syrenalian": 8,
+    "combat": 8
   },
   "tenants": [
     {
       "spawn": "npc",
       "species": ["eilasalian", "einfieran", "octusarian"],
-      "type": "generictenant",
+      "level": 1,
+      "type": "ve_corrupt_guard",
       "overrides": {
        }
      }

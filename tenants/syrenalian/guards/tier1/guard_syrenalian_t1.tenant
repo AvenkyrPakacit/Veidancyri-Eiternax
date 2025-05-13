@@ -1,5 +1,5 @@
 {
-  "name": "guard_syrenalian_corrupt",
+  "name": "guard_syrenalian_t1",
   "priority": 5,
   "colonyTagCriteria": {
     "light": 1,
@@ -12,7 +12,7 @@
       "spawn": "npc",
       "species": ["eilasalian", "einfieran", "octusarian"],
       "level": 1,
-      "type": "ve_corrupt_guard",
+      "type": "ve_guard",
       "overrides": {
        }
      }

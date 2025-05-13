@@ -1,16 +1,18 @@
 {
-  "name": "ve_villager_mayor",
-  "priority": 2,
+  "name": "guard_syrenalian_t2",
+  "priority": 5,
   "colonyTagCriteria": {
     "light": 1,
     "door": 1,
-    "syrenalian": 6
+    "syrenalian": 8,
+    "combat": 8
   },
   "tenants": [
     {
       "spawn": "npc",
       "species": ["eilasalian", "einfieran", "octusarian"],
-      "type": "ve_mayor",
+      "level": 1,
+      "type": "ve_guard",
       "overrides": {
        }
      }
