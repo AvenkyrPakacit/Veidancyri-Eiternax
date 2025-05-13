@@ -1,8 +1,8 @@
 {
-	"objectName": "syrenalianbeacon",
+	"objectName": "syrenalianbeacon_eilasalian",
 	"rarity": "Rare",
 	"category": "decorative",
-	"price": 150,
+	"price": 300,
 	"printable": false,
 	"description": "A beacon made of syrenalian chrome.",
 	"shortdescription": "Syrenalian Beacon",
@@ -24,11 +24,11 @@
 		1
 	],
 	"interactAction": "OpenTeleportDialog",
-	"interactData": "/interface/warping/remoteteleporter.config",
-	"inventoryIcon": "syrenalianbeaconicon.png",
+	"interactData": "/interface/warping/warp_unique_syrenalia.config",
+	"inventoryIcon": "syrenalianbeaconicon_eilasalian.png",
 	"orientations": [
 		{
-			"imageLayers" : [ { "image" : "syrenalianbeacon.png:<color>.<frames>", "fullbright" : true }, { "image" : "syrenalianbeaconlit.png:<color>.<frames>" } ],
+			"imageLayers" : [ { "image" : "syrenalianbeacon_eilasalian.png:<color>.<frames>", "fullbright" : true }, { "image" : "syrenalianbeaconlit_eilasalian.png:<color>.<frames>" } ],
             "imagePosition": [
 				10,
 				0
