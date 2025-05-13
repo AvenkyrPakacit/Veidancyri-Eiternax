@@ -1,0 +1,18 @@
+{
+  "type" : "ve_bountyhunter",
+  "baseType" : "villageguard",
+  "dropPools" : [],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "pools" : ["common"],
+      "enableParticipation" : true,
+      "timeLimit" : 30,
+      "nearbyQuestLimit" : 2,
+      "nearbyQuestRange" : 50,
+      "chance" : 0.02
+    }
+  }
+}

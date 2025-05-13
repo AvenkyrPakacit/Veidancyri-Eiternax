@@ -1,0 +1,18 @@
+{
+  "type" : "ve_merchant_shady",
+  "baseType" : "villager",
+  "dropPools" : [],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "pools" : ["merchant", "shady"],
+      "enableParticipation" : true,
+      "timeLimit" : 30,
+      "nearbyQuestLimit" : 2,
+      "nearbyQuestRange" : 50,
+      "chance" : 0.02
+    }
+  }
+}

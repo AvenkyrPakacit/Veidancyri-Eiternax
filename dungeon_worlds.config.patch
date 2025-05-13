@@ -7,7 +7,7 @@
 	  "weatherPool" : [
 		[1.0, "clear"]
 	  ],
-      "threatLevel" : 1,
+      "threatLevel" : 6,
       "gravity" : 80,
       "worldSize" : [1000, 800],
       "dungeonBaseHeight" : 300,

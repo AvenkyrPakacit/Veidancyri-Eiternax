@@ -69,7 +69,7 @@
     },
     "description": "A Syrenalian trade table.",
     "shortdescription": "Syrenalian Trade Table",
-    "race": "eilasalian",
+    "race": "generic",
     "category": "Merchant",
     "price": 1000,
     "printable": false,

@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "description" : "A teleporter comprised of Syrenalian Chrome. \n^red;Destroyed when broken",
   "shortdescription" : "Syrenalian Teleporter",
-  "race" : "octusarian",
+  "race" : "generic",
   "apexDescription" : "A teleporter! Perhaps to a distant world?",
   "avianDescription" : "Pretty lights and a manuefacturing lable of Octhyratum.",
   "floranDescription" : "A teleporter. Floran feelsss the metal.",
