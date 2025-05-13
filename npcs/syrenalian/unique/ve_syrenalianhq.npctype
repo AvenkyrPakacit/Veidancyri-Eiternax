@@ -15,10 +15,18 @@
             "What is it? I'm busy.",
             "I am High Queen <selfname> Katafiera? Now who are you exactly...?"
           ],
+          // Doratorian
+          "voderaiarkai" : [
+            "Ah a Child of Daemina potentially?",
+            "Not to insult overtly, although: what's the reason a random avian wolf cat is within my presence?",
+            "The only avian wolf cat I trust enough is Avenkyr Daemina. Are you one of her children?"
+          ],
+          // Foreign
           "avali" : [
             "Oh your one of those ammonia-blooded raptors?",
-            "I trust that you'll leave my presence for your own well-being?"
+            "I trust that you'll leave my presence for your own well-being, frost blood?"
           ],
+          // Syrenalian
           "eilasalian" : [
             "Ah <entityname>! How's things?",
             "I trust your service to the throne is healthy?"
@@ -30,11 +38,6 @@
           "octusarian" : [
             "Ah <entityname>! How's things?",
             "I trust your service to the throne is bloody?"
-          ],
-          "voderaiarkai" : [
-            "Ah a Child of Daemina potentially?",
-            "Not to insult overtly, although: what's the reason a random avian wolf cat is within my presence?",
-            "The only avian wolf cat I trust enough is Avenkyr Daemina. Are you one of her children?"
           ]
         }
       }
