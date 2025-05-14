@@ -2,9 +2,25 @@
 
 ## Storylines:
 
+### Azkuvalian
+
+Started by speaking with Arekena Azkedara after finding a unique Syrenalian beacon.
+
+### Dasdarfoxan
+
+Started by speaking with Madame Ikaroke after finding a unique Syrenalian beacon.
+
+### Doratorian
+
+Started by speaking with Avenkyr Daemina after finding a unique Syrenalian beacon.
+
+### Syrenalian
+
+Started by speaking with Aeriskala Katafiera after finding a unique Syrenalian beacon.
+
 ### Veidancyri
 
-Accessible via interacting with a Syrenalian Beacon.
+Questline is accessible per finished main quest.
 
 ## Planets
 
