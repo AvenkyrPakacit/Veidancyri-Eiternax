@@ -8,7 +8,7 @@
  "margin":0,
  "name":"Syrenalian",
  "spacing":0,
- "tilecount":5,
+ "tilecount":6,
  "tiledversion":"1.11.0",
  "tileheight":80,
  "tileproperties":
@@ -61,6 +61,16 @@
          "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"syrenalianteleporter",
+         "tilesetDirection":"right"
+        },
+     "5":
+        {
+         "\/\/description":"A beacon made of syrenalian chrome.",
+         "\/\/name":"syrenalianbeacon_eilasalian",
+         "\/\/shortdescription":"Syrenalian Beacon",
+         "imagePositionX":"10",
+         "imagePositionY":"0",
+         "object":"syrenalianbeacon_eilasalian",
          "tilesetDirection":"right"
         }
     },
@@ -115,6 +125,16 @@
          "imagePositionY":"string",
          "object":"string",
          "tilesetDirection":"string"
+        },
+     "5":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
         }
     },
  "tiles":
@@ -148,6 +168,12 @@
          "image":"objects-by-origin\/syrenalian\/syrenalianteleporter.png",
          "imageheight":80,
          "imagewidth":64
+        },
+     "5":
+        {
+         "image":"objects-by-origin\/syrenalian\/syrenalianbeacon_eilasalian.png",
+         "imageheight":13,
+         "imagewidth":10
         }
     },
  "tilewidth":64,
