@@ -24,7 +24,7 @@
 		1
 	],
 	"interactAction": "OpenTeleportDialog",
-	"interactData": "/interface/warping/remoteteleporter.config",
+	"interactData" : "/interface/warping/destinationonly.config",
 	"inventoryIcon": "syrenalianbeaconicon.png",
 	"orientations": [
 		{

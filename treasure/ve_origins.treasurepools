@@ -46,8 +46,7 @@
         {"weight" : 1.0, "pool" : "syrnlArmourRandomPools"},
         {"weight" : 1.0, "pool" : "syrenalianCodexPools"},
         {"weight" : 1.0, "pool" : "SyrenalianmetalPool"},
-        {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"},
-        {"weight" : 1.0, "pool" : "SyrenalianBlueprintPools"}
+        {"weight" : 1.0, "pool" : "syrnlWeaponsRandomPools"}
       ],
       "poolRounds" : [
         [0.10, 0],
