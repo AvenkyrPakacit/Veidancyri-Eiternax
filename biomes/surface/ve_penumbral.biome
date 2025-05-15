@@ -154,6 +154,15 @@
       },
       {
         "mode" : "floor",
+        "priority" : 1,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:veryRare",
+
+        "type" : "microdungeon",
+        "microdungeons" : [ "ve_syrnl_lookouts" ]
+      },
+      {
+        "mode" : "floor",
         "priority" : 2.0,
         "variants" : 1,
         "distribution" : "/biomes/distributions.config:denseLarge",

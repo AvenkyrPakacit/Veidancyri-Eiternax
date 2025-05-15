@@ -140,6 +140,15 @@
         "type" : "microdungeon",
         "microdungeons" : [ "gardenmicrodungeons" ]
       },
+      {
+        "mode" : "floor",
+        "priority" : 1,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:veryRare",
+
+        "type" : "microdungeon",
+        "microdungeons" : [ "ve_syrnl_lookouts" ]
+      },
       // TERRAIN
       {
         "mode" : "floor",
