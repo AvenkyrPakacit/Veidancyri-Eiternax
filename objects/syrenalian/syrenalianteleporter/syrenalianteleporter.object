@@ -4,6 +4,7 @@
   "printable" : false,
   "price" : 500,
   "rarity" : "Common",
+  "objectType" : "teleporter",
   "description" : "A teleporter comprised of Syrenalian Chrome. \n^red;Destroyed when broken",
   "shortdescription" : "Syrenalian Teleporter",
   "race" : "generic",

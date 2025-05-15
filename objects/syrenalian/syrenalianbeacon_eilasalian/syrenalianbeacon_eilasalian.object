@@ -1,9 +1,10 @@
 {
 	"objectName": "syrenalianbeacon_eilasalian",
 	"rarity": "Rare",
-	"category": "decorative",
+	"category": "teleportMarker",
 	"price": 300,
 	"printable": false,
+	"objectType" : "teleporter",
 	"description": "A beacon made of syrenalian chrome.",
 	"shortdescription": "Syrenalian Beacon",
 	"race": "eilasalian",

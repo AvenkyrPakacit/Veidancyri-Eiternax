@@ -5,7 +5,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJxjYBgeYD8WjCyHTf2o2KjYcBDDleaRxY4D8TkkfHyIiKFjAC6oS2w=",
+         "data":"eJxjYBgeYD8WjCyHTf2o2KjYqNjAiKHn01NoYiD+OSwYAJhLMCI=",
          "encoding":"base64",
          "height":60,
          "id":1,
@@ -19,7 +19,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBgeYD8Qv0fC+5Hk3mNRPyo2KjacxEYKAABBaSbX",
+         "data":"eJxjYBgeYD8Qv0fC+5Hk3mNRPyo2KjYqNrBihMA5LBgAbyQzRA==",
          "encoding":"base64",
          "height":60,
          "id":2,
@@ -95,15 +95,15 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":198,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":222,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/supports.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
         }, 
         {
          "firstgid":259,

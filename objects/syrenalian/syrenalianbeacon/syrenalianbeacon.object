@@ -1,9 +1,10 @@
 {
 	"objectName": "syrenalianbeacon",
 	"rarity": "Rare",
-	"category": "decorative",
+	"category": "teleportMarker",
 	"price": 150,
 	"printable": false,
+	"objectType" : "teleporter",
 	"description": "A beacon made of syrenalian chrome.",
 	"shortdescription": "Syrenalian Beacon",
 	"race": "generic",
@@ -23,7 +24,7 @@
 		0,
 		1
 	],
-	"interactAction": "OpenTeleportDialog",
+	"interactAction" : "OpenTeleportDialog",
 	"interactData" : "/interface/warping/destinationonly.config",
 	"inventoryIcon": "syrenalianbeaconicon.png",
 	"orientations": [

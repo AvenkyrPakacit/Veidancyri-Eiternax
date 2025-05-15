@@ -5,7 +5,11 @@
     "value" : {
       "primaryDungeon" : "ve_syrenalia_hq",
 	  "weatherPool" : [
-		[1.0, "clear"]
+		[0.30, "clear"],
+		[0.25, "drizzle"],
+		[0.25, "rain"],
+		[0.10, "snowstorm"],
+		[0.10, "storm"]
 	  ],
       "threatLevel" : 6,
       "gravity" : 80,
