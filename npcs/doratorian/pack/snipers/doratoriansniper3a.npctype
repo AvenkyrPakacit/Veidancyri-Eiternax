@@ -1,7 +1,6 @@
 {
   "type" : "doratoriansniper3a",
   "baseType" : "guard",
-  "levelVariance" : [3],
   "dropPools" : [ "doratorianOriginPools" ],
   "scriptConfig" : {
     "behaviorConfig" : {

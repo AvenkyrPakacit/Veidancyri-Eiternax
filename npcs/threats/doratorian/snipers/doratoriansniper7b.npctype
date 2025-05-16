@@ -1,7 +1,6 @@
 {
   "type" : "doratoriansniper7b",
   "baseType" : "hostile",
-  "levelVariance" : [7],
   "dropPools" : [ "doratorianOriginPools" ],
   "scriptConfig" : {
     "behaviorConfig" : {
