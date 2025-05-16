@@ -1,0 +1,16 @@
+{
+  "type" : "ve-idle",
+  "baseType" : "base",
+  "damageTeamType" : "ghostly",
+  "persistent" : true,
+  "dropPools" : [ ],
+  "scriptConfig" : {
+    "behavior" : "simple",
+    "behaviorConfig" : {
+      "alwaysRun" : false,
+      "wanderWaitTime" : [6.0, 12.0],
+      "wanderTime" : [0.1, 0.2],
+      "wanderDistance" : 0.5
+    }
+  }
+}

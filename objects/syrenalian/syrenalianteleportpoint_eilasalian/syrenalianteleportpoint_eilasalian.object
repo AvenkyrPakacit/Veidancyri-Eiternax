@@ -1,0 +1,43 @@
+{
+	"objectName": "syrenalianteleportpoint_eilasalian",
+	"rarity": "Rare",
+	"category": "teleportMarker",
+	"price": 0,
+	"printable": false,
+	"objectType" : "teleporter",
+	"description": "A odd orb made of syrenalian chrome.",
+	"shortdescription": "Syrenalian teleportation point",
+	"race": "generic",
+	"apexDescription": "A teleportation point...",
+	"avianDescription": "A odd orb! Oh how it glows!",
+	"floranDescription": "Floran likesss thisss.",
+	"glitchDescription": "Weary. A odd orb...",
+	"humanDescription": "A odd orb for whom?",
+	"hylotlDescription": "This odd orb glows in combined light.",
+	"novakidDescription": "Who left this odd orb here?",
+	"lightColor": [
+		40,
+		80,
+		100
+	],
+	"lightPosition": [
+		0,
+		1
+	],
+	"interactAction" : "OpenTeleportDialog",
+	"interactData" : "/interface/warping/warp_unique_syrenalia_tpoint.config",
+	"inventoryIcon": "syrenalianteleportpoint_eilasalian.png",
+	"orientations": [
+		{
+			"imageLayers" : [ { "image" : "syrenalianteleportpoint_eilasalian.png:<color>.<frames>", "fullbright" : true }, { "image" : "syrenalianteleportpoint_eilasalianlit.png:<color>.<frames>" } ],
+            "imagePosition": [
+				10,
+				0
+			],
+			"frames": 3,
+			"animationCycle": 0.5,
+			"spaceScan": 0.1,
+			"anchors": ["bottom"]
+		}
+	]
+}

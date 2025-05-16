@@ -1,0 +1,60 @@
+{
+  "type" : "ve_syrenalianhq",
+  "baseType" : "ve-idle",
+  "npcname" : "Aeriskala",
+  "identity" : {
+    "gender" : "female"
+    },
+  "scriptConfig" : {
+	//"offeredQuests" : [ "tbd" ],
+	//"turnInQuests" : [ "reuinionofsyrenalia", "tbd" ],
+    "dialog" : {
+	  "converse" : {
+      "default" : {
+		    "default" : [
+            "What is it? I'm busy.",
+            "I am High Queen <selfname> Katafiera? Now who are you exactly...?"
+          ],
+          // Doratorian
+          "voderaiarkai" : [
+            "Ah a Child of Daemina potentially?",
+            "Not to insult overtly, although: what's the reason a random avian wolf cat is within my presence?",
+            "The only avian wolf cat I trust enough is Avenkyr Daemina. Are you one of her children?"
+          ],
+          // Foreign
+          "avali" : [
+            "Oh your one of those ammonia-blooded raptors?",
+            "I trust that you'll leave my presence for your own well-being, frost blood?"
+          ],
+          // Syrenalian
+          "eilasalian" : [
+            "Ah <entityname>! How's things?",
+            "I trust your service to the throne is healthy?"
+          ],
+          "einfieran" : [
+            "Ah <entityname>! How's things?",
+            "I trust your service to the throne is kindled?"
+          ],
+          "octusarian" : [
+            "Ah <entityname>! How's things?",
+            "I trust your service to the throne is bloody?"
+          ]
+        }
+      }
+    }
+  },
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "syrenalianoutfit3chest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "syrenalianoutfit3legs", "parameters" : { "colorIndex" : 0 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

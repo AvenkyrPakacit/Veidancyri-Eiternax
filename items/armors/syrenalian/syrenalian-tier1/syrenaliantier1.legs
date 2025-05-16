@@ -1,6 +1,6 @@
 {
   "itemName" : "syrenaliantier1pants",
-  "price" : 960,
+  "price" : 320,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Common",
@@ -15,22 +15,22 @@
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 3.3
+      "baseMultiplier" : 1.1
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 3.3
+      "amount" : 0.2
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 3.3
+      "amount" : 2
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 3.3
+      "amount" : 2
     }
   ],
   "itemTags" : [ "tier1armour" ],

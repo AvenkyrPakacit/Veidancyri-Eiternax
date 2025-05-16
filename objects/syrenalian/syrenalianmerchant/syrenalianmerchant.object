@@ -1,101 +1,120 @@
 {
-  "objectName" : "syrenalianmerchant",
-  "colonyTags" : ["syrenalian", "commerce"],
-  "rarity" : "Legendary",
-  "interactAction" : "OpenMerchantInterface",
-  "interactData" : {
-    "config" : "/interface/windowconfig/merchant.config",
-    "paneLayoutOverride" : {
-      "windowtitle" : {
-        "title" : "Commerce Table",
-        "subtitle" : "Stock"
-      }
+    "objectName": "syrenalianmerchant",
+    "colonyTags": [
+        "syrenalian",
+        "commerce"
+    ],
+    "rarity": "Legendary",
+    "interactAction": "OpenMerchantInterface",
+    "interactData": {
+        "config": "/interface/windowconfig/merchant.config",
+        "paneLayoutOverride": {
+            "windowtitle": {
+                "title": "Commerce Table",
+                "subtitle": "Stock"
+            }
+        },
+        "buyFactor": 1,
+        "sellFactor": 0.5,
+        "items": [
+            {
+                "item": "octhyratummerchant"
+            },
+            {
+                "item": "talfieranmerchant"
+            },
+            {
+                "item": "unitariummerchant"
+            },
+            {
+                "item": "vesyrenalmetal1"
+            },
+            {
+                "item": "vesyrenalmetal2"
+            },
+            {
+                "item": "vesyrenalmetal3"
+            },
+            {
+                "item": "vesyrenalmetal4"
+            },
+            {
+                "item": "ve_syrnldrink1"
+            },
+            {
+                "item": "ve_syrnldrink2"
+            },
+            {
+                "item": "ve_syrnldrink3"
+            },
+            {
+                "item": "syrenalianbannerlarge"
+            },
+            {
+                "item": "syrenalianbannersmall"
+            },
+            {
+                "item": "syrenalianteleporter"
+            },
+            {
+                "item": "syrenalianbeacon"
+            },
+            {
+                "item": "syrenalianbeacon_eilasalian"
+            },
+            {
+                "item": "ve_syrnlliquidjuice"
+            }
+        ]
     },
-    "buyFactor" : 1.0,
-    "sellFactor" : 0.5,
-    "items" : [
-    { "item" : "octhyratummerchant" },
-    { "item" : "talfieranmerchant" },
-    { "item" : "unitariummerchant" },
-    { "item" : "vesyrenalmetal1" },
-    { "item" : "vesyrenalmetal2" },
-    { "item" : "vesyrenalmetal3" },
-    { "item" : "vesyrenalmetal4" },
-    { "item" : "ve_syrnldrink1" },
-    { "item" : "ve_syrnldrink2" },
-    { "item" : "ve_syrnldrink3" },
-    { "item" : "commonsyrnlpolearm" },
-    { "item" : "syrenalianoutfit1chest" },
-    { "item" : "syrenalianoutfit1legs" },
-    { "item" : "syrenalianoutfit2chest" },
-    { "item" : "syrenalianoutfit2legs" },
-    { "item" : "syrenalianoutfit3chest" },
-    { "item" : "syrenalianoutfit3legs" },
-    { "item" : "syrenalianoutfit4chest" },
-    { "item" : "syrenalianoutfit4legs" },
-    { "item" : "syrenaliantier1head" },
-    { "item" : "syrenaliantier1chest" },
-    { "item" : "syrenaliantier1pants" },
-    { "item" : "syrenaliantier2head" },
-    { "item" : "syrenaliantier2chest" },
-    { "item" : "syrenaliantier2pants" },
-    { "item" : "syrenaliantier3head" },
-    { "item" : "syrenaliantier3chest" },
-    { "item" : "syrenaliantier3pants" },
-    { "item" : "syrenaliantier4head" },
-    { "item" : "syrenaliantier4chest" },
-    { "item" : "syrenaliantier4pants" },
-    { "item" : "syrenaliantier5ahead" },
-    { "item" : "syrenaliantier5achest" },
-    { "item" : "syrenaliantier5apants" },
-    { "item" : "syrenaliantier5mhead" },
-    { "item" : "syrenaliantier5mchest" },
-    { "item" : "syrenaliantier5mpants" },
-    { "item" : "syrenaliantier5shead" },
-    { "item" : "syrenaliantier5schest" },
-    { "item" : "syrenaliantier5spants" },
-    { "item" : "syrenaliantier6ahead" },
-    { "item" : "syrenaliantier6achest" },
-    { "item" : "syrenaliantier6apants" },
-    { "item" : "syrenaliantier6mhead" },
-    { "item" : "syrenaliantier6mchest" },
-    { "item" : "syrenaliantier6mpants" },
-    { "item" : "syrenaliantier6shead" },
-    { "item" : "syrenaliantier6schest" },
-    { "item" : "syrenaliantier6spants" },
-    { "item" : "syrenalianbannerlarge" },
-    { "item" : "syrenalianbannersmall" },
-    { "item" : "syrenalianteleporter" },
-    { "item" : "syrenalianbeacon" },
-	  { "item" : "ve_syrnlliquidjuice" }
+    "description": "A Syrenalian trade table.",
+    "shortdescription": "Syrenalian Trade Table",
+    "race": "generic",
+    "category": "Merchant",
+    "price": 1000,
+    "printable": false,
+    "unbreakable": false,
+    "lightColor": [
+        40,
+        80,
+        100
+    ],
+    "lightPosition": [
+        0,
+        1
+    ],
+    "apexDescription": "A holographic table. Interesting.",
+    "avianDescription": "By Kluex this table has a welcoming glow.",
+    "floranDescription": "Floran findsss table pretty.",
+    "glitchDescription": "Inquisitive. This table can be used for trade.",
+    "humanDescription": "Hey! I can use this table to trade!",
+    "hylotlDescription": "A finely crafted table. I should meditate on the glow.",
+    "novakidDescription": "Don't see many tables like this 'round 'ere.",
+    "eilasalianDescription": "A commerce table.",
+    "einfieranDescription": "A commerce table.",
+    "octusarianDescription": "A commerce table.",
+    "inventoryIcon": "syrenalianmerchanticon.png",
+    "orientations": [
+        {
+            "imageLayers": [
+                {
+                    "image": "syrenalianmerchant.png:<color>.<frame>",
+                    "fullbright": true
+                },
+                {
+                    "image": "syrenalianmerchantlit.png:<color>.<frame>"
+                }
+            ],
+            "imagePosition": [
+                -15,
+                0
+            ],
+            "frames": 4,
+            "animationCycle": 2,
+            "spaceScan": 0.1,
+            "anchors": [
+                "bottom"
+            ]
+        }
     ]
-  },
-  "description" : "A Syrenalian trade table.",
-  "shortdescription" : "Syrenalian Trade Table",
-  "race" : "eilasalian",
-  "category" : "Merchant",
-  "price" : 1000,
-  "printable" : false,
-  "unbreakable" : false,
-  "apexDescription" : "A holographic table. Interesting.",
-  "avianDescription" : "By Kluex this table has a welcoming glow.",
-  "floranDescription" : "Floran findsss table pretty.",
-  "glitchDescription" : "Inquisitive. This table can be used for trade.",
-  "humanDescription" : "Hey! I can use this table to trade!",
-  "hylotlDescription" : "A finely crafted table. I should meditate on the glow.",
-  "novakidDescription" : "Don't see many tables like this 'round 'ere.",
-  "eilasalianDescription" : "A commerce table.",
-  "einfieranDescription" : "A commerce table.",
-  "octusarianDescription" : "A commerce table.",
-  "inventoryIcon" : "syrenalianmerchanticon.png",
-  "orientations" : [
-    {
-      "dualImage" : "syrenalianmerchant.png:<color>.<frame>",
-      "imagePosition" : [-15, 0],
-      "frames" : 4,
-      "animationCycle" : 2,
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
-  ]
 }

@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "name": "ve_syrnl_lookouts",
+        "species": "generic",
+        "rules": [],
+        "anchor": [
+            "ve_syrnl_lookout_a1", "ve_syrnl_lookout_a2"
+        ],
+        "gravity": 80,
+        "maxRadius": 1000000,
+        "maxParts": 10,
+        "extendSurfaceFreeSpace": 100,
+        "protected": true
+    },
+    "parts": [
+        {
+            "name": "ve_syrnl_lookout_a1",
+            "rules": [
+                [
+                    "ignorePartMaximumRule"
+                ]
+            ],
+            "def": [
+                "tmx",
+                [
+                    "ve_syrnl_lookout_a1.json"
+                ]
+            ],
+            "chance": 75
+        },
+        {
+            "name": "ve_syrnl_lookout_a2",
+            "rules": [
+                [
+                    "ignorePartMaximumRule"
+                ]
+            ],
+            "def": [
+                "tmx",
+                [
+                    "ve_syrnl_lookout_a2.json"
+                ]
+            ],
+            "chance": 25
+        }
+    ]
+}

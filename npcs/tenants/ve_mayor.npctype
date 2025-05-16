@@ -1,0 +1,18 @@
+{
+  "type" : "ve_mayor",
+  "baseType" : "villager",
+  "dropPools" : [],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "pools" : ["tenant"],
+      "enableParticipation" : true,
+      "timeLimit" : 30,
+      "nearbyQuestLimit" : 2,
+      "nearbyQuestRange" : 50,
+      "chance" : 0.02
+    }
+  }
+}

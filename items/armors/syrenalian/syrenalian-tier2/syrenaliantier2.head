@@ -1,12 +1,12 @@
 {
   "itemName" : "syrenaliantier2head",
-  "price" : 4320,
+  "price" : 1440,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headarmour",
-  "description" : "A helmet inlaid with soft padding bears a subtle mane.",
-  "shortdescription" : "Axilari Combat Helm",
+  "description" : "A strong, peaked tungsten helm of great aesthetic value.",
+  "shortdescription" : "Sparrow Helm",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -18,22 +18,22 @@
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 4.45
+      "baseMultiplier" : 1.15
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 4.45
+      "amount" : 0.3
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 4.45
+      "amount" : 3
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 4.45
+      "amount" : 3
     }
   ],
 

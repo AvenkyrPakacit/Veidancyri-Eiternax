@@ -1,0 +1,66 @@
+{
+  "type" : "illiatariaxilari3",
+  "baseType" : "guard",
+  "levelVariance" : [3, 5],
+  "dropPools" : [ "axilariumTreasure3" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmemberaxilari"]
+    },
+    "dialog" : {
+      "attack" : "/dialog/axilariumaxilari.config:attack",
+      "beacon" : "/dialog/axilariumaxilari.config:beacon",
+      "cantReach" : "/dialog/axilariumaxilari.config:cantReach",
+      "cheerOn" : "/dialog/axilariumaxilari.config:cheerOn",
+      "converse" : "/dialog/axilariumaxilari.config:converse",
+      "enclosedArea" : "/dialog/axilariumaxilari.config:enclosedArea",
+      "final" : "/dialog/axilariumaxilari.config:final",
+      "greeting" : "/dialog/axilariumaxilari.config:greeting",
+      "hail" : "/dialog/axilariumaxilari.config:hail",
+      "helpme" : "/dialog/axilariumaxilari.config:helpme",
+      "killedTarget" : "/dialog/axilariumaxilari.config:killedTarget",
+      "lostTarget" : "/dialog/axilariumaxilari.config:lostTarget",
+      "otherDeed" : "/dialog/axilariumaxilari.config:otherDeed",
+      "outOfSight" : "/dialog/axilariumaxilari.config:outOfSight",
+      "reattack" : "/dialog/axilariumaxilari.config:reattack",
+      "rent" : "/dialog/axilariumaxilari.config:rent",
+      "severe" : "/dialog/axilariumaxilari.config:severe",
+      "tagCriteria" : "/dialog/axilariumaxilari.config:tagCriteria"
+    }
+  },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "syrenaliantier2headpa" },
+            { "name" : "syrenaliantier3headpa" },
+            { "name" : "syrenaliantier4headpa" }
+			],
+            "chest" : [ { "name" : "syrenaliantier2chestpa" },
+            { "name" : "syrenaliantier3chestpa" },
+            { "name" : "syrenaliantier4chestpa" }
+			],
+            "legs" : [ { "name" : "syrenaliantier2pantspa" },
+            { "name" : "syrenaliantier3pantspa" },
+            { "name" : "syrenaliantier4pantspa" }
+			],
+            "primary" : [
+          { "name" : "unitariumbattlerifle" },
+          { "name" : "unitariumbolter" },
+          { "name" : "unitariumcombatrifle" },
+          { "name" : "commonsyrnlpolearm" }
+        ],
+        "sheathedprimary" : [
+          { "name" : "commonaxe" }
+        ],
+        "alt" : [
+          { "name" : "commondagger" },
+          { "name" : "commonmachinepistol" },
+          { "name" : "commonpistol" }
+        ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -8,7 +8,7 @@
  "margin":0,
  "name":"Syrenalian",
  "spacing":0,
- "tilecount":5,
+ "tilecount":9,
  "tiledversion":"1.11.0",
  "tileheight":80,
  "tileproperties":
@@ -18,8 +18,8 @@
          "\/\/description":"A large syrenalian wallbanner from a syrenalian academy.",
          "\/\/name":"syrenalianbannerlarge",
          "\/\/shortdescription":"Large syrenalian Wall Banner",
-         "imagePositionX":"0",
-         "imagePositionY":"0",
+         "imagePositionX":"2",
+         "imagePositionY":"-2",
          "object":"syrenalianbannerlarge",
          "tilesetDirection":"right"
         },
@@ -28,8 +28,8 @@
          "\/\/description":"A small syrenalian wallbanner from a syrenalian academy.",
          "\/\/name":"syrenalianbannersmall",
          "\/\/shortdescription":"Small syrenalian Wall Banner",
-         "imagePositionX":"0",
-         "imagePositionY":"0",
+         "imagePositionX":"2",
+         "imagePositionY":"-2",
          "object":"syrenalianbannersmall",
          "tilesetDirection":"right"
         },
@@ -38,7 +38,7 @@
          "\/\/description":"A beacon made of syrenalian chrome.",
          "\/\/name":"syrenalianbeacon",
          "\/\/shortdescription":"Syrenalian Beacon",
-         "imagePositionX":"0",
+         "imagePositionX":"10",
          "imagePositionY":"0",
          "object":"syrenalianbeacon",
          "tilesetDirection":"right"
@@ -48,7 +48,7 @@
          "\/\/description":"A Syrenalian trade table.",
          "\/\/name":"syrenalianmerchant",
          "\/\/shortdescription":"Syrenalian Trade Table",
-         "imagePositionX":"0",
+         "imagePositionX":"-15",
          "imagePositionY":"0",
          "object":"syrenalianmerchant",
          "tilesetDirection":"right"
@@ -58,9 +58,49 @@
          "\/\/description":"A teleporter comprised of Syrenalian Chrome. \n^red;Destroyed when broken",
          "\/\/name":"syrenalianteleporter",
          "\/\/shortdescription":"Syrenalian Teleporter",
-         "imagePositionX":"0",
+         "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"syrenalianteleporter",
+         "tilesetDirection":"right"
+        },
+     "5":
+        {
+         "\/\/description":"A beacon made of syrenalian chrome.",
+         "\/\/name":"syrenalianbeacon_eilasalian",
+         "\/\/shortdescription":"Syrenalian Beacon",
+         "imagePositionX":"10",
+         "imagePositionY":"0",
+         "object":"syrenalianbeacon_eilasalian",
+         "tilesetDirection":"right"
+        },
+     "6":
+        {
+         "\/\/description":"A odd orb made of syrenalian chrome.",
+         "\/\/name":"syrenalianteleportpoint",
+         "\/\/shortdescription":"Syrenalian teleportation point",
+         "imagePositionX":"10",
+         "imagePositionY":"0",
+         "object":"syrenalianteleportpoint",
+         "tilesetDirection":"right"
+        },
+     "7":
+        {
+         "\/\/description":"A odd orb made of syrenalian chrome.",
+         "\/\/name":"syrenalianteleportpoint_eilasalian",
+         "\/\/shortdescription":"Syrenalian teleportation point",
+         "imagePositionX":"10",
+         "imagePositionY":"0",
+         "object":"syrenalianteleportpoint_eilasalian",
+         "tilesetDirection":"right"
+        },
+     "8":
+        {
+         "\/\/description":"A teleporter comprised of Syrenalian Chrome. \n^red;Destroyed when broken",
+         "\/\/name":"syrenalianteleporter_eilasalian",
+         "\/\/shortdescription":"Syrenalian Teleporter",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"syrenalianteleporter_eilasalian",
          "tilesetDirection":"right"
         }
     },
@@ -115,6 +155,46 @@
          "imagePositionY":"string",
          "object":"string",
          "tilesetDirection":"string"
+        },
+     "5":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "6":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "7":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "8":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
         }
     },
  "tiles":
@@ -146,6 +226,30 @@
      "4":
         {
          "image":"objects-by-origin\/syrenalian\/syrenalianteleporter.png",
+         "imageheight":80,
+         "imagewidth":64
+        },
+     "5":
+        {
+         "image":"objects-by-origin\/syrenalian\/syrenalianbeacon_eilasalian.png",
+         "imageheight":13,
+         "imagewidth":10
+        },
+     "6":
+        {
+         "image":"objects-by-origin\/syrenalian\/syrenalianteleportpoint.png",
+         "imageheight":13,
+         "imagewidth":10
+        },
+     "7":
+        {
+         "image":"objects-by-origin\/syrenalian\/syrenalianteleportpoint_eilasalian.png",
+         "imageheight":13,
+         "imagewidth":10
+        },
+     "8":
+        {
+         "image":"objects-by-origin\/syrenalian\/syrenalianteleporter_eilasalian.png",
          "imageheight":80,
          "imagewidth":64
         }

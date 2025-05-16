@@ -55,10 +55,26 @@
 	},
 	{
 		"op": "add",
+		"path": "/initialquests/thatylian",
+		"value": [
+			"protectorate",
+			"veazkuvalianstorystart"
+		]
+	},
+	{
+		"op": "add",
 		"path": "/initialquests/voderaiarkai",
 		"value": [
 			"protectorate",
 			"vedoratorianstorystart"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/xyatylian",
+		"value": [
+			"protectorate",
+			"veazkuvalianstorystart"
 		]
 	}
 ]

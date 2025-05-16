@@ -1,12 +1,12 @@
 {
   "itemName" : "syrenaliantier3head",
-  "price" : 5760,
+  "price" : 1920,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "Metalic rods of plate stem forth upon a noble visage.",
-  "shortdescription" : "Axilari Specialist Helm",
+  "description" : "The titanium clad Glitch fights with honour. And a sharp sword...",
+  "shortdescription" : "Knight's Helm",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -18,22 +18,22 @@
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 7.55
+      "baseMultiplier" : 1.15
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 7.55
+      "amount" : 0.3
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 7.55
+      "amount" : 3
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 7.55
+      "amount" : 3
     }
   ],
 
