@@ -1,33 +1,33 @@
 {
-  "itemName" : "doratoriansrtier7",
-  "price" : 10935,
+  "itemName" : "doratorianptier1",
+  "price" : 640,
   "maxStack" : 1,
-  "rarity" : "Legendary",
-  "description" : "A decent long range rifle, often used by voderai arkai hunters. With a added scope and foregrip.",
-  "shortdescription" : "Scoped Anacal",
+  "rarity" : "Common",
+  "description" : "A decent revolver often wielded by voderai arkai hunters.",
+  "shortdescription" : "Ariakita",
   "tooltipKind" : "gun",
-  "category" : "sniperRifle",
-  "twoHanded" : true,
-  "itemTags" : ["weapon","ranged","sniperrifle","upgradeableWeapon"],
-  "level" : 7,
+  "category" : "pistol",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","pistol","upgradeableWeapon"],
+  "level" : 1,
 
-  "inventoryIcon" : "doratoriansrtier7.png",
+  "inventoryIcon" : "doratorianptier1.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "doratoriansrtier7.png",
+    "middle" : "doratorianptier1.png",
     "barrel" : "",
     "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
   },
   "animationCustom" : {
     "sounds" : {
-      "fire" : ["/sfx/gun/ve_chaingun-fire.ogg"]
+      "fire" : ["/sfx/gun/ve_gunfire.ogg"]
     }
   },
 
-  "baseOffset" : [0.6, 0.3],
-  "muzzleOffset" : [2.9, -0.2],
+  "baseOffset" : [0.5, 0.25],
+  "muzzleOffset" : [1.4, 0.3],
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
@@ -37,49 +37,47 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
 
-    "fireTime" : 1.3,
-    "baseDps" : 96.79,
-    "energyUsage" : 25.5,
-    "inaccuracy" : 0.008,
+    "fireTime" : 0.6,
+    "baseDps" : 6.25,
+    "energyUsage" : 18.75,
+    "inaccuracy" : 0.025,
 
     "projectileCount" : 1,
     "fireType" : "auto",
 
     "projectileType" : "standardbullet",
     "projectileParameters" : {
-      "knockback" : 22
+      "knockback" : 6
     },
     "stances" : {
       "idle" : {
         "armRotation" : 0,
         "weaponRotation" : 0,
-        "twoHanded" : true,
+        "twoHanded" : false,
 
         "allowRotate" : true,
         "allowFlip" : true
       },
       "fire" : {
         "duration" : 0,
-        "armRotation" : 5,
-        "weaponRotation" : 5,
-        "twoHanded" : true,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : false,
 
         "allowRotate" : false,
         "allowFlip" : false
       },
       "cooldown" : {
-        "duration" : 0.25,
-        "armRotation" : 5,
-        "weaponRotation" : 5,
-        "twoHanded" : true,
+        "duration" : 0.15,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : false,
 
         "allowRotate" : false,
         "allowFlip" : false
       }
     }
   },
-
-  "altAbilityType" : "markedshot",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

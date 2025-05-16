@@ -1,5 +1,5 @@
 {
-  "type" : "doratoriansniper7b",
+  "type" : "doratoriansniper3b",
   "baseType" : "hostile",
   "dropPools" : [ "doratorianOriginPools" ],
   "scriptConfig" : {
@@ -12,17 +12,17 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "doratoriantier6accelerator" }
+            "head" : [ { "name" : "doratoriantier3head" }
 			],
-            "chest" : [ { "name" : "doratoriantier6accelerator" }
+            "chest" : [ { "name" : "doratoriantier3chest" }
 			],
-            "legs" : [ { "name" : "doratoriantier6accelerator" }
+            "legs" : [ { "name" : "doratoriantier3pants" }
 			],
             "primary" : [
-          { "name" : "doratoriansrtier7" }
+          { "name" : "doratoriansrtier3" }
         ],
         "sheathedprimary" : [
-          { "name" : "commonspear" }
+          { "name" : "doratorianptier3" }
         ],
         "alt" : [
           { "name" : "commondagger" }
