@@ -1,12 +1,12 @@
 {
   "itemName" : "syrenaliantier4head",
-  "price" : 7200,
+  "price" : 2400,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "Segmented fins guard the sides of the face. A metalic plume is raised within a crossed spike.",
-  "shortdescription" : "Vexara Helm",
+  "description" : "A durasteel helm that is built for defense.",
+  "shortdescription" : "Lake Helm",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -18,22 +18,22 @@
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 7.45
+      "baseMultiplier" : 1.15
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 7.45
+      "amount" : 0.3
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 7.45
+      "amount" : 3
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 7.45
+      "amount" : 3
     }
   ],
 

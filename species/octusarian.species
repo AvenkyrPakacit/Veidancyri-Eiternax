@@ -21,18 +21,30 @@ They originate from the penumbral moon, Octusaria of the planet, Dorator with mo
       { "item" : "syrenaliantier1head" },
       { "item" : "syrenaliantier1chest" },
       { "item" : "syrenaliantier1pants" },
+      { "item" : "syrenaliantier1headpa" },
+      { "item" : "syrenaliantier1chestpa" },
+      { "item" : "syrenaliantier1pantspa" },
       { "item" : "syrenaliantier2head" },
       { "item" : "syrenaliantier2chest" },
       { "item" : "syrenaliantier2pants" },
+      { "item" : "syrenaliantier2headpa" },
+      { "item" : "syrenaliantier2chestpa" },
+      { "item" : "syrenaliantier2pantspa" },
       { "item" : "commonsyrnlpolearm" },
       { "item" : "uncommonsyrnlpolearm" },
 // Anvil2
       { "item" : "syrenaliantier3head" },
+      { "item" : "syrenaliantier3headpa" },
       { "item" : "syrenaliantier3chest" },
+      { "item" : "syrenaliantier3chestpa" },
       { "item" : "syrenaliantier3pants" },
+      { "item" : "syrenaliantier3pantspa" },
       { "item" : "syrenaliantier4head" },
+      { "item" : "syrenaliantier4headpa" },
       { "item" : "syrenaliantier4chest" },
+      { "item" : "syrenaliantier4chestpa" },
       { "item" : "syrenaliantier4pants" },
+      { "item" : "syrenaliantier4pantspa" },
       { "item" : "raresyrnlpolearm" },
 // Anvil3
       { "item" : "syrenaliantier5ahead" },
@@ -77,10 +89,10 @@ They originate from the penumbral moon, Octusaria of the planet, Dorator with mo
 	  
 	  ]
   },
-  
   "altOptionAsUndyColor" : true,
   "headOptionAsHairColor" : true,
   "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
   "genders" : [
     {
        "name" : "male",

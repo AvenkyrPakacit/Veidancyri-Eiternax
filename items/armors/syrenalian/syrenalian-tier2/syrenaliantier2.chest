@@ -1,44 +1,47 @@
 {
   "itemName" : "syrenaliantier2chest",
-  "price" : 7200,
+  "price" : 2400,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
-  "description" : "Segmented plates guard the torso as metalic tassets are linked around the waist.",
-  "shortdescription" : "Axilarium Platemail",
+  "description" : "A fortified plate/cravat combo that is both comfortable and stylish.",
+  "shortdescription" : "Sparrow Breastplate",
   "tooltipKind" : "armor",
+
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+
   "femaleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+
   "level" : 2,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 11.75
+      "baseMultiplier" : 1.25
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 11.75
+      "amount" : 0.5
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 11.75
+      "amount" : 5
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 11.75
+      "amount" : 5
     }
   ],
 

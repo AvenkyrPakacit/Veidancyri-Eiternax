@@ -33,17 +33,17 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier1head" },
-            { "name" : "syrenaliantier2head" },
-            { "name" : "syrenaliantier3head" }
+            "head" : [ { "name" : "syrenaliantier1headpa" },
+            { "name" : "syrenaliantier2headpa" },
+            { "name" : "syrenaliantier3headpa" }
 			],
-            "chest" : [ { "name" : "syrenaliantier1chest" },
-            { "name" : "syrenaliantier2chest" },
-            { "name" : "syrenaliantier3chest" }
+            "chest" : [ { "name" : "syrenaliantier1chestpa" },
+            { "name" : "syrenaliantier2chestpa" },
+            { "name" : "syrenaliantier3chestpa" }
 			],
-            "legs" : [ { "name" : "syrenaliantier1pants" },
-            { "name" : "syrenaliantier2pants" },
-            { "name" : "syrenaliantier3pants" }
+            "legs" : [ { "name" : "syrenaliantier1pantspa" },
+            { "name" : "syrenaliantier2pantspa" },
+            { "name" : "syrenaliantier3pantspa" }
 			],
             "primary" : [
           { "name" : "unitariumbattlerifle" },

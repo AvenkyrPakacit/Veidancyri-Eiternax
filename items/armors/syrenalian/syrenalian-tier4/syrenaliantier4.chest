@@ -1,49 +1,47 @@
 {
   "itemName" : "syrenaliantier4chest",
-  "price" : 12000,
+  "price" : 4000,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "Call forth the captains of the 3 moons!
-Call forth the guards of the 3 moons!
-Beckon forth the queens of our origin worlds, to push back against the revolt!
-Beckon forth the axilarium, to slay the guilded feathered bitch of Dorator and the rebels amongst it's moons!
-Beckon forth the axilarium, and sing forth the force of will of Syrenalia!
--High Queen of Syrenalia, Katasamnia Eathyratis before her overthrow in year 65ae",
-  "shortdescription" : "Vexara Platemail",
+  "description" : "A breastplate designed to strengthen the wearer's durability, as well as their resolve.",
+  "shortdescription" : "Lake Breastplate",
   "tooltipKind" : "armor",
+
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+
   "femaleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+
   "level" : 4,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 11.75
+      "baseMultiplier" : 1.25
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 11.75
+      "amount" : 0.5
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 11.75
+      "amount" : 5
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 11.75
+      "amount" : 5
     }
   ],
 

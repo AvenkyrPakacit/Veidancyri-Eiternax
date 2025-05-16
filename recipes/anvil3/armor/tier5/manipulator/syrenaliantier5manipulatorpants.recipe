@@ -5,5 +5,5 @@
   ],
   "duration" : 5,
   "output" : { "item" : "syrenaliantier5mpants", "count" : 1 },
-  "groups" : [ "craftingmanipulator", "armours", "all" ]
+  "groups" : [ "craftingmanipulatorpa", "armours", "all" ]
 }

@@ -41,7 +41,7 @@
             { "name" : "syrenaliantier6mhead" },
             { "name" : "syrenaliantier6shead" }
 			],
-            "chest" : [ { "name" : "syrenaliantier4chest" },
+            "chest" : [ { "name" : "syrenaliantier4chestpa" },
             { "name" : "syrenaliantier5achest" },
             { "name" : "syrenaliantier5mchest" },
             { "name" : "syrenaliantier5schest" },
@@ -49,7 +49,7 @@
             { "name" : "syrenaliantier6mchest" },
             { "name" : "syrenaliantier6schest" }
 			],
-            "legs" : [ { "name" : "syrenaliantier4pants" },
+            "legs" : [ { "name" : "syrenaliantier4pantspa" },
             { "name" : "syrenaliantier5apants" },
             { "name" : "syrenaliantier5mpants" },
             { "name" : "syrenaliantier5spants" },

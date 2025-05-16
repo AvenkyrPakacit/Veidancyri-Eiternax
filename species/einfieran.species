@@ -21,18 +21,30 @@ They originate from the volcanic moon, Einfiera of the planet, Dorator with most
       { "item" : "syrenaliantier1head" },
       { "item" : "syrenaliantier1chest" },
       { "item" : "syrenaliantier1pants" },
+      { "item" : "syrenaliantier1headpa" },
+      { "item" : "syrenaliantier1chestpa" },
+      { "item" : "syrenaliantier1pantspa" },
       { "item" : "syrenaliantier2head" },
       { "item" : "syrenaliantier2chest" },
       { "item" : "syrenaliantier2pants" },
+      { "item" : "syrenaliantier2headpa" },
+      { "item" : "syrenaliantier2chestpa" },
+      { "item" : "syrenaliantier2pantspa" },
       { "item" : "commonsyrnlpolearm" },
       { "item" : "uncommonsyrnlpolearm" },
 // Anvil2
       { "item" : "syrenaliantier3head" },
+      { "item" : "syrenaliantier3headpa" },
       { "item" : "syrenaliantier3chest" },
+      { "item" : "syrenaliantier3chestpa" },
       { "item" : "syrenaliantier3pants" },
+      { "item" : "syrenaliantier3pantspa" },
       { "item" : "syrenaliantier4head" },
+      { "item" : "syrenaliantier4headpa" },
       { "item" : "syrenaliantier4chest" },
+      { "item" : "syrenaliantier4chestpa" },
       { "item" : "syrenaliantier4pants" },
+      { "item" : "syrenaliantier4pantspa" },
       { "item" : "raresyrnlpolearm" },
 // Anvil3
       { "item" : "syrenaliantier5ahead" },
@@ -77,10 +89,10 @@ They originate from the volcanic moon, Einfiera of the planet, Dorator with most
 	  
 	  ]
   },
-  
   "altOptionAsUndyColor" : true,
   "headOptionAsHairColor" : true,
   "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
   "genders" : [
     {
        "name" : "male",
@@ -115,11 +127,17 @@ They originate from the volcanic moon, Einfiera of the planet, Dorator with most
   "undyColor" : [
     { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
     { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
-    { "dc1f00" : "51AD7E", "be1b00" : "44876D", "951500" : "265B4F" }
+    { "dc1f00" : "51AD7E", "be1b00" : "44876D", "951500" : "265B4F" },
+    { "dc1f00" : "AD9555", "be1b00" : "877A49", "951500" : "5B4F2E" },
+    { "dc1f00" : "AD5555", "be1b00" : "874949", "951500" : "5B2F2F" },
+    { "dc1f00" : "AD0000", "be1b00" : "870000", "951500" : "5B0000" }
   ],
   "hairColor" : [
     { "d9c189" : "4d76ad", "a38d59" : "395187", "735e3a" : "20325b" },
     { "d9c189" : "7c41b8", "a38d59" : "6c2f90", "735e3a" : "471962" },
-    { "d9c189" : "51AD7E", "a38d59" : "44876D", "735e3a" : "265B4F" }
+    { "d9c189" : "51AD7E", "a38d59" : "44876D", "735e3a" : "265B4F" },
+    { "d9c189" : "AD8157", "a38d59" : "876A46", "735e3a" : "5B512D" },
+    { "d9c189" : "AD5757", "a38d59" : "874A4A", "735e3a" : "5B2A2A" },
+    { "d9c189" : "AD0000", "a38d59" : "870000", "735e3a" : "5B0000" }
   ]
 }
