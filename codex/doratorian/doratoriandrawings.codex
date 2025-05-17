@@ -1,21 +1,21 @@
 {
-	"id" : "doratoriandrawing",
-	"title" : "Alacamdaca's Diary",
-	"description" : "A finely kept book containing the writing of a arkaedus.",
-	"icon" : "doratoriancover.png",
-	"contentPages" : [
-	"There's a drawing of voderai, and arinats",
-	"There's a drawing of draconic beings",
-	"There's a drawing of a axi eidrati",
-	"There's a drawing of a exi eidrati",
-	"There's a drawing of a ixa eidrati",
-	"There's a drawing of eidrati",
-	"There's a drawing of eidrati and voderai standing before a divine gate",
-	"There's a drawing of voderai and syrenalians",
-	"There's more drawings of eidrati, syrenalians and voderai"
-	],
-		"itemConfig" : {
-		"rarity" : "Legendary",
-		"price" : 100
-	}
+    "id": "doratoriandrawing",
+    "title": "Alacamdaca's Diary",
+    "description": "A finely kept book containing the writing of a arkaedus.",
+    "icon": "doratoriancover.png",
+    "contentPages": [
+        "There's a drawing of voderai, and arinats",
+        "There's a drawing of draconic beings",
+        "There's a drawing of a axi eidrati",
+        "There's a drawing of a exi eidrati",
+        "There's a drawing of a ixa eidrati",
+        "There's a drawing of eidrati",
+        "There's a drawing of eidrati and voderai standing before a divine gate",
+        "There's a drawing of voderai and syrenalians",
+        "There's more drawings of eidrati, syrenalians and voderai"
+    ],
+    "itemConfig": {
+        "rarity": "Legendary",
+        "price": 100
+    }
 }
