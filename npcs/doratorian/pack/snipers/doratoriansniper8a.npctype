@@ -1,0 +1,31 @@
+{
+  "type" : "doratoriansniper8a",
+  "baseType" : "guard",
+  "dropPools" : [ "doratoriansniper8pool" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmember"]
+    }
+  },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "doratoriantier6ahead" }
+			],
+            "chest" : [ { "name" : "doratoriantier6achest" }
+			],
+            "legs" : [ { "name" : "doratoriantier6apants" }
+			],
+            "primary" : [
+          { "name" : "doratoriansrtier8" }
+        ],
+        "sheathedprimary" : [
+          { "name" : "doratoriandaggertier8" }
+        ]
+          }
+        ] ]
+    ]
+  }
+}

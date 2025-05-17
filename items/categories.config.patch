@@ -4,5 +4,22 @@
   [{"op":"test","inverse":true,"path":"/labels/ve_combatRifle"},{"op": "add","path": "/labels/ve_combatRifle","value": "Combat Rifle"}],
   [{"op":"test","inverse":true,"path":"/labels/ve_pdw"},{"op": "add","path": "/labels/ve_pdw","value": "Personal Defense Weapon"}],
   [{"op":"test","inverse":true,"path":"/labels/ve_polearm"},{"op": "add","path": "/labels/ve_polearm","value": "Polearm"}],
-  [{"op":"test","inverse":true,"path":"/labels/ve_saw"},{"op": "add","path": "/labels/ve_saw","value": "Squad Automatic Weapon"}]
+  [{"op":"test","inverse":true,"path":"/labels/ve_saw"},{"op": "add","path": "/labels/ve_saw","value": "Squad Automatic Weapon"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_hcp"},{"op": "add","path": "/labels/ve_hcp","value": "High Caliber Pistol"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_bp"},{"op": "add","path": "/labels/ve_bp","value": "Beam Pistol"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_ls"},{"op": "add","path": "/labels/ve_ls","value": "Longsword"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_m"},{"op": "add","path": "/labels/ve_m","value": "Mace"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_sp"},{"op": "add","path": "/labels/ve_sp","value": "Shortspear"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_tb"},{"op": "add","path": "/labels/ve_tb","value": "Thrusting Blade"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_ga"},{"op": "add","path": "/labels/ve_ga","value": "Greataxe"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_amr"},{"op": "add","path": "/labels/ve_amr","value": "Anti-Material Rifle"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_cb"},{"op": "add","path": "/labels/ve_cb","value": "Crossbow"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_sbs"},{"op": "add","path": "/labels/ve_sbs","value": "Short-Barreled Shotgun"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_as"},{"op": "add","path": "/labels/ve_as","value": "Automatic Shotgun"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_br"},{"op": "add","path": "/labels/ve_br","value": "Beam Rifle"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_fc"},{"op": "add","path": "/labels/ve_fc","value": "Flak Cannon"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_mrl"},{"op": "add","path": "/labels/ve_mrl","value": "Mini-Rocket Launcher"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_mgl"},{"op": "add","path": "/labels/ve_mgl","value": "Multi-Grenade Launcher"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_scythe"},{"op": "add","path": "/labels/ve_scythe","value": "Scythe"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_sickle"},{"op": "add","path": "/labels/ve_sickle","value": "Sickle"}]
 ]
