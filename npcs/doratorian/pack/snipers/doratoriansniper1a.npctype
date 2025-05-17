@@ -1,7 +1,7 @@
 {
   "type" : "doratoriansniper1a",
   "baseType" : "guard",
-  "dropPools" : [ "doratorianOriginPools" ],
+  "dropPools" : [ "doratoriansniper1pool" ],
   "scriptConfig" : {
     "behaviorConfig" : {
       "friendlyNpcTypes" : ["crewmember"]
@@ -22,10 +22,7 @@
           { "name" : "doratoriansrtier1" }
         ],
         "sheathedprimary" : [
-          { "name" : "commondagger" }
-        ],
-        "alt" : [
-          { "name" : "doratorianhcptier1" }
+          { "name" : "doratoriandaggertier1" }
         ]
           }
         ] ]

@@ -1,7 +1,7 @@
 {
   "type" : "doratoriansniper8a",
   "baseType" : "guard",
-  "dropPools" : [ "doratorianOriginPools" ],
+  "dropPools" : [ "doratoriansniper8pool" ],
   "scriptConfig" : {
     "behaviorConfig" : {
       "friendlyNpcTypes" : ["crewmember"]
@@ -12,20 +12,17 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "doratoriantier6accelerator" }
+            "head" : [ { "name" : "doratoriantier6ahead" }
 			],
-            "chest" : [ { "name" : "doratoriantier6accelerator" }
+            "chest" : [ { "name" : "doratoriantier6achest" }
 			],
-            "legs" : [ { "name" : "doratoriantier6accelerator" }
+            "legs" : [ { "name" : "doratoriantier6apants" }
 			],
             "primary" : [
           { "name" : "doratoriansrtier8" }
         ],
         "sheathedprimary" : [
-          { "name" : "commondagger" }
-        ],
-        "alt" : [
-          { "name" : "doratorianhcptier8" }
+          { "name" : "doratoriandaggertier8" }
         ]
           }
         ] ]
