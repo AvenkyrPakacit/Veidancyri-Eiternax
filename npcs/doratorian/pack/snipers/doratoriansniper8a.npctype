@@ -22,10 +22,10 @@
           { "name" : "doratoriansrtier8" }
         ],
         "sheathedprimary" : [
-          { "name" : "doratorianptier8" }
+          { "name" : "commondagger" }
         ],
         "alt" : [
-          { "name" : "commondagger" }
+          { "name" : "doratorianhcptier8" }
         ]
           }
         ] ]

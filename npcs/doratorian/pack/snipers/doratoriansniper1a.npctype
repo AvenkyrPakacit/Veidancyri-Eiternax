@@ -22,10 +22,10 @@
           { "name" : "doratoriansrtier1" }
         ],
         "sheathedprimary" : [
-          { "name" : "doratorianptier1" }
+          { "name" : "commondagger" }
         ],
         "alt" : [
-          { "name" : "commondagger" }
+          { "name" : "doratorianhcptier1" }
         ]
           }
         ] ]

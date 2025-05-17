@@ -1,22 +1,22 @@
 {
-  "itemName" : "doratorianptier8",
-  "price" : 10935,
+  "itemName" : "doratorianhcptier1",
+  "price" : 640,
   "maxStack" : 1,
-  "rarity" : "Legendary",
-  "description" : "A decent revolver often wielded by voderai arkai hunters. With added ironsights, a bull barrel, reinforced forgrip, a scope, and is wrapped in cloth.",
-  "shortdescription" : "Scoped Ariakita",
+  "rarity" : "Common",
+  "description" : "A decent revolver often wielded by voderai arkai hunters.",
+  "shortdescription" : "Ariakita",
   "tooltipKind" : "gun",
-  "category" : "pistol",
+  "category" : "ve_hcp",
   "twoHanded" : false,
   "itemTags" : ["weapon","ranged","pistol","upgradeableWeapon"],
-  "level" : 8,
+  "level" : 1,
 
-  "inventoryIcon" : "doratorianptier8.png",
+  "inventoryIcon" : "doratorianhcptier1.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "doratorianptier8.png",
+    "middle" : "doratorianhcptier1.png",
     "barrel" : "",
     "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
   },
@@ -38,7 +38,7 @@
     "class" : "GunFire",
 
     "fireTime" : 0.6,
-    "baseDps" : 106.67,
+    "baseDps" : 6.25,
     "energyUsage" : 18.75,
     "inaccuracy" : 0.025,
 
