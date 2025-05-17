@@ -1,5 +1,5 @@
 {
-  "type" : "crewmembervoderaiarkai",
+  "type" : "crewmemberdoratorian",
   "baseType" : "crewmember",
   // This npctype is a template. Do not use it for spawning NPCs directly
   "scriptConfig" : {
