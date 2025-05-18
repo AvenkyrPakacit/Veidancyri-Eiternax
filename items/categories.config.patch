@@ -21,5 +21,6 @@
   [{"op":"test","inverse":true,"path":"/labels/ve_mrl"},{"op": "add","path": "/labels/ve_mrl","value": "Mini-Rocket Launcher"}],
   [{"op":"test","inverse":true,"path":"/labels/ve_mgl"},{"op": "add","path": "/labels/ve_mgl","value": "Multi-Grenade Launcher"}],
   [{"op":"test","inverse":true,"path":"/labels/ve_scythe"},{"op": "add","path": "/labels/ve_scythe","value": "Scythe"}],
-  [{"op":"test","inverse":true,"path":"/labels/ve_sickle"},{"op": "add","path": "/labels/ve_sickle","value": "Sickle"}]
+  [{"op":"test","inverse":true,"path":"/labels/ve_sickle"},{"op": "add","path": "/labels/ve_sickle","value": "Sickle"}],
+  [{"op":"test","inverse":true,"path":"/labels/ve_katana"},{"op": "add","path": "/labels/ve_katana","value": "Katana"}]
 ]
