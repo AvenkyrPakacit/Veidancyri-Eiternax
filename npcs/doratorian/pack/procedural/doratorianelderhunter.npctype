@@ -13,26 +13,26 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "doratoriantier5ahead" },
-            { "name" : "doratoriantier5mhead" },
-            { "name" : "doratoriantier5shead" },
-            { "name" : "doratoriantier6ahead" },
-            { "name" : "doratoriantier6mhead" },
-            { "name" : "doratoriantier6shead" }
+            "head" : [ { "name" : "doratoriantier5aheadla" },
+            { "name" : "doratoriantier5mheadla" },
+            { "name" : "doratoriantier5sheadla" },
+            { "name" : "doratoriantier6aheadla" },
+            { "name" : "doratoriantier6mheadla" },
+            { "name" : "doratoriantier6sheadla" }
 			],
-            "chest" : [ { "name" : "doratoriantier5achest" },
-            { "name" : "doratoriantier5mchest" },
-            { "name" : "doratoriantier5schest" },
-            { "name" : "doratoriantier6achest" },
-            { "name" : "doratoriantier6mchest" },
-            { "name" : "doratoriantier6schest" }
+            "chest" : [ { "name" : "doratoriantier5achestla" },
+            { "name" : "doratoriantier5mchestla" },
+            { "name" : "doratoriantier5schestla" },
+            { "name" : "doratoriantier6achestla" },
+            { "name" : "doratoriantier6mchestla" },
+            { "name" : "doratoriantier6schestla" }
 			],
-            "legs" : [ { "name" : "doratoriantier5apants" },
-            { "name" : "doratoriantier5mpants" },
-            { "name" : "doratoriantier5spants" },
-            { "name" : "doratoriantier6apants" },
-            { "name" : "doratoriantier6mpants" },
-            { "name" : "doratoriantier6spants" }
+            "legs" : [ { "name" : "doratoriantier5apantsla" },
+            { "name" : "doratoriantier5mpantsla" },
+            { "name" : "doratoriantier5spantsla" },
+            { "name" : "doratoriantier6apantsla" },
+            { "name" : "doratoriantier6mpantsla" },
+            { "name" : "doratoriantier6spantsla" }
 			],
             "primary" : [
           { "name" : "bow" },

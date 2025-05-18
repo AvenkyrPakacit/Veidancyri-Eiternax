@@ -29,11 +29,11 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "doratoriantier5ahead" }
+            "head" : [ { "name" : "doratoriantier5aheadla" }
 			],
-            "chest" : [ { "name" : "doratoriantier5achest" }
+            "chest" : [ { "name" : "doratoriantier5achestla" }
 			],
-            "legs" : [ { "name" : "doratoriantier5apants" }
+            "legs" : [ { "name" : "doratoriantier5apantsla" }
 			],
             "primary" : [
           { "name" : "doratorianhcptier5" }

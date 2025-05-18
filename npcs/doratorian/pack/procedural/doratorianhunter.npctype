@@ -13,20 +13,20 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "doratoriantier1head" },
-            { "name" : "doratoriantier2head" },
-            { "name" : "doratoriantier3head" },
-            { "name" : "doratoriantier4head" }
+            "head" : [ { "name" : "doratoriantier1headla" },
+            { "name" : "doratoriantier2headla" },
+            { "name" : "doratoriantier3headla" },
+            { "name" : "doratoriantier4headla" }
 			],
-            "chest" : [ { "name" : "doratoriantier1chest" },
-            { "name" : "doratoriantier2chest" },
-            { "name" : "doratoriantier3chest" },
-            { "name" : "doratoriantier4chest" }
+            "chest" : [ { "name" : "doratoriantier1chestla" },
+            { "name" : "doratoriantier2chestla" },
+            { "name" : "doratoriantier3chestla" },
+            { "name" : "doratoriantier4chestla" }
 			],
-            "legs" : [ { "name" : "doratoriantier1pants" },
-            { "name" : "doratoriantier2pants" },
-            { "name" : "doratoriantier3pants" },
-            { "name" : "doratoriantier4pants" }
+            "legs" : [ { "name" : "doratoriantier1pantsla" },
+            { "name" : "doratoriantier2pantsla" },
+            { "name" : "doratoriantier3pantsla" },
+            { "name" : "doratoriantier4pantsla" }
 			],
             "primary" : [
           { "name" : "bow" },

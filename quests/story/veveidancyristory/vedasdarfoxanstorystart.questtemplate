@@ -1,0 +1,49 @@
+{
+  "id" : "vedasdarfoxanstorystart",
+  "mainQuest" : true,
+  "prerequisites" : [ "bootship" ],
+  "title" : "Dasdarfoxan Story - Starting Messages",
+  "text" : "This quest serves as an introduction to the Dasdarfoxan storyline.",
+  "completionText" : "This quest serves as an introduction to the Dasdarfoxan storyline..",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : false,
+  "showInLog" : false,
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "rewards" : [ ],
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/vehiddenradiomessage3.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "requireTurnIn" : false,
+    "conditions" : [ ],
+    "radioMessages" : {
+	  "startMessage" : {
+		"messageId" : "dasdarfoxanstorystart",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Madame Saeikskoiai",
+		"text" : "Ah children, it give's blessing seeing Madame Saeikskoiai in healthy company."
+	  },
+	  "secondMessage" : {
+		"messageId" : "dasdarfoxanStoryStart2",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Madame Saeikskoiai",
+		"text" : "A sickness is brewing upon our healthy souls. One that shall not be laden to false temperament!"
+	  },
+	  "thirdMessage" : {
+		"messageId" : "dasdarfoxanStoryStart3",
+		"type" : "quest",
+		"unique" : false,
+		"senderName" : "Madame Saeikskoiai",
+		"text" : "But now Madame Saeikskoiai must brew tea. Enjoy and drink well children!"
+	  }
+	},
+	"messageInterval" : 7,
+	"firstMessageDelay" : 1
+  }
+}
