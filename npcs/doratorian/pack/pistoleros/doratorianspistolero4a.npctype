@@ -1,7 +1,7 @@
 {
-  "type" : "doratoriansniper4a",
+  "type" : "doratorianspistolero4a",
   "baseType" : "guard",
-  "dropPools" : [ "doratoriansniper4pool" ],
+  "dropPools" : [ "doratorianpistolero4pool" ],
   "scriptConfig" : {
     "behaviorConfig" : {
       "friendlyNpcTypes" : ["crewmember"]
@@ -16,10 +16,10 @@
         },
         "voderaiarkai" : {
           "default" : [
-            "*hissing* I can see you!",
-            "*hissing* Ready to lose that brain of yours!?",
-            "*purring* Just one step closer, and your dead!",
-            "*barking hiss* Ready to lose your brains? GODS, I'LL SHOW YOU PREY!"
+            "*hissing* Give me the fucking guns, and I'll kill them!",
+            "*hissing* Ready to fucking die!?",
+            "*purring* I have two guns, one for each of ya!",
+            "*barking hiss* Ready to die? READY TO FUCKING DIE!? GODS, I CAN FEEL MY INSTINCTS TAKING HOLD!"
           ]
         }
       }
@@ -36,10 +36,11 @@
             "legs" : [ { "name" : "doratoriantier4pants" }
 			],
             "primary" : [
-          { "name" : "doratoriansrtier4" }
+          { "name" : "doratorianhcptier4" }
         ],
-        "sheathedprimary" : [
-          { "name" : "doratoriandaggertier4" }
+        "alt" : [
+          { "name" : "doratoriandaggertier4" },
+          { "name" : "doratorianhcptier4" }
         ]
           }
         ] ]
