@@ -2,9 +2,9 @@
   "doratorianArmourTier1Pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier1chest"},
-        {"weight" : 1.0, "item" : "doratoriantier1head"},
-        {"weight" : 1.0, "item" : "doratoriantier1pants"}
+        {"weight" : 1.0, "item" : "doratoriantier1chestpa"},
+        {"weight" : 1.0, "item" : "doratoriantier1headpa"},
+        {"weight" : 1.0, "item" : "doratoriantier1pantspa"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -18,9 +18,9 @@
   "doratorianArmourTier2Pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier2chest"},
-        {"weight" : 1.0, "item" : "doratoriantier2head"},
-        {"weight" : 1.0, "item" : "doratoriantier2pants"}
+        {"weight" : 1.0, "item" : "doratoriantier2chestpa"},
+        {"weight" : 1.0, "item" : "doratoriantier2headpa"},
+        {"weight" : 1.0, "item" : "doratoriantier2pantspa"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -34,9 +34,9 @@
   "doratorianArmourTier3Pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier3chest"},
-        {"weight" : 1.0, "item" : "doratoriantier3head"},
-        {"weight" : 1.0, "item" : "doratoriantier3pants"}
+        {"weight" : 1.0, "item" : "doratoriantier3chestpa"},
+        {"weight" : 1.0, "item" : "doratoriantier3headpa"},
+        {"weight" : 1.0, "item" : "doratoriantier3pantspa"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -50,37 +50,9 @@
   "doratorianArmourTier4Pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier5achest"},
-        {"weight" : 1.0, "item" : "doratoriantier5ahead"},
-        {"weight" : 1.0, "item" : "doratoriantier5mchest"},
-        {"weight" : 1.0, "item" : "doratoriantier5mhead"},
-        {"weight" : 1.0, "item" : "doratoriantier5schest"},
-        {"weight" : 1.0, "item" : "doratoriantier5shead"},
-        {"weight" : 1.0, "item" : "doratoriantier5apants"},
-        {"weight" : 1.0, "item" : "doratoriantier5mpants"},
-        {"weight" : 1.0, "item" : "doratoriantier5spants"}
-      ],
-      "poolRounds" : [
-        [0.30, 0],
-        [0.40, 1],
-        [0.20, 2],
-        [0.10, 3]
-      ],
-      "allowDuplication" : false
-    }]
-  ],
-  "doratorianArmourTier5Pool" : [
-    [1, {
-      "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier6achest"},
-        {"weight" : 1.0, "item" : "doratoriantier6ahead"},
-        {"weight" : 1.0, "item" : "doratoriantier6mchest"},
-        {"weight" : 1.0, "item" : "doratoriantier6mhead"},
-        {"weight" : 1.0, "item" : "doratoriantier6schest"},
-        {"weight" : 1.0, "item" : "doratoriantier6shead"},
-        {"weight" : 1.0, "item" : "doratoriantier6apants"},
-        {"weight" : 1.0, "item" : "doratoriantier6mpants"},
-        {"weight" : 1.0, "item" : "doratoriantier6spants"}
+        {"weight" : 1.0, "item" : "doratoriantier4chestpa"},
+        {"weight" : 1.0, "item" : "doratoriantier4headpa"},
+        {"weight" : 1.0, "item" : "doratoriantier4pantspa"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -97,8 +69,7 @@
         {"weight" : 1.0, "pool" : "doratorianArmourTier1Pool"},
         {"weight" : 1.0, "pool" : "doratorianArmourTier2Pool"},
         {"weight" : 1.0, "pool" : "doratorianArmourTier3Pool"},
-        {"weight" : 1.0, "pool" : "doratorianArmourTier4Pool"},
-        {"weight" : 1.0, "pool" : "doratorianArmourTier5Pool"}
+        {"weight" : 1.0, "pool" : "doratorianArmourTier4Pool"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -112,9 +83,9 @@
   "syrnlArmourTier1Pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "syrenaliantier1chest"},
-        {"weight" : 1.0, "item" : "syrenaliantier1head"},
-        {"weight" : 1.0, "item" : "syrenaliantier1pants"}
+        {"weight" : 1.0, "item" : "syrenaliantier1chestpa"},
+        {"weight" : 1.0, "item" : "syrenaliantier1headpa"},
+        {"weight" : 1.0, "item" : "syrenaliantier1pantspa"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -128,9 +99,9 @@
   "syrnlArmourTier2Pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "syrenaliantier2chest"},
-        {"weight" : 1.0, "item" : "syrenaliantier2head"},
-        {"weight" : 1.0, "item" : "syrenaliantier2pants"}
+        {"weight" : 1.0, "item" : "syrenaliantier2chestpa"},
+        {"weight" : 1.0, "item" : "syrenaliantier2headpa"},
+        {"weight" : 1.0, "item" : "syrenaliantier2pantspa"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -144,9 +115,9 @@
   "syrnlArmourTier3Pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "syrenaliantier3chest"},
-        {"weight" : 1.0, "item" : "syrenaliantier3head"},
-        {"weight" : 1.0, "item" : "syrenaliantier3pants"}
+        {"weight" : 1.0, "item" : "syrenaliantier3chestpa"},
+        {"weight" : 1.0, "item" : "syrenaliantier3headpa"},
+        {"weight" : 1.0, "item" : "syrenaliantier3pantspa"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -160,36 +131,9 @@
   "syrnlArmourTier4Pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "syrenaliantier5achest"},
-        {"weight" : 1.0, "item" : "syrenaliantier5ahead"},
-        {"weight" : 1.0, "item" : "syrenaliantier5mchest"},
-        {"weight" : 1.0, "item" : "syrenaliantier5mhead"},
-        {"weight" : 1.0, "item" : "syrenaliantier5schest"},
-        {"weight" : 1.0, "item" : "syrenaliantier5shead"},
-        {"weight" : 1.0, "item" : "syrenaliantier5apants"},
-        {"weight" : 1.0, "item" : "syrenaliantier5mpants"},
-        {"weight" : 1.0, "item" : "syrenaliantier5spants"}
-      ],
-      "poolRounds" : [
-        [0.30, 0],
-        [0.40, 1],
-        [0.20, 2],
-        [0.10, 3]
-      ],
-      "allowDuplication" : false
-    }]
-  ],
-  "syrnlArmourTier5Pool" : [
-    [1, {
-      "pool" : [
-        {"weight" : 1.0, "item" : "syrenaliantier6achest"},
-        {"weight" : 1.0, "item" : "syrenaliantier6ahead"},
-        {"weight" : 1.0, "item" : "syrenaliantier6mchest"},
-        {"weight" : 1.0, "item" : "syrenaliantier6mhead"},
-        {"weight" : 1.0, "item" : "syrenaliantier6schest"},
-        {"weight" : 1.0, "item" : "syrenaliantier6shead"},
-        {"weight" : 1.0, "item" : "syrenaliantier6apants"},
-        {"weight" : 1.0, "item" : "syrenaliantier6mpants"}
+        {"weight" : 1.0, "item" : "syrenaliantier4chestpa"},
+        {"weight" : 1.0, "item" : "syrenaliantier4headpa"},
+        {"weight" : 1.0, "item" : "syrenaliantier4pantspa"}
       ],
       "poolRounds" : [
         [0.30, 0],
@@ -206,8 +150,7 @@
         {"weight" : 1.0, "pool" : "syrnlArmourTier1Pool"},
         {"weight" : 1.0, "pool" : "syrnlArmourTier2Pool"},
         {"weight" : 1.0, "pool" : "syrnlArmourTier3Pool"},
-        {"weight" : 1.0, "pool" : "syrnlArmourTier4Pool"},
-        {"weight" : 1.0, "pool" : "syrnlArmourTier5Pool"}
+        {"weight" : 1.0, "pool" : "syrnlArmourTier4Pool"}
       ],
       "poolRounds" : [
         [0.30, 0],
