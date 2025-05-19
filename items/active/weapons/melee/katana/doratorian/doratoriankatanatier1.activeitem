@@ -31,5 +31,9 @@
         "fireTime": 0.8,
         "baseDps": 8
     },
+    "palette": "/items/active/weapons/colors/tier1melee.weaponcolors",
+    "altAbilityType": "parry",
+    "critChance": 2,
+    "critBonus": 8,
     "builder": "/items/buildscripts/buildunrandweapon.lua"
 }
