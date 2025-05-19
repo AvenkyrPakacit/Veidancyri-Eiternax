@@ -109,3 +109,9 @@ Eilasalian: Aura Affinity
 Einfieran: Talco's Fury
 
 Octusarian: Xethyrum's Will
+
+## Credits
+
+### Sva
+
+Allowing the usage of Katana code.
