@@ -143,17 +143,6 @@ function MeleeCombo:fire()
   if mcontroller.groundMovement() then 
     momentum[2] = 20
   end
-  
-    self.scoutProjectileId = world.spawnProjectile(
-      self.shakeProjectileType,
-      self:shakeFirePosition(),
-      activeItem.ownerEntityId(),
-      self:aimVector(),
-      false,
-      self.shakeProjectileParameters
-    )
-
-  activeItem.setCameraFocusEntity(self.scoutProjectileId)
 
   util.wait(stance.duration, function()
     if self.comboStep == 4 then
