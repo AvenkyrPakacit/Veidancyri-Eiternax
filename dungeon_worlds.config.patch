@@ -21,5 +21,28 @@
 			"biome": "ve_lush",
       "musicTrack" : "/music/tranquility-base.ogg"
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/ve_avenlasal_hq",
+    "value" : {
+      "primaryDungeon" : "ve_avenlasal_hq",
+	  "weatherPool" : [
+		[0.30, "clear"],
+		[0.25, "drizzle"],
+		[0.25, "rain"],
+		[0.10, "snowstorm"],
+		[0.10, "storm"]
+	  ],
+      "threatLevel" : 6,
+      "gravity" : 80,
+      "worldSize" : [1000, 800],
+      "dungeonBaseHeight" : 300,
+	  "dungeonSurfaceHeight" : 130,
+      "ambientLightLevel" : [32, 32, 32],
+      "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
+			"biome": "ve_elder",
+      "musicTrack" : "/music/tranquility-base.ogg"
+    }
   }
 ]
