@@ -33,7 +33,7 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier4head" }
+            "head" : [ { "name" : "syrenaliantier4headpa" }
 			],
             "chest" : [ { "name" : "syrenaliantier4chestpa" }
 			],

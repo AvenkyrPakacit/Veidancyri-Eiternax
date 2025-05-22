@@ -52,10 +52,10 @@
 	  
 	  ]
   },
-  
   "altOptionAsUndyColor" : true,
   "headOptionAsHairColor" : true,
   "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
   "genders" : [
     {
        "name" : "male",
