@@ -1,6 +1,7 @@
 {
 	"id" : "syrnlvolunteer",
 	"title" : "Talfieran Volunteering Pamphlet",
+	"species" : "einfieran",
 	"description" : "A volunteering pamphlet.",
 	"icon" : "talfierancover.png",
 	"contentPages" : [

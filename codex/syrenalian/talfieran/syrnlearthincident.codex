@@ -1,0 +1,46 @@
+{
+	"id" : "syrnlearthincident",
+	"title" : "Humanity's downfall.",
+	"species" : "einfieran",
+	"description" : "A collection of documents regarding capital fracking.",
+	"icon" : "talfierancover.png",
+	"contentPages" : [
+    "The US,
+
+'Whitehouse' fracked to hell. Senate caught aflame.
+Civilian lives rescued, and transported to The Alarerala.
+High Value targets rescued.
+Executed marked targets, against my leadership. CH1K4 locked down the mining beam room with Pakacit in it. How is any of this vengeful?",
+	"The UK,
+
+'Royal Palaces' fracked to hell as well.
+Civilians rescued as well.
+Important targets rescued.
+Hostile target captured, and forced to take a syrum that transformed them into a particular avali, black & purple, with neon accents.
+Pakacit personally executed him.",
+	"China,
+
+Civilians saved, soldiered driven out of 'Hong Kong', leadership imprisoned until we can find a suitable punishment.",
+	"North Korea,
+
+Leadership executed, and military bases fracked.",
+	"Russia,
+
+Hovering just above the 'Kremlin'.
+Brought a couple hostile targets to pakacit. Captured the hostile leader, and a conspirator.
+Pakacit personally executed the 'Nazbol' conspirator, and the Russian leader. Then dealt with the 'antisemetic book author', and a explicitly facist 'Marxist Leninist' or 'ML'.",
+	"Isreal, noted apartheid state
+
+Combat equipped volunteers on the ground, Pakacit is as well whilst in a suit of power armour, asked me to play a particular song on the intercoms called 'Iron Man' by 'Black Sabbath', whilst they were getting equipped.",
+	"IDF hostiles firing anti-missile defences at my ship, luckly the defences are primitive enough to be unable to pierce the plasmic shielding.
+Palastinian civilians and other captives liberated.",
+	"IDF militants driven out of 'Gaza'.
+Leadership captured and escorted to the ship and brought before the 'ICC' for 'crimes against humanity'.",
+	"Iran,
+Rescued civilians, and left the atmosphere before a ex-octhyratum scientist, Verius set off a gravitational wave, bringing humanity down to a more primitive level, and breaking the Galactic Code as a result."
+	],
+		"itemConfig" : {
+		"rarity" : "legendary",
+		"price" : 100
+	}
+}

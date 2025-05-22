@@ -7,7 +7,7 @@
   "rarity" : "Common",
   "category" : "legwear",
   "description" : "A decent skirt commonly worn by Doratorians.",
-  "shortdescription" : "Doratorian Skirt",
+  "shortdescription" : "Doratorian Common Skirt",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",

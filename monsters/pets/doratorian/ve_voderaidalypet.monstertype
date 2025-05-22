@@ -1,10 +1,10 @@
 {
-  "type" : "doratorianpet",
+  "type" : "ve_voderaidalypet",
 
-  "categories" : [ "doratorianpet" ],
+  "categories" : [ "ve_voderaidalypet" ],
   "parts" : [ "body" ],
 
-  "animation" : "doratorianpet.animation",
+  "animation" : "ve_voderaidalypet.animation",
 
   "dropPools" : [ ],
 
