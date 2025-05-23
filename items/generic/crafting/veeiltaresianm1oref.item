@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm1ore.png",
-  "description" : "Azakstrafa ore. Can be used for smelting.",
-  "shortdescription" : "Azakstrafa Ore",
+  "description" : "Anksenvaro ore. Can be used for smelting.",
+  "shortdescription" : "Anksenvaro Ore",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : ["veeiltaresianm1barf"],
   "radioMessagesOnPickup" : [ "pickupore" ]

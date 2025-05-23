@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm2bar.png",
-  "description" : "An Avdawena bar.",
-  "shortdescription" : "Avdawena Bar",
+  "description" : "An Sharmatossti bar.",
+  "shortdescription" : "Sharmatossti Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
   "itemTags" : [ "reagent" ]
 }

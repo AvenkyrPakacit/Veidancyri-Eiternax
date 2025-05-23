@@ -1,47 +1,46 @@
 {
-  "itemName" : "doratoriantier6aheadla",
-  "price" : 3840,
-  "inventoryIcon" : "icons.png:head",
+  "itemName" : "doratoriantier5pantsla",
+  "price" : 1920,
+  "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
-  "rarity" : "Legendary",
-  "category" : "headarmour",
-  "description" : "No matter how high the stakes, you won't lose you head with this gambler's hat.",
-  "shortdescription" : "Gambler's Hat",
+  "rarity" : "Rare",
+  "category" : "legarmour",
+  "description" : "Upstairs for thinking, downstairs for dancing; even wise Florans have to cut loose.",
+  "shortdescription" : "Wiseman's Loincloth",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
-  "mask" : "mask.png",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
 
-  "level" : 6,
+  "level" : 5,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 1.15
+      "baseMultiplier" : 1.1
     },
     {
       "levelFunction" : "acceleratorArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.3
+      "amount" : 0.2
     },
     {
       "levelFunction" : "acceleratorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 3
+      "amount" : 2
     },
     {
       "levelFunction" : "acceleratorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 3
+      "amount" : 2
     }
   ],
 
-  "itemTags" : [ "tier6armour" ],
+  "itemTags" : [ "tier5armour" ],
 
   "colorOptions" : [
-    // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+    // LIME GREEN
+    { "ffca8a" : "d1e160", "e0975c" : "9bba3d", "a85636" : "48832f", "6f2919" : "1b4c2a" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -3,7 +3,7 @@
 		"path" : "/species/akatylian",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/azkuvalianportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	},
@@ -12,7 +12,7 @@
 		"path" : "/species/ashayashian",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/ashilesianportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	},
@@ -21,7 +21,7 @@
 		"path" : "/species/eilasalian",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/syrenalianportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	},
@@ -30,7 +30,7 @@
 		"path" : "/species/einfieran",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/syrenalianportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	},
@@ -39,7 +39,7 @@
 		"path" : "/species/imaata",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/daeakventportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	},
@@ -48,7 +48,7 @@
 		"path" : "/species/kalavylian",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/dasdarfoxanportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	},
@@ -57,7 +57,7 @@
 		"path" : "/species/octusarian",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/syrenalianportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	},
@@ -66,7 +66,7 @@
 		"path" : "/species/thatylian",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/azkuvalianportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	},
@@ -84,7 +84,7 @@
 		"path" : "/species/xyatylian",
 		"value" : {
 			"aiFrames" : "doratorianAI.png",
-			"portraitFrames" : "portraits/doratorianportrait.png",
+			"portraitFrames" : "portraits/azkuvalianportrait.png",
 			"staticFrames" : "staticdoratorian.png"	
 		}
 	}

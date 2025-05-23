@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm3bar.png",
-  "description" : "An Ikfiinia bar.",
-  "shortdescription" : "Ikfiinia Bar",
+  "description" : "An Osstixvarmat bar.",
+  "shortdescription" : "Osstixvarmat Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal3"],
   "itemTags" : [ "reagent" ]
 }
