@@ -1,6 +1,7 @@
 {
 	"id" : "syrnlwardeclaration",
 	"title" : "Declaration of War",
+	"species" : "octusarian",
 	"description" : "A council mandated declaration.",
 	"icon" : "syrnleccover.png",
 	"contentPages" : [

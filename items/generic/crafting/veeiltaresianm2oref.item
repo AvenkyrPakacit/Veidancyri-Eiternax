@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm2ore.png",
-  "description" : "Avyramit ore. Can be used for smelting.",
-  "shortdescription" : "Avyramit Ore",
+  "description" : "Sharmatsenvaro ore. Can be used for smelting.",
+  "shortdescription" : "Sharmatsenvaro Ore",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : ["veeiltaresianm2barf"],
   "radioMessagesOnPickup" : [ "pickupore" ]
