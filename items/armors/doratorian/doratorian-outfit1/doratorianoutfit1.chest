@@ -5,16 +5,16 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "A comfy tee, emblazoned with the logo of the Terrene Protectorate.",
-  "shortdescription" : "Protectorate T-Shirt",
+  "description" : "A fairly comfortable vest, commonly seen throughout the general polulation.",
+  "shortdescription" : "Doratorian Common Vest",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chestm.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chestf.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },

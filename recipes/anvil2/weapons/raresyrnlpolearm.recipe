@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "titaniumbar", "count" : 3 },
-    { "item" : "copperbar", "count" : 2 },
-    { "item" : "uncommonsyrnlpolearm", "count" : 1 }
-  ],
-  "output" : { "item" : "raresyrnlpolearm", "count" : 1 },
-  "groups" : [ "craftinganvil", "weapons", "all" ]
-}

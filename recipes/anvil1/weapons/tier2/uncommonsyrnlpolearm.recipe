@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "tungstenbar", "count" : 3 },
-    { "item" : "copperbar", "count" : 2 },
-    { "item" : "commonsyrnlpolearm", "count" : 1 }
-  ],
-  "output" : { "item" : "uncommonsyrnlpolearm", "count" : 1 },
-  "groups" : [ "craftinganvil", "weapons", "all" ]
-}

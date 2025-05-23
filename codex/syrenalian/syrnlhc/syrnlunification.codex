@@ -1,6 +1,7 @@
 {
 	"id" : "syrnlunification",
 	"title" : "Unification of the Axilarium",
+	"species" : "eilasalian",
 	"description" : "A council mandated declaration.",
 	"icon" : "syrnlhccover.png",
 	"contentPages" : [

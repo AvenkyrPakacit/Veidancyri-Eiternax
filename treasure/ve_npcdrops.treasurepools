@@ -82,9 +82,9 @@
   "doratoriansniper1pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier1head"},
-        {"weight" : 1.0, "item" : "doratoriantier1chest"},
-        {"weight" : 1.0, "item" : "doratoriantier1pants"},
+        {"weight" : 1.0, "item" : "doratoriantier1headla"},
+        {"weight" : 1.0, "item" : "doratoriantier1chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier1pantsla"},
         {"weight" : 1.0, "item" : "doratoriansrtier1"},
         {"weight" : 1.0, "item" : "doratoriandaggertier1"}
       ],
@@ -100,9 +100,9 @@
   "doratoriansniper2pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier2head"},
-        {"weight" : 1.0, "item" : "doratoriantier2chest"},
-        {"weight" : 1.0, "item" : "doratoriantier2pants"},
+        {"weight" : 1.0, "item" : "doratoriantier2headla"},
+        {"weight" : 1.0, "item" : "doratoriantier2chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier2pantsla"},
         {"weight" : 1.0, "item" : "doratoriansrtier2"},
         {"weight" : 1.0, "item" : "doratoriandaggertier2"}
       ],
@@ -118,9 +118,9 @@
   "doratoriansniper3pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier3head"},
-        {"weight" : 1.0, "item" : "doratoriantier3chest"},
-        {"weight" : 1.0, "item" : "doratoriantier3pants"},
+        {"weight" : 1.0, "item" : "doratoriantier3headla"},
+        {"weight" : 1.0, "item" : "doratoriantier3chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier3pantsla"},
         {"weight" : 1.0, "item" : "doratoriansrtier3"},
         {"weight" : 1.0, "item" : "doratoriandaggertier3"}
       ],
@@ -136,9 +136,9 @@
   "doratoriansniper4pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier4head"},
-        {"weight" : 1.0, "item" : "doratoriantier4chest"},
-        {"weight" : 1.0, "item" : "doratoriantier4pants"},
+        {"weight" : 1.0, "item" : "doratoriantier4headla"},
+        {"weight" : 1.0, "item" : "doratoriantier4chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier4pantsla"},
         {"weight" : 1.0, "item" : "doratoriansrtier4"},
         {"weight" : 1.0, "item" : "doratoriandaggertier4"}
       ],
@@ -154,9 +154,9 @@
   "doratoriansniper5pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier5ahead"},
-        {"weight" : 1.0, "item" : "doratoriantier5achest"},
-        {"weight" : 1.0, "item" : "doratoriantier5apants"},
+        {"weight" : 1.0, "item" : "doratoriantier5headla"},
+        {"weight" : 1.0, "item" : "doratoriantier5chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier5pantsla"},
         {"weight" : 1.0, "item" : "doratoriansrtier5"},
         {"weight" : 1.0, "item" : "doratoriandaggertier5"}
       ],
@@ -172,9 +172,9 @@
   "doratoriansniper6pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier6ahead"},
-        {"weight" : 1.0, "item" : "doratoriantier6achest"},
-        {"weight" : 1.0, "item" : "doratoriantier6apants"},
+        {"weight" : 1.0, "item" : "doratoriantier6headla"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsla"},
         {"weight" : 1.0, "item" : "doratoriansrtier6"},
         {"weight" : 1.0, "item" : "doratoriandaggertier6"}
       ],
@@ -190,9 +190,9 @@
   "doratoriansniper7pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier6ahead"},
-        {"weight" : 1.0, "item" : "doratoriantier6achest"},
-        {"weight" : 1.0, "item" : "doratoriantier6apants"},
+        {"weight" : 1.0, "item" : "doratoriantier6headla"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsla"},
         {"weight" : 1.0, "item" : "doratoriansrtier7"},
         {"weight" : 1.0, "item" : "doratoriandaggertier7"}
       ],
@@ -208,10 +208,154 @@
   "doratoriansniper8pool" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : "doratoriantier6ahead"},
-        {"weight" : 1.0, "item" : "doratoriantier6achest"},
-        {"weight" : 1.0, "item" : "doratoriantier6apants"},
+        {"weight" : 1.0, "item" : "doratoriantier6headla"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsla"},
         {"weight" : 1.0, "item" : "doratoriansrtier8"},
+        {"weight" : 1.0, "item" : "doratoriandaggertier8"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianpistolero1pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier6headla"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsla"},
+        {"weight" : 1.0, "item" : "doratorianhcptier1"},
+        {"weight" : 1.0, "item" : "doratoriandaggertier1"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianpistolero2pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier2headla"},
+        {"weight" : 1.0, "item" : "doratoriantier2chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier2pantsla"},
+        {"weight" : 1.0, "item" : "doratorianhcptier2"},
+        {"weight" : 1.0, "item" : "doratoriandaggertier2"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianpistolero3pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier3headla"},
+        {"weight" : 1.0, "item" : "doratoriantier3chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier3pantsla"},
+        {"weight" : 1.0, "item" : "doratorianhcptier3"},
+        {"weight" : 1.0, "item" : "doratoriandaggertier3"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianpistolero4pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier4headla"},
+        {"weight" : 1.0, "item" : "doratoriantier4chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier4pantsla"},
+        {"weight" : 1.0, "item" : "doratorianhcptier4"},
+        {"weight" : 1.0, "item" : "doratoriandaggertier4"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianpistolero5pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier5headla"},
+        {"weight" : 1.0, "item" : "doratoriantier5chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier5pantsla"},
+        {"weight" : 1.0, "item" : "doratorianhcptier5"},
+        {"weight" : 1.0, "item" : "doratoriandaggertier5"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianpistolero6pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier6headla"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsla"},
+        {"weight" : 1.0, "item" : "doratorianhcptier6"},
+        {"weight" : 1.0, "item" : "doratoriandaggertier6"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianpistolero7pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier6headla"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsla"},
+        {"weight" : 1.0, "item" : "doratorianhcptier7"},
+        {"weight" : 1.0, "item" : "doratoriandaggertier7"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianpistolero8pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier6headla"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestla"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsla"},
+        {"weight" : 1.0, "item" : "doratorianhcptier8"},
         {"weight" : 1.0, "item" : "doratoriandaggertier8"}
       ],
       "poolRounds" : [

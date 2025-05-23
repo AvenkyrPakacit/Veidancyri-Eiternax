@@ -9,30 +9,56 @@
 	  "spawningEnabled" : false,
 	  "beamUpRule" : "Anywhere",
 	  "disableDeathDrops" : true,
-
 	  "worldProperties" : {
 		"nonCombat" : true
 	  },
-
 	  "skyParameters" : {
 		"dayLength" : 800,
 		"surfaceLevel" : 100,
 		"spaceLevel" : 2000,
 		"seed" : -5288806180628666923,
-	  
 		"skyType" : "atmospheric",
 		"skyColoring" : {
 		  "mainColor" : [0, 127, 255],
-
 		  "morningColors" : [ [90, 90, 112], [69, 79, 89] ],
 		  "dayColors" : [ [143, 143, 179], [112, 128, 144] ],
 		  "eveningColors" : [ [200, 162, 200], [133, 107, 133] ],
 		  "nightColors" : [ [123, 255, 0], [80, 166, 0] ],
-
 		  "morningLightColor" : [140, 71, 0],
 		  "dayLightColor" : [204, 204, 255],
 		  "eveningLightColor" : [204, 136, 153],
 		  "nightLightColor" : [0, 168, 107]
+		}
+    }}},
+	{
+	"op" : "add",
+	"path" : "/ve_avenlasal_hq",
+	"value" : {
+	  "type" : "FloatingDungeon",
+	  "dungeonWorld" : "ve_avenlasal_hq",
+	  "seed" : 4321,
+	  "spawningEnabled" : false,
+	  "beamUpRule" : "Anywhere",
+	  "disableDeathDrops" : true,
+	  "worldProperties" : {
+		"nonCombat" : true
+	  },
+	  "skyParameters" : {
+		"dayLength" : 800,
+		"surfaceLevel" : 100,
+		"spaceLevel" : 2000,
+		"seed" : -5288806180628666923,
+		"skyType" : "atmospheric",
+		"skyColoring" : {
+		  "mainColor" : [255, 229, 180],
+		  "morningColors" : [ [53, 133, 80], [0, 194, 97] ],
+		  "dayColors" : [ [80, 200, 120], [0, 255, 127] ],
+		  "eveningColors" : [ [113, 150, 37], [186, 163, 0] ],
+		  "nightColors" : [ [255, 223, 0], [154, 205, 50] ],
+		  "morningLightColor" : [53, 133, 80],
+		  "dayLightColor" : [80, 200, 120],
+		  "eveningLightColor" : [113, 150, 37],
+		  "nightLightColor" : [255, 223, 0]
 		}
     }}}
 ]

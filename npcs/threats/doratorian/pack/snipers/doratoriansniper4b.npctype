@@ -7,16 +7,33 @@
       "friendlyNpcTypes" : ["crewmember"]
     }
   },
+  "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Attack!"
+          ]
+        },
+        "voderaiarkai" : {
+          "default" : [
+            "*hissing* I can see you!",
+            "*hissing* Ready to lose that brain of yours!?",
+            "*purring* Just one step closer, and your dead!",
+            "*barking hiss* Ready to lose your brains? GODS, I'LL SHOW YOU PREY!"
+          ]
+        }
+      }
+    },
   "matchColorIndices" : true,
   "items" : {
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "doratoriantier4head" }
+            "head" : [ { "name" : "doratoriantier4headla" }
 			],
-            "chest" : [ { "name" : "doratoriantier4chest" }
+            "chest" : [ { "name" : "doratoriantier4chestla" }
 			],
-            "legs" : [ { "name" : "doratoriantier4pants" }
+            "legs" : [ { "name" : "doratoriantier4pantsla" }
 			],
             "primary" : [
           { "name" : "doratoriansrtier4" }

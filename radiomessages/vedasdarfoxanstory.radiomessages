@@ -1,0 +1,21 @@
+{
+  //Dasdarfoxan story intro
+  "dasdarfoxanstory-intro1" : {
+    "type" : "quest",
+    "senderName" : "Madame Saeikskoiai",
+    "text" : "Ah children, it give's blessing seeing Madame Saeikskoiai in healthy company.",
+    "persistTime" : 7.0
+  },
+  "dasdarfoxanstory-intro2" : {
+    "type" : "quest",
+    "senderName" : "Madame Saeikskoiai",
+    "text" : "A sickness is brewing upon our healthy souls. One that shall not be laden to false temperament!",
+    "persistTime" : 7.0
+  },
+  "dasdarfoxanstory-intro3" : {
+    "type" : "quest",
+    "senderName" : "Madame Saeikskoiai",
+    "text" : "But now Madame Saeikskoiai must brew tea. Enjoy and drink well children!",
+    "persistTime" : 7.0
+  }
+}

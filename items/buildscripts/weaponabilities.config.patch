@@ -1,0 +1,7 @@
+[
+  {
+  "op": "add",
+    "path": "/ve_katana_combo",
+    "value": "/items/active/weapons/melee/abilities/katana/ve_katana_combo.weaponability"
+  }
+]

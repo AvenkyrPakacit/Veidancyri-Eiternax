@@ -42,7 +42,8 @@
 		"op": "add",
 		"path": "/initialquests/kalavylian",
 		"value": [
-			"protectorate"
+			"protectorate",
+			"vedasdarfoxanstorystart"
 		]
 	},
 	{

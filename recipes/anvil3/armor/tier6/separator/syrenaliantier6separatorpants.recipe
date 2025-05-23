@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "vesyrenalmetal4", "count" : 8 },
-    { "item" : "syrenaliantier5spants", "count" : 1 }
-  ],
-  "duration" : 5,
-  "output" : { "item" : "syrenaliantier6spants", "count" : 1 },
-  "groups" : [ "craftingseparator", "armours", "all" ]
-}

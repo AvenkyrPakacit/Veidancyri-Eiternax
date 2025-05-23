@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "vesyrenalmetal1", "count" : 3 },
-    { "item" : "fabric", "count" : 5 }  
-  ],
-  "duration" : 5,
-  "output" : { "item" : "syrenaliantier1headpa", "count" : 1 },
-  "groups" : [ "craftinganvil", "armours", "all" ]
-}

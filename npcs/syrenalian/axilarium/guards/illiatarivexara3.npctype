@@ -34,22 +34,13 @@
       [0, [
           {
             "head" : [ { "name" : "syrenaliantier3headpa" },
-            { "name" : "syrenaliantier4headpa" },
-            { "name" : "syrenaliantier5ahead" },
-            { "name" : "syrenaliantier5mhead" },
-            { "name" : "syrenaliantier5shead" }
+            { "name" : "syrenaliantier4headpapa" }
 			],
             "chest" : [ { "name" : "syrenaliantier3chestpa" },
-            { "name" : "syrenaliantier4chestpa" },
-            { "name" : "syrenaliantier5achest" },
-            { "name" : "syrenaliantier5mchest" },
-            { "name" : "syrenaliantier5schest" }
+            { "name" : "syrenaliantier4chestpa" }
 			],
             "legs" : [ { "name" : "syrenaliantier3pantspa" },
-            { "name" : "syrenaliantier4pantspa" },
-            { "name" : "syrenaliantier5apants" },
-            { "name" : "syrenaliantier5mpants" },
-            { "name" : "syrenaliantier5spants" }
+            { "name" : "syrenaliantier4pantspa" }
 			],
             "primary" : [
           { "name" : "unitariumbattlerifle" },
