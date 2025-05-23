@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm4bar.png",
-  "description" : "An Eikalaskia bar.",
-  "shortdescription" : "Eikalaskia Bar",
+  "description" : "An Eiskaroossti bar.",
+  "shortdescription" : "Eiskaroossti Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal4"],
   "itemTags" : [ "reagent" ]
 }

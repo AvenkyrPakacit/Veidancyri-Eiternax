@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm3ore.png",
-  "description" : "Ikyrium ore. Can be used for smelting.",
-  "shortdescription" : "Ikyrium Ore",
+  "description" : "Senvaroxvarmat ore. Can be used for smelting.",
+  "shortdescription" : "Senvaroxvarmat Ore",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : ["veeiltaresianm3barf"],
   "radioMessagesOnPickup" : [ "pickupore" ]

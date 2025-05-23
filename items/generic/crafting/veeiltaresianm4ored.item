@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm4ore.png",
-  "description" : "Eikalaskia ore. Can be used for smelting.",
-  "shortdescription" : "Eikalaskia Ore",
+  "description" : "Eiskaroossti ore. Can be used for smelting.",
+  "shortdescription" : "Eiskaroossti Ore",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : ["veeiltaresianm4bard"],
   "radioMessagesOnPickup" : [ "pickupore" ]

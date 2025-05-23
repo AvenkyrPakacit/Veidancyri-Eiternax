@@ -1,55 +1,43 @@
 {
-  "itemName" : "doratoriantier6achestla",
-  "price" : 6400,
-  "inventoryIcon" : "icons.png:chestla",
+  "itemName" : "syrenaliantier1head",
+  "price" : 480,
+  "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "rarity" : "Legendary",
-  "category" : "chestarmour",
-  "description" : "Got a risky venture planned? Be sure to take this gambler's vest along.",
-  "shortdescription" : "Gambler's Vest",
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "This scouter headset features a fancy augmented visor.",
+  "shortdescription" : "Scouter's Visor",
   "tooltipKind" : "armor",
-
-  "maleFrames" : {
-    "body" : "chest.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-
-  "femaleFrames" : {
-    "body" : "chest.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-
-  "level" : 6,
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  "level" : 1,
   "leveledStatusEffects" : [
     {
-      "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 1.25
+      "baseMultiplier" : 1.15
     },
     {
-      "levelFunction" : "acceleratorArmorLevelProtectionMultiplier",
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.5
+      "amount" : 0.3
     },
     {
-      "levelFunction" : "acceleratorArmorLevelMaxEnergyMultiplier",
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 5
+      "amount" : 3
     },
     {
-      "levelFunction" : "acceleratorArmorLevelMaxHealthMultiplier",
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 5
+      "amount" : 3
     }
   ],
-
-  "itemTags" : [ "tier6armour" ],
-
+  "itemTags" : [ "tier1armour" ],
   "colorOptions" : [
-    // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+    // OLIVE
+    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "91956c", "6f2919" : "4f563c" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

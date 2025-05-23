@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm1bar.png",
-  "description" : "An Azakstrafa bar.",
-  "shortdescription" : "Azakstrafa Bar",
+  "description" : "An Anksenvaro bar.",
+  "shortdescription" : "Anksenvaro Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal1"],
   "radioMessagesOnPickup" : [ "pickupeiltaresianma1" ],
   "itemTags" : [ "reagent" ]

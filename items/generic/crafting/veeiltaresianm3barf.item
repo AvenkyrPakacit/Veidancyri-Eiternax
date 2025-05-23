@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm3bar.png",
-  "description" : "An Ikyrium bar.",
-  "shortdescription" : "Ikyrium Bar",
+  "description" : "An Senvaroxvarmat bar.",
+  "shortdescription" : "Senvaroxvarmat Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal3"],
   "itemTags" : [ "reagent" ]
 }
