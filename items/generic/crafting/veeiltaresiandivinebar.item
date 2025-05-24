@@ -1,0 +1,10 @@
+{
+  "itemName" : "veeiltaresiandivinebar",
+  "price" : 120,
+  "rarity" : "Legendary",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "veeiltaresiandivinebar.png",
+  "description" : "Divine Metal.",
+  "shortdescription" : "Andarkhsaro Wafer",
+  "itemTags" : [ "reagent" ]
+}

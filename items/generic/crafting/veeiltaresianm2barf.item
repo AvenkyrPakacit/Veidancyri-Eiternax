@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm2bar.png",
-  "description" : "An Avyramit bar.",
-  "shortdescription" : "Avyramit Bar",
+  "description" : "An Sharmatsenvaro bar.",
+  "shortdescription" : "Sharmatsenvaro Bar",
   "learnBlueprintsOnPickup" : ["vesyrenalmetal2"],
   "itemTags" : [ "reagent" ]
 }

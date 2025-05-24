@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm1ore.png",
-  "description" : "Azyrtrum ore. Can be used for smelting.",
-  "shortdescription" : "Azyrtrum Ore",
+  "description" : "Sharmatossti ore. Can be used for smelting.",
+  "shortdescription" : "Sharmatossti Ore",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : ["veeiltaresianm1bard"],
   "radioMessagesOnPickup" : [ "pickupore" ]

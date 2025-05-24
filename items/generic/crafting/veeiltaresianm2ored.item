@@ -4,8 +4,8 @@
   "rarity" : "Common",
   "category" : "craftingMaterial",
   "inventoryIcon" : "veeiltaresianm2ore.png",
-  "description" : "Avdawena ore. Can be used for smelting.",
-  "shortdescription" : "Avdawena Ore",
+  "description" : "Sharmatossti ore. Can be used for smelting.",
+  "shortdescription" : "Sharmatossti Ore",
   "itemTags" : [ "reagent" ],
   "learnBlueprintsOnPickup" : ["veeiltaresianm2bard"],
   "radioMessagesOnPickup" : [ "pickupore" ]

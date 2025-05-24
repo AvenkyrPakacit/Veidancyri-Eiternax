@@ -34,7 +34,7 @@
     "/objects/spawner/techstation.lua"
   ],
   "scriptDelta" : 20,
-  "shipPetType" : "doratorianpet",
+  "shipPetType" : "ve_voderaidalypet",
   "spawnOffset" : [2, -1],
   "chatPortrait" : "/ai/portraits/doratorianportrait.png:yell.1",
   "dialog" : {
