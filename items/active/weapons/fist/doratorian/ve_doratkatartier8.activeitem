@@ -1,5 +1,5 @@
 {
-  "itemName" : "ve_doratkatartie8",
+  "itemName" : "ve_doratkatartier8",
   "price" : 337,
   "level" : 8,
   "maxStack" : 1,
@@ -10,11 +10,11 @@
   "category" : "fistWeapon",
   "twoHanded" : false,
   "itemTags" : ["weapon","upgradeableWeapon"],
-  "inventoryIcon" : "ve_doratkatartie8.png:front",
+  "inventoryIcon" : "ve_doratkatartier8.png:front",
   "animation" : "/items/active/weapons/fist/fistweapon.animation",
   "animationParts" : {
-    "weapon" : "ve_doratkatartie8.png",
-    "swoosh" : "swoosh/clawswoosh.png"
+    "weapon" : "ve_doratkatartier8.png",
+    "swoosh" : "/items/active/weapons/fist/swoosh/clawswoosh.png"
   },
   "animationCustom" : {
     "animatedParts" : { "parts" : { "swoosh" : { "partStates" : { "attack" : { "fire" : { "properties" : {

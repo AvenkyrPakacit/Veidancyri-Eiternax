@@ -14,7 +14,7 @@
   "animation" : "/items/active/weapons/fist/fistweapon.animation",
   "animationParts" : {
     "weapon" : "ve_doratkatartier7.png",
-    "swoosh" : "swoosh/clawswoosh.png"
+    "swoosh" : "/items/active/weapons/fist/swoosh/clawswoosh.png"
   },
   "animationCustom" : {
     "animatedParts" : { "parts" : { "swoosh" : { "partStates" : { "attack" : { "fire" : { "properties" : {
