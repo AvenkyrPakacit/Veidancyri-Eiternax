@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "chestwear",
   "description" : "A fairly comfortable vest, commonly seen throughout the general polulation.",
-  "shortdescription" : "Doratorian vest",
+  "shortdescription" : "Doratorian Common Vest",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chest.png",

@@ -68,7 +68,7 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier4head" },
+            "head" : [ { "name" : "syrenaliantier4headpa" },
             { "name" : "syrenaliantier5ahead" },
             { "name" : "syrenaliantier5mhead" },
             { "name" : "syrenaliantier5shead" },

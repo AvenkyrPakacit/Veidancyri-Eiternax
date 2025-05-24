@@ -1,6 +1,7 @@
 {
 	"id" : "syrnlfracking",
 	"title" : "Talfieran Fracking Notices",
+	"species" : "einfieran",
 	"description" : "A collection of work notices.",
 	"icon" : "talfierancover.png",
 	"contentPages" : [
