@@ -3,7 +3,7 @@
   "price" : 225,
   "level" : 7,
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Legendary",
   "description" : "A decent shortblade often wielded by prowlers.",
   "shortdescription" : "Pakica",
   "tooltipKind" : "fistweapon",
