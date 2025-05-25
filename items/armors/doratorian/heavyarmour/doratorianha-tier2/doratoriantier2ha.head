@@ -1,55 +1,47 @@
 {
-  "itemName" : "doratoriantier3chestma",
-  "price" : 3200,
-  "inventoryIcon" : "icons.png:chest",
+  "itemName" : "doratoriantier2headha",
+  "price" : 1440,
+  "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "rarity" : "Uncommon",
-  "category" : "chestarmour",
-  "description" : "Enter the battlefield with confidence, encased in this heavy titanium breastplate.",
-  "shortdescription" : "Knight's Breastplate",
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "A strong, peaked tungsten helm of great aesthetic value.",
+  "shortdescription" : "Sparrow Helm",
   "tooltipKind" : "armor",
 
-  "maleFrames" : {
-    "body" : "chest.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
 
-  "femaleFrames" : {
-    "body" : "chest.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-
-  "level" : 3,
+  "level" : 2,
   "leveledStatusEffects" : [
     {
-      "levelFunction" : "manipulatorArmorLevelPowerMultiplierMultiplier",
+      "levelFunction" : "separatorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 1.25
+      "baseMultiplier" : 1.15
     },
     {
-      "levelFunction" : "manipulatorArmorLevelProtectionMultiplier",
+      "levelFunction" : "separatorArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.5
+      "amount" : 0.3
     },
     {
-      "levelFunction" : "manipulatorArmorLevelMaxEnergyMultiplier",
+      "levelFunction" : "separatorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 5
+      "amount" : 3
     },
     {
-      "levelFunction" : "manipulatorArmorLevelMaxHealthMultiplier",
+      "levelFunction" : "separatorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 5
+      "amount" : 3
     }
   ],
 
-  "itemTags" : [ "tier3armour" ],
+  "itemTags" : [ "tier2armour" ],
 
   "colorOptions" : [
-    // WHITE
-    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
+    // LIGHT GREY
+    { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -1,55 +1,46 @@
 {
-  "itemName" : "doratoriantier3chestma",
-  "price" : 3200,
-  "inventoryIcon" : "icons.png:chest",
+  "itemName" : "doratoriantier5pantsha",
+  "price" : 1920,
+  "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
-  "rarity" : "Uncommon",
-  "category" : "chestarmour",
-  "description" : "Enter the battlefield with confidence, encased in this heavy titanium breastplate.",
-  "shortdescription" : "Knight's Breastplate",
+  "rarity" : "Rare",
+  "category" : "legarmour",
+  "description" : "Upstairs for thinking, downstairs for dancing; even wise Florans have to cut loose.",
+  "shortdescription" : "Wiseman's Loincloth",
   "tooltipKind" : "armor",
 
-  "maleFrames" : {
-    "body" : "chest.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
 
-  "femaleFrames" : {
-    "body" : "chest.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-
-  "level" : 3,
+  "level" : 5,
   "leveledStatusEffects" : [
     {
-      "levelFunction" : "manipulatorArmorLevelPowerMultiplierMultiplier",
+      "levelFunction" : "separatorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 1.25
+      "baseMultiplier" : 1.1
     },
     {
-      "levelFunction" : "manipulatorArmorLevelProtectionMultiplier",
+      "levelFunction" : "separatorArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.5
+      "amount" : 0.2
     },
     {
-      "levelFunction" : "manipulatorArmorLevelMaxEnergyMultiplier",
+      "levelFunction" : "separatorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 5
+      "amount" : 2
     },
     {
-      "levelFunction" : "manipulatorArmorLevelMaxHealthMultiplier",
+      "levelFunction" : "separatorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 5
+      "amount" : 2
     }
   ],
 
-  "itemTags" : [ "tier3armour" ],
+  "itemTags" : [ "tier5armour" ],
 
   "colorOptions" : [
-    // WHITE
-    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
+    // LIME GREEN
+    { "ffca8a" : "d1e160", "e0975c" : "9bba3d", "a85636" : "48832f", "6f2919" : "1b4c2a" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
