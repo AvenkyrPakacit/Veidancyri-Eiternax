@@ -7,8 +7,8 @@
     "config" : "/interface/windowconfig/merchant.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
-        "title" : "Penguin Merchant",
-        "subtitle" : "He looks serious"
+        "title" : "Doratorian Shrine",
+        "subtitle" : "Spiritual Offerings"
       }
     },
     "buyFactor" : 1.0,
@@ -19,29 +19,43 @@
 	  { "item" : "doratorianbannersmall" }
     ]
   },
-  "description" : "Is that a Penguin?",
-  "shortdescription" : "Penguin Merchant",
+  "description" : "Is that a Cross?",
+  "shortdescription" : "Doratorian shrine",
   "race" : "voderaiarkai",
   "category" : "Merchant",
   "price" : 1000,
   "printable" : false,
   "unbreakable" : false,
-  "apexDescription" : "A silent penguin merchant. Unusual.",
-  "avianDescription" : "Who is this curious merchant?",
-  "floranDescription" : "Floran ssslightly ssscared by sssilent penguin.",
-  "glitchDescription" : "Concerned. This penguin seems unwilling to communicate.",
-  "humanDescription" : "If I kiss it, do you think it'll turn into a prince merchant?",
-  "hylotlDescription" : "This silent creature is not one of us.",
-  "novakidDescription" : "Don't see many penguin merchants round these parts!",
+  "apexDescription" : "Need I burn this cross?",
+  "avianDescription" : "Who built this?",
+  "floranDescription" : "Floran sstab crosss?",
+  "glitchDescription" : "Observant. This cross is marked by odd symbols.",
+  "humanDescription" : "Any christians, mormons, or catholics around?",
+  "hylotlDescription" : "This is not of our faith.",
+  "novakidDescription" : "Pardon' me, but what was t'is 'ere cross built for?",
+  "voderaiarkaiDescription" : "A place for spirits to rest.",
   "inventoryIcon" : "doratorianmerchanticon.png",
   "orientations" : [
     {
-      "dualImage" : "doratorianmerchant.png:<color>.<frame>",
-      "imagePosition" : [-14, 0],
-      "frames" : 29,
-      "animationCycle" : 2,
+      "image" : "doratorianmerchant.png:<color>",
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "anchors" : [ "bottom" ],
+      "flipImages" : true,
+      "direction" : "left",
+      "sitPosition" : [1.6, 22.5]
+    },
+    {
+      "image" : "doratorianmerchant.png:<color>",
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "direction" : "right",
+      "sitPosition" : [1.6, 22.5]
     }
   ]
 }
