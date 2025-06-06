@@ -76,10 +76,10 @@
 
   "ambientNoises" : {
     "day" : {
-      "tracks" : [ "/sfx/environmental/tundra_night.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/sfx/environmental/tundra_night.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
     }
   },
 

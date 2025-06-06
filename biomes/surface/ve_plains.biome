@@ -63,10 +63,10 @@
   "parallax" : "/parallax/surface/garden.parallax",
   "ambientNoises" : {
     "day" : {
-      "tracks" : [ "/sfx/environmental/garden_day.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/sfx/environmental/garden_night.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
     }
   },
   "musicTrack" : {

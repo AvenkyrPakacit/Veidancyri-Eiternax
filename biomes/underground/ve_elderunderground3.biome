@@ -40,10 +40,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg", "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg", "/music/OcthyratumGenesis.ogg", "/music/Bliss of Avenskol.ogg", "/music/Eiternax Catalyst.ogg", "/music/Beckon Eiternax.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
     }
   },
 

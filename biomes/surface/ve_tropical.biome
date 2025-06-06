@@ -86,11 +86,11 @@
 
   "ambientNoises" : {
     "day" : {
-      "tracks" : [ "/sfx/environmental/jungle_day.ogg", "/sfx/environmental/jungle_day2.ogg" ]
-      },
-      "night" : {
-        "tracks" : [ "/sfx/environmental/jungle_night.ogg", "/sfx/environmental/jungle_night2.ogg" ]
-      }
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+    },
+    "night" : {
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+    }
     },
 
     "musicTrack" : {

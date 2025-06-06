@@ -82,10 +82,10 @@
 
   "ambientNoises" : {
     "day" : {
-      "tracks" : [ "/sfx/environmental/forest_day.ogg", "/sfx/environmental/forest_day2.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/sfx/environmental/forest_night.ogg", "/sfx/environmental/forest_night2.ogg" ]
+      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
     }
   },
 
