@@ -85,7 +85,7 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/OcthyratumGenesis.ogg" ]
+      "tracks" : [ "/music/OcthyratumPulsar.ogg" ]
     },
     "night" : {
       "tracks" : [ "/music/OcthyratumGenesis.ogg" ]
