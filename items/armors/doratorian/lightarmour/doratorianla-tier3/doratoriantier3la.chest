@@ -2,8 +2,11 @@
   "itemName" : "doratoriantier3chestla",
   "price" : 3200,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "inventoryIcon" : "icons.png:chestla",
 =======
+=======
+>>>>>>> Dev
   "inventoryIcon" : "icons.png:chest",
 >>>>>>> Dev
   "maxStack" : 1,

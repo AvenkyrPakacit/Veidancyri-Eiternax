@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "itemName" : "doratoriantier2chestla",
   "price" : 2400,
   "inventoryIcon" : "icons.png:chestla",
@@ -18,18 +19,39 @@
   "itemName" : "doratoriantier2chestla",
   "price" : 2400,
 >>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
+=======
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier4la.chest
+  "itemName" : "doratoriantier4chestla",
+  "price" : 4000,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "category" : "chestarmour",
+  "description" : "A breastplate designed to strengthen the wearer's durability, as well as their resolve.",
+  "shortdescription" : "Lake Breastplate",
+========
+  "itemName" : "doratoriantier2chestla",
+  "price" : 2400,
+>>>>>>> Dev
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
+<<<<<<< HEAD
 <<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
   "description" : "A sleeveless iron plated vest that offers reliable protection.",
   "shortdescription" : "Scouter's Chestguard",
 ========
+=======
+>>>>>>> Dev
   "description" : "A fortified plate/cravat combo that is both comfortable and stylish.",
   "shortdescription" : "Sparrow Breastplate",
 >>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
   "tooltipKind" : "armor",
+<<<<<<< HEAD
+>>>>>>> Dev
+=======
+
 >>>>>>> Dev
   "maleFrames" : {
     "body" : "chestm.png",
@@ -37,14 +59,19 @@
     "frontSleeve" : "fsleeve.png"
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+>>>>>>> Dev
+=======
+
 >>>>>>> Dev
   "femaleFrames" : {
     "body" : "chestf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+<<<<<<< HEAD
 <<<<<<< HEAD
 
   "level" : 2,
@@ -53,6 +80,14 @@
 "level" : 1,
 ========
 
+  "level" : 2,
+>>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
+>>>>>>> Dev
+=======
+
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier4la.chest
+  "level" : 4,
+========
   "level" : 2,
 >>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
 >>>>>>> Dev
@@ -79,6 +114,7 @@
     }
   ],
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
   "itemTags" : [ "tier1armour" ],
@@ -88,12 +124,26 @@
 ========
 >>>>>>> Dev
 
+=======
+
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier4la.chest
+  "itemTags" : [ "tier4armour" ],
+
+  "colorOptions" : [
+    // GREY BLUE
+    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
+========
+>>>>>>> Dev
   "itemTags" : [ "tier2armour" ],
 
   "colorOptions" : [
     // LIGHT GREY
     { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
+>>>>>>> Dev
 =======
 >>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
 >>>>>>> Dev

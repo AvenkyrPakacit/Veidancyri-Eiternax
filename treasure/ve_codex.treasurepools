@@ -147,7 +147,11 @@
     [1, {
       "pool" : [
 <<<<<<< HEAD
+<<<<<<< HEAD
         {"weight" : 0.25, "item" : "syrnlearthincident-codex"},
+=======
+        {"weight" : 0.06, "item" : "syrnlearthincident-codex"},
+>>>>>>> Dev
 =======
         {"weight" : 0.06, "item" : "syrnlearthincident-codex"},
 >>>>>>> Dev
