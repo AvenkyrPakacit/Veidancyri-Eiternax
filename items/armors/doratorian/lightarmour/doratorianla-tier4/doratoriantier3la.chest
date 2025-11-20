@@ -1,19 +1,5 @@
 {
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier4la.chest
->>>>>>> main
-  "itemName" : "doratoriantier4chestla",
-  "price" : 4000,
-  "inventoryIcon" : "icons.png:chest",
-  "maxStack" : 1,
-  "rarity" : "Uncommon",
-  "category" : "chestarmour",
-  "description" : "A breastplate designed to strengthen the wearer's durability, as well as their resolve.",
-  "shortdescription" : "Lake Breastplate",
-<<<<<<< HEAD
-=======
-========
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
   "itemName" : "doratoriantier2chestla",
   "price" : 2400,
   "inventoryIcon" : "icons.png:chest",
@@ -22,8 +8,16 @@
   "category" : "chestarmour",
   "description" : "A fortified plate/cravat combo that is both comfortable and stylish.",
   "shortdescription" : "Sparrow Breastplate",
->>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
->>>>>>> main
+========
+  "itemName" : "doratoriantier4chestla",
+  "price" : 4000,
+  "inventoryIcon" : "icons.png:chestla",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "category" : "chestarmour",
+  "description" : "A breastplate designed to strengthen the wearer's durability, as well as their resolve.",
+  "shortdescription" : "Lake Breastplate",
+>>>>>>>> main:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier3la.chest
   "tooltipKind" : "armor",
 
   "maleFrames" : {
@@ -38,15 +32,11 @@
     "frontSleeve" : "fsleeve.png"
   },
 
-<<<<<<< HEAD
-  "level" : 4,
-=======
-<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier4la.chest
-  "level" : 4,
-========
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
   "level" : 2,
->>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
->>>>>>> main
+========
+  "level" : 4,
+>>>>>>>> main:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier3la.chest
   "leveledStatusEffects" : [
     {
       "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
@@ -70,25 +60,19 @@
     }
   ],
 
-<<<<<<< HEAD
-=======
-<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier4la.chest
->>>>>>> main
-  "itemTags" : [ "tier4armour" ],
-
-  "colorOptions" : [
-    // GREY BLUE
-    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
-<<<<<<< HEAD
-=======
-========
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
   "itemTags" : [ "tier2armour" ],
 
   "colorOptions" : [
     // LIGHT GREY
     { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
->>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
->>>>>>> main
+========
+  "itemTags" : [ "tier4armour" ],
+
+  "colorOptions" : [
+    // GREY BLUE
+    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
+>>>>>>>> main:items/armors/doratorian/lightarmour/doratorianla-tier4/doratoriantier3la.chest
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

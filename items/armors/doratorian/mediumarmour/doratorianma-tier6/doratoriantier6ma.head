@@ -1,19 +1,82 @@
 {
+<<<<<<< HEAD
+<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
+  "itemName" : "doratoriantier6headma",
+  "price" : 3840,
+========
+  "itemName" : "doratoriantier1headma",
+  "price" : 480,
+>>>>>>>> main:items/armors/doratorian/mediumarmour/doratorianma-tier1/doratoriantier1ma.head
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headarmour",
+<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
+  "description" : "No matter how high the stakes, you won't lose you head with this gambler's hat.",
+  "shortdescription" : "Gambler's Hat",
+========
+  "description" : "This scouter headset features a fancy augmented visor.",
+  "shortdescription" : "Scouter's Visor",
+>>>>>>>> main:items/armors/doratorian/mediumarmour/doratorianma-tier1/doratoriantier1ma.head
+  "tooltipKind" : "armor",
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  "level" : 1,
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:items/armors/doratorian/doratorian-chead1/doratorian-chead1.head
+  "itemName" : "doratorian-chead1",
+  "price" : 40,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "Useful for those who want to hide their identity.",
+  "shortdescription" : "Doratorian Common Collar",
+========
   "itemName" : "doratoriantier6headma",
   "price" : 3840,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "headarmour",
+=======
+<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier4/doratoriantier4ma.head
+  "itemName" : "doratoriantier4headma",
+  "price" : 2400,
+========
+  "itemName" : "doratoriantier6headma",
+  "price" : 3840,
+>>>>>>>> Dev:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "category" : "headarmour",
+<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier4/doratoriantier4ma.head
+  "description" : "A durasteel helm that is built for defense.",
+  "shortdescription" : "Lake Helm",
+========
+>>>>>>> Dev
   "description" : "No matter how high the stakes, you won't lose you head with this gambler's hat.",
   "shortdescription" : "Gambler's Hat",
+>>>>>>>> Dev:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
   "tooltipKind" : "armor",
+<<<<<<< HEAD
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  "colorOptions" : [
+    // BLUE
+    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+=======
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
 
-  "level" : 6,
+  "level" : 4,
+>>>>>>> main
   "leveledStatusEffects" : [
     {
       "levelFunction" : "manipulatorArmorLevelPowerMultiplierMultiplier",
@@ -36,12 +99,30 @@
       "amount" : 3
     }
   ],
-
-  "itemTags" : [ "tier6armour" ],
-
+<<<<<<< HEAD
+  "itemTags" : [ "tier1armour" ],
   "colorOptions" : [
+<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
     // BLUE
     { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+========
+    // OLIVE
+    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "91956c", "6f2919" : "4f563c" },
+>>>>>>>> main:items/armors/doratorian/mediumarmour/doratorianma-tier1/doratoriantier1ma.head
+=======
+
+  "itemTags" : [ "tier4armour" ],
+
+  "colorOptions" : [
+<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier4/doratoriantier4ma.head
+    // GREY BLUE
+    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
+========
+    // BLUE
+    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+>>>>>>>> Dev:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
+>>>>>>> Dev
+>>>>>>> main
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
@@ -65,4 +146,12 @@
     // BROWN
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
   ]
+<<<<<<< HEAD
 }
+=======
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> Dev
+>>>>>>> main

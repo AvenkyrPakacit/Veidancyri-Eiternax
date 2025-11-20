@@ -1,7 +1,7 @@
 {
   "itemName" : "doratoriantier5chestla",
   "price" : 4800,
-  "inventoryIcon" : "icons.png:chest",
+  "inventoryIcon" : "icons.png:chestla",
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "chestarmour",

@@ -1,4 +1,11 @@
 {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:items/armors/doratorian/doratorian-head1/doratorianoutfit1head.head
+=======
+>>>>>>> Dev
+>>>>>>> main
   "itemName" : "doratorianoutfit1head",
   "price" : 40,
   "inventoryIcon" : "icons.png:head",
@@ -7,13 +14,68 @@
   "category" : "headwear",
   "description" : "A decent collar commonly worn by Doratorians.",
   "shortdescription" : "Doratorian Common Collar",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+========
+  "itemName" : "doratoriantier2headma",
+  "price" : 1440,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "A strong, peaked tungsten helm of great aesthetic value.",
+  "shortdescription" : "Sparrow Helm",
+>>>>>>>> Dev:items/armors/doratorian/mediumarmour/doratorianma-tier2/doratoriantier2ma.head
+=======
+>>>>>>> Dev
+>>>>>>> main
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:items/armors/doratorian/doratorian-head1/doratorianoutfit1head.head
+========
+
+  "level" : 2,
+  "leveledStatusEffects" : [
+    {
+      "levelFunction" : "manipulatorArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.15
+    },
+    {
+      "levelFunction" : "manipulatorArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.3
+    },
+    {
+      "levelFunction" : "manipulatorArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 3
+    },
+    {
+      "levelFunction" : "manipulatorArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 3
+    }
+  ],
+
+  "itemTags" : [ "tier2armour" ],
+
+>>>>>>>> Dev:items/armors/doratorian/mediumarmour/doratorianma-tier2/doratoriantier2ma.head
+  "colorOptions" : [
+    // LIGHT GREY
+    { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
+=======
+>>>>>>> main
   "colorOptions" : [
     // RED
     { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
+>>>>>>> Dev
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
