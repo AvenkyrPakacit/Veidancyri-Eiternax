@@ -1,0 +1,49 @@
+{
+  "type" : "doratorianspistolero6a",
+  "baseType" : "guard",
+  "dropPools" : [ "doratorianpistolero6pool" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmember"]
+    }
+  },
+  "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Attack!"
+          ]
+        },
+        "voderaiarkai" : {
+          "default" : [
+            "*hissing* Give me the fucking guns, and I'll kill them!",
+            "*hissing* Ready to fucking die!?",
+            "*purring* I have two guns, one for each of ya!",
+            "*barking hiss* Ready to die? READY TO FUCKING DIE!? GODS, I CAN FEEL MY INSTINCTS TAKING HOLD!"
+          ]
+        }
+      }
+    },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "doratoriantier6headla" }
+			],
+            "chest" : [ { "name" : "doratoriantier6chestla" }
+			],
+            "legs" : [ { "name" : "doratoriantier6pantsla" }
+			],
+            "primary" : [
+          { "name" : "doratorianhcptier6" }
+        ],
+        "alt" : [
+          { "name" : "doratoriandaggertier6" },
+          { "name" : "doratorianhcptier6" }
+        ]
+          }
+        ] ]
+    ]
+  }
+}

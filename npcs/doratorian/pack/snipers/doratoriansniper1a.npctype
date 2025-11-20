@@ -1,0 +1,48 @@
+{
+  "type" : "doratoriansniper1a",
+  "baseType" : "guard",
+  "dropPools" : [ "doratoriansniper1pool" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmember"]
+    }
+  },
+  "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Attack!"
+          ]
+        },
+        "voderaiarkai" : {
+          "default" : [
+            "*hissing* I can see you!",
+            "*hissing* Ready to lose that brain of yours!?",
+            "*purring* Just one step closer, and your dead!",
+            "*barking hiss* Ready to lose your brains? GODS, I'LL SHOW YOU PREY!"
+          ]
+        }
+      }
+    },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "doratoriantier1headla" }
+			],
+            "chest" : [ { "name" : "doratoriantier1chestla" }
+			],
+            "legs" : [ { "name" : "doratoriantier1pantsla" }
+			],
+            "primary" : [
+          { "name" : "doratoriansrtier1" }
+        ],
+        "sheathedprimary" : [
+          { "name" : "doratoriandaggertier1" }
+        ]
+          }
+        ] ]
+    ]
+  }
+}

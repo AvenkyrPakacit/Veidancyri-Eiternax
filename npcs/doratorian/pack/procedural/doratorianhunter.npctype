@@ -1,0 +1,51 @@
+{
+  "type" : "doratorianhunter",
+  "baseType" : "guard",
+  "levelVariance" : [1, 4],
+  "dropPools" : [ "doratorianOriginPools" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmember"]
+    }
+  },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "doratoriantier1headla" },
+            { "name" : "doratoriantier2headla" },
+            { "name" : "doratoriantier3headla" },
+            { "name" : "doratoriantier4headla" }
+			],
+            "chest" : [ { "name" : "doratoriantier1chestla" },
+            { "name" : "doratoriantier2chestla" },
+            { "name" : "doratoriantier3chestla" },
+            { "name" : "doratoriantier4chestla" }
+			],
+            "legs" : [ { "name" : "doratoriantier1pantsla" },
+            { "name" : "doratoriantier2pantsla" },
+            { "name" : "doratoriantier3pantsla" },
+            { "name" : "doratoriantier4pantsla" }
+			],
+            "primary" : [
+          { "name" : "bow" },
+          { "name" : "tungstenbow" }
+        ],
+        "sheathedprimary" : [
+          { "name" : "commonaxe" },
+          { "name" : "commonbroadsword" },
+          { "name" : "commonhammer" },
+          { "name" : "commonshortsword" },
+          { "name" : "commonspear" }
+        ],
+        "alt" : [
+          { "name" : "commondagger" },
+          { "name" : "commonmachinepistol" },
+          { "name" : "commonpistol" }
+        ]
+          }
+        ] ]
+    ]
+  }
+}

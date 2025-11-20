@@ -1,0 +1,28 @@
+{
+  "objectName" : "talfieranbannerlarge",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A large Talfieran wallbanner.",
+  "shortdescription" : "Large Talfieran Wall Banner",
+  "race" : "einfieran",
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner! Charming!",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large talfieran banner...",
+  "humanDescription" : "The Talfieran banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "inventoryIcon" : "talfieranbannerlargeicon.png",
+  "orientations" : [
+    {
+      "image" : "talfieranbannerlarge.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

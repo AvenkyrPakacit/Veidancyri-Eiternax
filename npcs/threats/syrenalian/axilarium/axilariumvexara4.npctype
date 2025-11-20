@@ -1,0 +1,60 @@
+{
+  "type" : "axilariumvexara4",
+  "baseType" : "hostile",
+  "levelVariance" : [5, 7],
+  "dropPools" : [ "axilariumTreasure5" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmemberAxilarium"]
+    },
+    "dialog" : {
+      "attack" : "/dialog/unitariumvexara.config:attack",
+      "beacon" : "/dialog/unitariumvexara.config:beacon",
+      "cantReach" : "/dialog/unitariumvexara.config:cantReach",
+      "cheerOn" : "/dialog/unitariumvexara.config:cheerOn",
+      "converse" : "/dialog/unitariumvexara.config:converse",
+      "enclosedArea" : "/dialog/unitariumvexara.config:enclosedArea",
+      "final" : "/dialog/unitariumvexara.config:final",
+      "greeting" : "/dialog/unitariumvexara.config:greeting",
+      "hail" : "/dialog/unitariumvexara.config:hail",
+      "helpme" : "/dialog/unitariumvexara.config:helpme",
+      "killedTarget" : "/dialog/unitariumvexara.config:killedTarget",
+      "lostTarget" : "/dialog/unitariumvexara.config:lostTarget",
+      "otherDeed" : "/dialog/unitariumvexara.config:otherDeed",
+      "outOfSight" : "/dialog/unitariumvexara.config:outOfSight",
+      "reattack" : "/dialog/unitariumvexara.config:reattack",
+      "rent" : "/dialog/unitariumvexara.config:rent",
+      "severe" : "/dialog/unitariumvexara.config:severe",
+      "tagCriteria" : "/dialog/unitariumvexara.config:tagCriteria"
+    }
+  },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "syrenaliantier4head" }
+			],
+            "chest" : [ { "name" : "syrenaliantier4chestpa" }
+			],
+            "legs" : [ { "name" : "syrenaliantier4pantspa" }
+			],
+            "primary" : [
+          { "name" : "unitariumbattlerifle" },
+          { "name" : "unitariumbolter" },
+          { "name" : "unitariumcombatrifle" },
+          { "name" : "commonsyrnlpolearm" }
+        ],
+        "sheathedprimary" : [
+          { "name" : "commonaxe" }
+        ],
+        "alt" : [
+          { "name" : "commondagger" },
+          { "name" : "commonmachinepistol" },
+          { "name" : "commonpistol" }
+        ]
+          }
+        ] ]
+    ]
+  }
+}

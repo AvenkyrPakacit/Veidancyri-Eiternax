@@ -1,0 +1,38 @@
+{
+    "itemName": "doratoriankatanatier5",
+    "price": 1350,
+    "level": 4,
+    "maxStack": 1,
+    "rarity": "Rare",
+    "description": "A decently forged rikadakz.",
+    "shortdescription": "Rikadakz",
+    "tooltipKind": "sword",
+    "category": "ve_katana",
+    "twoHanded": true,
+    "itemTags": [
+        "weapon",
+        "melee",
+        "katana",
+        "upgradeableWeapon"
+    ],
+    "inventoryIcon": "doratoriankatanatier5.png",
+    "animation": "/items/active/weapons/melee/katana/ve_katana_combo.animation",
+    "animationParts": {
+        "handle": "",
+        "blade": "doratoriankatanatier5.png"
+    },
+    "animationCustom": {},
+    "scripts": [
+        "/items/active/weapons/melee/meleeweapon.lua"
+    ],
+    "elementalType": "physical",
+    "primaryAbilityType": "ve_katana_combo",
+    "primaryAbility": {
+        "fireTime": 0.8,
+        "baseDps": 40.5
+    },
+    "altAbilityType": "parry",
+    "critChance": 2,
+    "critBonus": 8,
+    "builder": "/items/buildscripts/buildunrandweapon.lua"
+}

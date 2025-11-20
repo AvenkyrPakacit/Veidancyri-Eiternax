@@ -1,0 +1,25 @@
+{
+  "itemName" : "ve_syrnldrink3",
+  "rarity" : "Uncommon",
+  "price" : 600,
+  "category" : "drink",
+  "inventoryIcon" : "ve_syrnldrink3.png",
+  "description" : "A fresh glass of Syrenalian juice.",
+  "shortdescription" : "Syrenalian Juice",
+  "effects" : [ [
+    {
+        "effect" : "weakpoison",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 60,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}
