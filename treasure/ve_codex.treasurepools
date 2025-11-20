@@ -146,7 +146,11 @@
   "talfieranCodexPools" : [
     [1, {
       "pool" : [
+<<<<<<< HEAD
         {"weight" : 0.25, "item" : "syrnlearthincident-codex"},
+=======
+        {"weight" : 0.06, "item" : "syrnlearthincident-codex"},
+>>>>>>> Dev
         {"weight" : 0.5, "item" : "syrnlfracking-codex"},
         {"weight" : 0.25, "item" : "syrnlpoem-codex"},
         {"weight" : 1.0, "item" : "syrnlvolunteer-codex"}

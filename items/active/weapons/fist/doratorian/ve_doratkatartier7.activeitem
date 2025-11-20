@@ -3,7 +3,7 @@
   "price" : 225,
   "level" : 7,
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Legendary",
   "description" : "A decent shortblade often wielded by prowlers.",
   "shortdescription" : "Pakica",
   "tooltipKind" : "fistweapon",
@@ -14,7 +14,7 @@
   "animation" : "/items/active/weapons/fist/fistweapon.animation",
   "animationParts" : {
     "weapon" : "ve_doratkatartier7.png",
-    "swoosh" : "swoosh/clawswoosh.png"
+    "swoosh" : "/items/active/weapons/fist/swoosh/clawswoosh.png"
   },
   "animationCustom" : {
     "animatedParts" : { "parts" : { "swoosh" : { "partStates" : { "attack" : { "fire" : { "properties" : {

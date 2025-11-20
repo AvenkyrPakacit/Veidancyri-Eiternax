@@ -1,12 +1,22 @@
 {
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
   "itemName" : "doratoriantier1chestla",
   "price" : 800,
+========
+  "itemName" : "doratoriantier2chestla",
+  "price" : 2400,
+>>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
   "description" : "A sleeveless iron plated vest that offers reliable protection.",
   "shortdescription" : "Scouter's Chestguard",
+========
+  "description" : "A fortified plate/cravat combo that is both comfortable and stylish.",
+  "shortdescription" : "Sparrow Breastplate",
+>>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
@@ -18,7 +28,12 @@
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
 "level" : 1,
+========
+
+  "level" : 2,
+>>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
   "leveledStatusEffects" : [
     {
       "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
@@ -41,10 +56,19 @@
       "amount" : 5
     }
   ],
+<<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
   "itemTags" : [ "tier1armour" ],
   "colorOptions" : [
     // OLIVE
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "4f563c", "6f2919" : "2c3712" },
+========
+
+  "itemTags" : [ "tier2armour" ],
+
+  "colorOptions" : [
+    // LIGHT GREY
+    { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
+>>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

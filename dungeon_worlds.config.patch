@@ -42,7 +42,7 @@
       "ambientLightLevel" : [32, 32, 32],
       "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
 			"biome": "ve_elder",
-      "musicTrack" : "/music/tranquility-base.ogg"
+      "musicTrack" : "/music/Eikal Sanctuary.ogg"
     }
   }
 ]
