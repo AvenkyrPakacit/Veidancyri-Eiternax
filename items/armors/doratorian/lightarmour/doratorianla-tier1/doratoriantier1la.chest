@@ -1,5 +1,9 @@
 {
 <<<<<<< HEAD
+  "itemName" : "doratoriantier1chestla",
+  "price" : 800,
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
   "itemName" : "doratoriantier1chestla",
   "price" : 800,
@@ -11,10 +15,15 @@
   "itemName" : "doratoriantier1chestla",
   "price" : 800,
 >>>>>>> Dev
+>>>>>>> main
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
+<<<<<<< HEAD
+  "description" : "A sleeveless iron plated vest that offers reliable protection.",
+  "shortdescription" : "Scouter's Chestguard",
+=======
 <<<<<<< HEAD
 <<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
   "description" : "A sleeveless iron plated vest that offers reliable protection.",
@@ -27,6 +36,7 @@
   "description" : "A sleeveless iron plated vest that offers reliable protection.",
   "shortdescription" : "Scouter's Chestguard",
 >>>>>>> Dev
+>>>>>>> main
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
@@ -39,6 +49,9 @@
     "frontSleeve" : "fsleeve.png"
   },
 <<<<<<< HEAD
+"level" : 1,
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
 "level" : 1,
 ========
@@ -48,6 +61,7 @@
 =======
 "level" : 1,
 >>>>>>> Dev
+>>>>>>> main
   "leveledStatusEffects" : [
     {
       "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
@@ -71,13 +85,18 @@
     }
   ],
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<<< HEAD:items/armors/doratorian/lightarmour/doratorianla-tier1/doratoriantier1la.chest
 =======
 >>>>>>> Dev
+>>>>>>> main
   "itemTags" : [ "tier1armour" ],
   "colorOptions" : [
     // OLIVE
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "4f563c", "6f2919" : "2c3712" },
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 ========
 
@@ -89,6 +108,7 @@
 >>>>>>>> Dev:items/armors/doratorian/lightarmour/doratorianla-tier2/doratoriantier2la.chest
 =======
 >>>>>>> Dev
+>>>>>>> main
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
