@@ -1,32 +1,12 @@
 {
-<<<<<<< HEAD
   "itemName" : "doratoriantier4headma",
   "price" : 2400,
-=======
-<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier4/doratoriantier4ma.head
-  "itemName" : "doratoriantier4headma",
-  "price" : 2400,
-========
-  "itemName" : "doratoriantier6headma",
-  "price" : 3840,
->>>>>>>> Dev:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
->>>>>>> main
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-<<<<<<< HEAD
   "description" : "A durasteel helm that is built for defense.",
   "shortdescription" : "Lake Helm",
-=======
-<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier4/doratoriantier4ma.head
-  "description" : "A durasteel helm that is built for defense.",
-  "shortdescription" : "Lake Helm",
-========
-  "description" : "No matter how high the stakes, you won't lose you head with this gambler's hat.",
-  "shortdescription" : "Gambler's Hat",
->>>>>>>> Dev:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
->>>>>>> main
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -60,18 +40,8 @@
   "itemTags" : [ "tier4armour" ],
 
   "colorOptions" : [
-<<<<<<< HEAD
     // GREY BLUE
     { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
-=======
-<<<<<<<< HEAD:items/armors/doratorian/mediumarmour/doratorianma-tier4/doratoriantier4ma.head
-    // GREY BLUE
-    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
-========
-    // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
->>>>>>>> Dev:items/armors/doratorian/mediumarmour/doratorianma-tier6/doratoriantier6ma.head
->>>>>>> main
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
