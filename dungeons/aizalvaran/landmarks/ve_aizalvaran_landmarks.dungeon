@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "name": "ve_aizalvaran_landmarks",
+        "species": "generic",
+        "rules": [],
+        "anchor": [
+            "ve_aizalvaran_cross"
+        ],
+        "gravity": 80,
+        "maxRadius": 1000000,
+        "maxParts": 10,
+        "extendSurfaceFreeSpace": 100,
+        "protected": false
+    },
+    "parts": [
+        {
+            "name": "ve_aizalvaran_cross",
+            "rules": [
+                [
+                    "ignorePartMaximumRule"
+                ]
+            ],
+            "def": [
+                "tmx",
+                [
+                    "ve_aizalvaran_cross.json"
+                ]
+            ],
+            "chance": 75
+        }
+    ]
+}
