@@ -95,15 +95,15 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":198,
-         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":222,
-         "source":"..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
         }, 
         {
          "firstgid":259,
