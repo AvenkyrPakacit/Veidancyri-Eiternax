@@ -295,27 +295,27 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":198,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":222,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
         }, 
         {
          "firstgid":259,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-type\/container.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-type\/container.json"
         }, 
         {
          "firstgid":544,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-category\/crafting.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-category\/crafting.json"
         }, 
         {
          "firstgid":624,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/GOG Games\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-type\/loungeable.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-type\/loungeable.json"
         }],
  "tilewidth":8,
  "type":"map",
