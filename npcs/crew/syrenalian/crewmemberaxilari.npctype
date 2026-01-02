@@ -1,6 +1,6 @@
 {
   "type" : "crewmemberaxilari",
-  "baseType" : "crewmember",
+  "baseType" : "crewmembersyrenalian",
   "scriptConfig" : {
     "behaviorConfig" : {
       "emptyHands" : false
