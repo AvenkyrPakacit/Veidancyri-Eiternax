@@ -13,65 +13,49 @@
 	  },
       "uniformSlots" : ["chest", "chestCosmetic", "legs", "legsCosmetic", "back", "backCosmetic"]
     },
-    "dialog" : {
+		"dialog" : {
       "crewmember" : {
         "offer" : {
-          "voderaiarkai" : {
+          "default" : {
             "default" : [
-              "Hey there, adventurer. Might I join your crew?",
-              "I'm <selfname>, looking to join a spaceship crew. Are you hiring?",
-              "Do you need anyone for your crew? I'd love to join you!",
-              "I'd love to join your crew, if you'll have me."
+              "May I join your pack?"
             ]
           }
         },
 		"roleDescription" : {
-          "voderaiarkai" : {
+          "default" : {
             "default" : [
-              "I'll keep you safe in battle, sir!",
-              "Let me fight for you!",
-              "Always ready, captain!",
-              "I'm here if you need me!"
+              "Let me help you in your travels!"
             ]
           }
         },
 		"respawned" : {
-          "voderaiarkai" : {
+          "default" : {
             "default" : [
-              "I've never felt anything as strange as that...",
-              "I thought that was the end for me!",
-              "I'm back!",
-              "I'm alive!"
+              "So close to death...!",
+              "How am I still alive!?"
             ]
           }
         },
 		"unfollow" : {
-          "voderaiarkai" : {
+          "default" : {
             "default" : [
-              "I'll wait for you here.",
-              "Let me know when you want to head out again.",
-              "I'll stand guard here.",
-              "I'll be here when you get back."
+              "I'll stay here!"
             ]
           }
         },
 		"follow" : {
-          "voderaiarkai" : {
+          "default" : {
             "default" : [
-              "Ready to go, sir!",
-              "Let's be off, then!",
-              "I'll follow you, captain!",
-              "Are we heading out then?"
+              "Ready to go!",
+              "I'll follow you!"
             ]
           }
         },
 		"cantreach" : {
-          "voderaiarkai" : {
+          "default" : {
             "default" : [
-              "I can't reach you!",
-              "I can't get over there!",
-              "Wait for me!",
-              "I'll find a way around!"
+              "I can't reach you!"
             ]
           }
         }
@@ -82,37 +66,29 @@
     "default" : [
       [0, [
           {
-            "chest" : [ { "name" : "protectoratechest", "data" : { "colorIndex" : 4 } } ],
-            "legs" : [ { "name" : "protectoratepants", "data" : { "colorIndex" : 4 } } ],
+            "chest" : [ { "name" : "doratoriantier1chestla", "data" : { "colorIndex" : 4 } } ],
+            "legs" : [ { "name" : "doratoriantier1pantsla", "data" : { "colorIndex" : 4 } } ],
             "primary" : [
-			  "thea-tier2rifle",
-			  "thea-tier2shotgun",
-			  "thea-tier2sniper"
+			  "doratorianhcptier1",
+			  "doratorianhcptier2",
+			  "doratoriansrtier1",
+			  "doratoriansrtier2"
 			],
             "sheathedprimary" : [
-			  "thea-tier1broadsword",
-			  "thea-tier1shortsword",
-			  "thea-tier2dagger",
-			  "thea-tier2spear",
-			  "thea-tier3axe",
-			  "thea-tier3hammer"
+			  "doratoriandaggertier1",
+			  "doratoriandaggertier2"
 			]
           },
           {
-            "chest" : [ { "name" : "protectoratechest", "data" : { "colorIndex" : 4 } } ],
-            "legs" : [ { "name" : "protectoratepants", "data" : { "colorIndex" : 4 } } ],
+            "chest" : [ { "name" : "doratoriantier1chestma", "data" : { "colorIndex" : 4 } } ],
+            "legs" : [ { "name" : "doratoriantier1pantsma", "data" : { "colorIndex" : 4 } } ],
             "primary" : [
-			  "thea-tier1broadsword",
-			  "thea-tier1shortsword",
-			  "thea-tier2dagger",
-			  "thea-tier2spear",
-			  "thea-tier3axe",
-			  "thea-tier3hammer"
+			  "doratoriankatanatier1",
+			  "doratoriankatanatier2"
 			],
             "sheathedprimary" : [
-			  "thea-tier2rifle",
-			  "thea-tier2shotgun",
-			  "thea-tier2sniper"
+			  "doratorianmacetier1",
+			  "doratorianmacetier2"
 			]
           }
         ] ]
