@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "syrnl_runyrT1.png",
+      "position" : [9, 12],
+      "fullbright" : true
+    },
+    {
+      "image" : "syrnl_runyrT1lit.png",
+      "position" : [9, 12]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "syrnl_runyrT1blocks.png"
+}
