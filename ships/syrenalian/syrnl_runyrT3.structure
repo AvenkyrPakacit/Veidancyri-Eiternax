@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "syrnl_runyrT3.png",
+      "position" : [9, 12],
+      "fullbright" : true
+    },
+    {
+      "image" : "syrnl_runyrT3lit.png",
+      "position" : [9, 12]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "syrnl_runyrT3blocks.png"
+}

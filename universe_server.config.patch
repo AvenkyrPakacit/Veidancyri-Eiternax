@@ -44,29 +44,29 @@
 	{ "op" : "add",
 		"path" : "/speciesShips/eilasalian",
 		"value" : [
-		    "/ships/syrenalian/syrenaliant0.structure",
-			"/ships/syrenalian/syrenaliant1.structure",
-			"/ships/syrenalian/syrenaliant2.structure",
-			"/ships/syrenalian/syrenaliant3.structure",
-			"/ships/syrenalian/syrenaliant4.structure",
-			"/ships/syrenalian/syrenaliant5.structure",
-			"/ships/syrenalian/syrenaliant6.structure",
-			"/ships/syrenalian/syrenaliant7.structure",
-			"/ships/syrenalian/syrenaliant8.structure"
+		    "/ships/syrenalian/syrnl_runyrt0.structure",
+			"/ships/syrenalian/syrnl_runyrt1.structure",
+			"/ships/syrenalian/syrnl_runyrt2.structure",
+			"/ships/syrenalian/syrnl_runyrt3.structure",
+			"/ships/syrenalian/syrnl_runyrt4.structure",
+			"/ships/syrenalian/syrnl_runyrt5.structure",
+			"/ships/syrenalian/syrnl_runyrt6.structure",
+			"/ships/syrenalian/syrnl_runyrt7.structure",
+			"/ships/syrenalian/syrnl_runyrt8.structure"
 		]
 	},
 	{ "op" : "add",
 		"path" : "/speciesShips/einfieran",
 		"value" : [
-		    "/ships/syrenalian/syrenaliant0.structure",
-			"/ships/syrenalian/syrenaliant1.structure",
-			"/ships/syrenalian/syrenaliant2.structure",
-			"/ships/syrenalian/syrenaliant3.structure",
-			"/ships/syrenalian/syrenaliant4.structure",
-			"/ships/syrenalian/syrenaliant5.structure",
-			"/ships/syrenalian/syrenaliant6.structure",
-			"/ships/syrenalian/syrenaliant7.structure",
-			"/ships/syrenalian/syrenaliant8.structure"
+		    "/ships/syrenalian/syrnl_runyrt0.structure",
+			"/ships/syrenalian/syrnl_runyrt1.structure",
+			"/ships/syrenalian/syrnl_runyrt2.structure",
+			"/ships/syrenalian/syrnl_runyrt3.structure",
+			"/ships/syrenalian/syrnl_runyrt4.structure",
+			"/ships/syrenalian/syrnl_runyrt5.structure",
+			"/ships/syrenalian/syrnl_runyrt6.structure",
+			"/ships/syrenalian/syrnl_runyrt7.structure",
+			"/ships/syrenalian/syrnl_runyrt8.structure"
 		]
 	},
 	{ "op" : "add",
@@ -100,15 +100,15 @@
 	{ "op" : "add",
 		"path" : "/speciesShips/octusarian",
 		"value" : [
-		    "/ships/syrenalian/syrenaliant0.structure",
-			"/ships/syrenalian/syrenaliant1.structure",
-			"/ships/syrenalian/syrenaliant2.structure",
-			"/ships/syrenalian/syrenaliant3.structure",
-			"/ships/syrenalian/syrenaliant4.structure",
-			"/ships/syrenalian/syrenaliant5.structure",
-			"/ships/syrenalian/syrenaliant6.structure",
-			"/ships/syrenalian/syrenaliant7.structure",
-			"/ships/syrenalian/syrenaliant8.structure"
+		    "/ships/syrenalian/syrnl_runyrt0.structure",
+			"/ships/syrenalian/syrnl_runyrt1.structure",
+			"/ships/syrenalian/syrnl_runyrt2.structure",
+			"/ships/syrenalian/syrnl_runyrt3.structure",
+			"/ships/syrenalian/syrnl_runyrt4.structure",
+			"/ships/syrenalian/syrnl_runyrt5.structure",
+			"/ships/syrenalian/syrnl_runyrt6.structure",
+			"/ships/syrenalian/syrnl_runyrt7.structure",
+			"/ships/syrenalian/syrnl_runyrt8.structure"
 		]
 	},
 	{ "op" : "add",
