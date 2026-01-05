@@ -5,11 +5,7 @@ function init()
 end
 function update(dt)
   effect.setStatModifierGroup(statModifierGroup, {
-    {stat = "powerMultiplier", effectiveMultiplier = 1 + (e - status.resourcePercentage("food") * e)}.
+    {stat = "powerMultiplier", effectiveMultiplier = 1 + (e - status.resourcePercentage("food") * e)},
     {stat = "protection", effectiveMultiplier = 1 - (d - status.resourcePercentage("food") * d)}
   })
-end
-function update(dt)
-end
-function uninit()
 end
