@@ -114,3 +114,5 @@ Octusarian: Xethyrum's Will
 
 ### Sva
 Allowing the usage of Katana code.
+### Silver Sokolova
+Helping with lua code.
