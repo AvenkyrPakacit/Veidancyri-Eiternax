@@ -1,0 +1,173 @@
+[
+	{
+		"op": "add",
+		"path": "/merchantStart/eilasalian",
+		"value": {
+			"default": [
+	      "Come in! Come in!",
+	      "Here to browse?",
+	      "What are you looking for?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/eilasalian",
+		"value": {
+			"default": [
+			"See you next time!",
+			"Come again!",
+			"Your money is always good here!",
+			"Pleasure doing business with you!",
+			"Thanks for shopping!",
+			"Let's do business again!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/eilasalian",
+		"value": {
+			"default": [
+			    "We can do business at my store. Please follow me.",
+	            "Here, this way to my shop!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/eilasalian",
+		"value": {
+			"default": [
+	      "Welcome to my shop!",
+	      "Welcome to my store!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/eilasalian",
+		"value": {
+			"default" : [
+			"My shop has the best wares you'll ever see! Come and look!",
+			"I would be most pleased to sell you what your looking for.",
+			"Please feel welcome to browse my wares.",
+			"I have many goods available, I'm sure you'd find something to please you."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantStart/einfieran",
+		"value": {
+			"default": [
+	      "Come in! Come in!",
+	      "Here to browse?",
+	      "What are you looking for?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/einfieran",
+		"value": {
+			"default": [
+			"See you next time!",
+			"Come again!",
+			"Your money is always good here!",
+			"Pleasure doing business with you!",
+			"Thanks for shopping!",
+			"Let's do business again!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/einfieran",
+		"value": {
+			"default": [
+			    "We can do business at my store. Please follow me.",
+	            "Here, this way to my shop!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/einfieran",
+		"value": {
+			"default": [
+	      "Welcome to my shop!",
+	      "Welcome to my store!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/einfieran",
+		"value": {
+			"default" : [
+			"My shop has the best wares you'll ever see! Come and look!",
+			"I would be most pleased to sell you what your looking for.",
+			"Please feel welcome to browse my wares.",
+			"I have many goods available, I'm sure you'd find something to please you."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantStart/octusarian",
+		"value": {
+			"default": [
+	      "Come in! Come in!",
+	      "Here to browse?",
+	      "What are you looking for?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/octusarian",
+		"value": {
+			"default": [
+			"See you next time!",
+			"Come again!",
+			"Your money is always good here!",
+			"Pleasure doing business with you!",
+			"Thanks for shopping!",
+			"Let's do business again!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/octusarian",
+		"value": {
+			"default": [
+			    "We can do business at my store. Please follow me.",
+	            "Here, this way to my shop!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/octusarian",
+		"value": {
+			"default": [
+	      "Welcome to my shop!",
+	      "Welcome to my store!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/octusarian",
+		"value": {
+			"default" : [
+			"My shop has the best wares you'll ever see! Come and look!",
+			"I would be most pleased to sell you what your looking for.",
+			"Please feel welcome to browse my wares.",
+			"I have many goods available, I'm sure you'd find something to please you."
+			]
+		}
+	}
+]
