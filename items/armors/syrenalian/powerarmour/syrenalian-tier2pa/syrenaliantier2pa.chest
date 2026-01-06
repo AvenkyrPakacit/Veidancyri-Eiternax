@@ -1,6 +1,6 @@
 {
   "itemName" : "syrenaliantier2chestpa",
-  "price" : 7200,
+  "price" : 2400,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
@@ -8,37 +8,40 @@
   "description" : "Segmented plates guard the torso as metalic tassets are linked around the waist.",
   "shortdescription" : "Axilarium Platemail",
   "tooltipKind" : "armor",
+
   "maleFrames" : {
     "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+
   "femaleFrames" : {
     "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+
   "level" : 2,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 11.75
+      "baseMultiplier" : 2.5
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 11.75
+      "amount" : 1.0
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 11.75
+      "amount" : 10
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 11.75
+      "amount" : 10
     }
   ],
 

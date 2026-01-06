@@ -1,6 +1,6 @@
 {
   "itemName" : "syrenaliantier3chestpa",
-  "price" : 9600,
+  "price" : 3200,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Uncommon",
@@ -8,37 +8,40 @@
   "description" : "Tassets spindle upon the platemail in refined glory.",
   "shortdescription" : "Reinforced Axilarium Platemail",
   "tooltipKind" : "armor",
+
   "maleFrames" : {
     "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+
   "femaleFrames" : {
     "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
+
   "level" : 3,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 11.75
+      "baseMultiplier" : 2.5
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 11.75
+      "amount" : 1.0
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 11.75
+      "amount" : 10
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 11.75
+      "amount" : 10
     }
   ],
 
