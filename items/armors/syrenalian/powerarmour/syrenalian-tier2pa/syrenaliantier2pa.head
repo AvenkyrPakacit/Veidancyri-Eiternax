@@ -1,6 +1,6 @@
 {
   "itemName" : "syrenaliantier2headpa",
-  "price" : 4320,
+  "price" : 1440,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Common",
@@ -18,22 +18,22 @@
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 4.45
+      "baseMultiplier" : 2.3
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 4.45
+      "amount" : 0.6
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 4.45
+      "amount" : 6
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 4.45
+      "amount" : 6
     }
   ],
 

@@ -11,5 +11,5 @@
     "voderaihunger.lua"
   ],
   "label" : "Voracious Demeanor: Your instincts are empowered the closer you are to starvation.",
-  "icon" : "/interface/statuses/voderaihunger"
+  "icon" : "/interface/statuses/voderaihunger.png"
 }
