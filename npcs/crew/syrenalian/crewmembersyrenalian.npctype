@@ -8,8 +8,8 @@
     },
 	"crew" : {
 	  "defaultUniform" : {
-		"chest" : "protectoratechest",
-		"legs" : "protectoratepants"
+		"chest" : "syrenaliantier1chest",
+		"legs" : "syrenaliantier1pants"
 	  },
       "uniformSlots" : ["chest", "chestCosmetic", "legs", "legsCosmetic", "back", "backCosmetic"]
     },

@@ -9,7 +9,7 @@
       "role" : {
         "type" : "axilarium",
         "name" : "Axilari",
-        "field" : ["Law Enforcement", "Medical", "Special Forces", "Small Arms Repair"],
+        "field" : "Law Enforcement",
         "uniformColorIndex" : 6
       }
     },
@@ -18,7 +18,7 @@
         "offer" : {
           "default" : {
             "default" : [
-              "<field> <role>, <selfname>, at your command."
+              "Law Enforcement Axilarium, <selfname>, at your command."
             ]
           }
         },
@@ -68,18 +68,15 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier1head" },
-            { "name" : "syrenaliantier2head" },
-            { "name" : "syrenaliantier3head" },
-            { "name" : "syrenaliantier4headpa" }],
-            "chest" : [ { "name" : "syrenaliantier1chest" },
-            { "name" : "syrenaliantier2chest" },
-            { "name" : "syrenaliantier3chest" },
-            { "name" : "syrenaliantier4chest" }],
-            "legs" : [ { "name" : "syrenaliantier1pants" },
-            { "name" : "syrenaliantier2pants" },
-            { "name" : "syrenaliantier3pants" },
-            { "name" : "syrenaliantier4pants" }],
+            "head" : [ { "name" : "syrenaliantier1headpa" },
+            { "name" : "syrenaliantier2headpa" }
+			],
+            "chest" : [ { "name" : "syrenaliantier1chestpa" },
+            { "name" : "syrenaliantier2chestpa" }
+			],
+            "legs" : [ { "name" : "syrenaliantier1pantspa" },
+            { "name" : "syrenaliantier2pantspa" }
+			],
             "primary" : [
           { "name" : "commonaxe" },
           { "name" : "commonbroadsword" },
