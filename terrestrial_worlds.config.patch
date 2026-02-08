@@ -442,6 +442,9 @@
                 "caveLiquid": [
                     "lava"
                 ],
+                "oceanLiquid" : [
+                    "lava"
+                ],
                 "blockSelector": [
                     "coreCaves"
                 ],
@@ -529,6 +532,9 @@
             "path": "/regionTypes/ve_frostcorelayer",
             "value": {
                 "caveLiquid": [
+                    "velammonia"
+                ],
+                "oceanLiquid" : [
                     "velammonia"
                 ],
                 "blockSelector": [
