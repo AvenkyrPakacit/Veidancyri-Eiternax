@@ -1,6 +1,6 @@
 {
   "type" : "crewmemberaxilari",
-  "baseType" : "crewmembersyrenalian",
+  "baseType" : "crewmembersyrenalianstate",
   "scriptConfig" : {
     "behaviorConfig" : {
       "emptyHands" : false
@@ -9,16 +9,21 @@
       "role" : {
         "type" : "axilarium",
         "name" : "Axilari",
-        "field" : "Law Enforcement",
+        "field" : "Military",
         "uniformColorIndex" : 6
-      }
+      },
+    "defaultUniform" : {
+		"chest" : "syrenaliantier1chestla",
+		"legs" : "syrenaliantier1pantsla"
+	  },
+      "uniformSlots" : ["chest", "chestCosmetic", "legs", "legsCosmetic", "back", "backCosmetic"]
     },
     "dialog" : {
       "crewmember" : {
         "offer" : {
           "default" : {
             "default" : [
-              "Law Enforcement Axilarium, <selfname>, at your command."
+              "Law Enforcement Axilari, <selfname>, at your command."
             ]
           }
         },
@@ -68,13 +73,13 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier1headpa" },
+            "head" : [ { "name" : "syrenaliantier1headla" },
             { "name" : "syrenaliantier2headpa" }
 			],
-            "chest" : [ { "name" : "syrenaliantier1chestpa" },
+            "chest" : [ { "name" : "syrenaliantier1chestla" },
             { "name" : "syrenaliantier2chestpa" }
 			],
-            "legs" : [ { "name" : "syrenaliantier1pantspa" },
+            "legs" : [ { "name" : "syrenaliantier1pantsla" },
             { "name" : "syrenaliantier2pantspa" }
 			],
             "primary" : [
