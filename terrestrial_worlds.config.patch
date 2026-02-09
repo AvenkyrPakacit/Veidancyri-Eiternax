@@ -442,17 +442,21 @@
                 "caveLiquid": [
                     "lava"
                 ],
+                "caveLiquidSeedDensityRange" :
+                    [4.0, 4.0],
                 "oceanLiquid" : [
                     "lava"
                 ],
+                "oceanLevelOffset" :
+                    -20,
                 "blockSelector": [
                     "coreCaves"
                 ],
                 "fgCaveSelector": [
-                    "empty"
+                    "coreCaves"
                 ],
                 "bgCaveSelector": [
-                    "empty"
+                    "coreBackgroundCaves"
                 ],
                 "biome": [
                     [
@@ -534,23 +538,27 @@
                 "caveLiquid": [
                     "velammonia"
                 ],
+                "caveLiquidSeedDensityRange" :
+                    [4.0, 4.0],
                 "oceanLiquid" : [
                     "velammonia"
                 ],
+                "oceanLevelOffset" :
+                    -20,
                 "blockSelector": [
                     "coreCaves"
                 ],
                 "fgCaveSelector": [
-                    "empty"
+                    "coreCaves"
                 ],
                 "bgCaveSelector": [
-                    "empty"
+                    "coreBackgroundCaves"
                 ],
                 "biome": [
                     [
                         0,
                         [
-                            "ve_eldercorelayer"
+                            "ve_frostcorelayer"
                         ]
                     ]
                 ],
