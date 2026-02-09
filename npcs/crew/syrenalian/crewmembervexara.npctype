@@ -1,6 +1,6 @@
 {
   "type" : "crewmembervexara",
-  "baseType" : "crewmembersyrenalian",
+  "baseType" : "crewmembersyrenalianstate",
   "scriptConfig" : {
     "behaviorConfig" : {
       "emptyHands" : false
@@ -11,14 +11,19 @@
         "name" : "Vexara",
         "field" : "Strategist",
         "uniformColorIndex" : 6
-      }
+      },
+    "defaultUniform" : {
+		"chest" : "syrenaliantier3chestla",
+		"legs" : "syrenaliantier3pantsla"
+	  },
+      "uniformSlots" : ["chest", "chestCosmetic", "legs", "legsCosmetic", "back", "backCosmetic"]
     },
     "dialog" : {
       "crewmember" : {
         "offer" : {
           "default" : {
             "default" : [
-              "Strategist Axilarium, <selfname>, at your command."
+              "Strategist Vexara, <selfname>, at your command."
             ]
           }
         },
@@ -68,17 +73,17 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier1headpa" },
-            { "name" : "syrenaliantier2headpa" },
-            { "name" : "syrenaliantier3headpa" }
+            "head" : [ { "name" : "syrenaliantier1headla" },
+            { "name" : "syrenaliantier2headla" },
+            { "name" : "syrenaliantier3headla" }
 			],
-            "chest" : [ { "name" : "syrenaliantier1chestpa" },
-            { "name" : "syrenaliantier2chestpa" },
-            { "name" : "syrenaliantier3chestpa" }
+            "chest" : [ { "name" : "syrenaliantier1lachestla" },
+            { "name" : "syrenaliantier2chestla" },
+            { "name" : "syrenaliantier3chestla" }
 			],
-            "legs" : [ { "name" : "syrenaliantier1pantspa" },
-            { "name" : "syrenaliantier2pantspa" },
-            { "name" : "syrenaliantier3pantspa" }
+            "legs" : [ { "name" : "syrenaliantier1pantsla" },
+            { "name" : "syrenaliantier2pantsla" },
+            { "name" : "syrenaliantier3pantsla" }
 			],
             "primary" : [
           { "name" : "commonaxe" },

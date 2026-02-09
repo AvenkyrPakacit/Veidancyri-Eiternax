@@ -1,6 +1,6 @@
 {
   "type" : "crewmemberunitari",
-  "baseType" : "crewmembersyrenalian",
+  "baseType" : "crewmembersyrenalianstate",
   "scriptConfig" : {
     "behaviorConfig" : {
       "emptyHands" : false
@@ -11,14 +11,19 @@
         "name" : "Unitari",
         "field" : "Special Forces",
         "uniformColorIndex" : 6
-      }
+      },
+    "defaultUniform" : {
+		"chest" : "syrenaliantier4chestla",
+		"legs" : "syrenaliantier4pantsla"
+	  },
+      "uniformSlots" : ["chest", "chestCosmetic", "legs", "legsCosmetic", "back", "backCosmetic"]
     },
     "dialog" : {
       "crewmember" : {
         "offer" : {
           "default" : {
             "default" : [
-              "Special Forces Axilarium, <selfname>, at your command."
+              "Special Forces Unitari, <selfname>, at your command."
             ]
           }
         },
@@ -68,11 +73,11 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier4headpa" }
+            "head" : [ { "name" : "syrenaliantier4headla" }
 			],
-            "chest" : [ { "name" : "syrenaliantier4chestpa" }
+            "chest" : [ { "name" : "syrenaliantier4chestpla" }
 			],
-            "legs" : [ { "name" : "syrenaliantier4pantspa" }
+            "legs" : [ { "name" : "syrenaliantier4pantsla" }
 			],
             "primary" : [
           { "name" : "commonaxe" },

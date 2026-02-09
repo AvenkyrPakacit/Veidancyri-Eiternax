@@ -1,47 +1,42 @@
 {
-  "itemName" : "syrenaliantier2head",
-  "price" : 1440,
-  "inventoryIcon" : "icons.png:head",
+  "itemName" : "syrenaliantier1pantsla",
+  "price" : 320,
+  "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Common",
-  "category" : "headarmour",
-  "description" : "A strong, peaked tungsten helm of great aesthetic value.",
-  "shortdescription" : "Sparrow Helm",
+  "category" : "legarmour",
+  "description" : "Protective iron fibres are woven into the fabric.",
+  "shortdescription" : "Scouter's Greaves",
   "tooltipKind" : "armor",
-
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
-  "mask" : "mask.png",
-
-  "level" : 2,
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+  "level" : 1,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 1.15
+      "baseMultiplier" : 1.1
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.3
+      "amount" : 0.2
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 3
+      "amount" : 2
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 3
+      "amount" : 2
     }
   ],
-
-  "itemTags" : [ "tier2armour" ],
-
+  "itemTags" : [ "tier1armour" ],
   "colorOptions" : [
-    // LIGHT GREY
-    { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
+    // DENIM
+    { "ffca8a" : "767ab6", "e0975c" : "616494", "a85636" : "3a3d71", "6f2919" : "282a59" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

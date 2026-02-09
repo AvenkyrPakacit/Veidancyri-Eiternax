@@ -1,16 +1,18 @@
 {
-  "itemName" : "syrenaliantier1pants",
-  "price" : 320,
+  "itemName" : "syrenaliantier3pantsla",
+  "price" : 1280,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "legarmour",
-  "description" : "Protective iron fibres are woven into the fabric.",
-  "shortdescription" : "Scouter's Greaves",
+  "description" : "The tassets of a knight protect the thighs of a warrior.",
+  "shortdescription" : "Knight's Tassets",
   "tooltipKind" : "armor",
+
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
-  "level" : 1,
+
+  "level" : 3,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
@@ -33,10 +35,12 @@
       "amount" : 2
     }
   ],
-  "itemTags" : [ "tier1armour" ],
+
+  "itemTags" : [ "tier3armour" ],
+
   "colorOptions" : [
-    // DENIM
-    { "ffca8a" : "767ab6", "e0975c" : "616494", "a85636" : "3a3d71", "6f2919" : "282a59" },
+    // WHITE
+    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
