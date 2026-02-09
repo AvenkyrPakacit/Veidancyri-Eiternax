@@ -9,7 +9,7 @@
       "role" : {
         "type" : "axilarium",
         "name" : "Vexara",
-        "field" : ["Law Enforcement", "Medical", "Special Forces", "Strategist"],
+        "field" : "Strategist",
         "uniformColorIndex" : 6
       }
     },
@@ -18,7 +18,7 @@
         "offer" : {
           "default" : {
             "default" : [
-              "<field> <role>, <selfname>, at your command."
+              "Strategist Axilarium, <selfname>, at your command."
             ]
           }
         },
@@ -68,27 +68,18 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier1head" },
-            { "name" : "syrenaliantier2head" },
-            { "name" : "syrenaliantier3head" },
-            { "name" : "syrenaliantier4headpa" },
-            { "name" : "syrenaliantier5ahead" },
-            { "name" : "syrenaliantier5mhead" },
-            { "name" : "syrenaliantier5shead" }],
-            "chest" : [ { "name" : "syrenaliantier1chest" },
-            { "name" : "syrenaliantier2chest" },
-            { "name" : "syrenaliantier3chest" },
-            { "name" : "syrenaliantier4chest" },
-            { "name" : "syrenaliantier5achest" },
-            { "name" : "syrenaliantier5mchest" },
-            { "name" : "syrenaliantier5schest" }],
-            "legs" : [ { "name" : "syrenaliantier1pants" },
-            { "name" : "syrenaliantier2pants" },
-            { "name" : "syrenaliantier3pants" },
-            { "name" : "syrenaliantier4pants" },
-            { "name" : "syrenaliantier5apants" },
-            { "name" : "syrenaliantier5mpants" },
-            { "name" : "syrenaliantier5spants" }],
+            "head" : [ { "name" : "syrenaliantier1headpa" },
+            { "name" : "syrenaliantier2headpa" },
+            { "name" : "syrenaliantier3headpa" }
+			],
+            "chest" : [ { "name" : "syrenaliantier1chestpa" },
+            { "name" : "syrenaliantier2chestpa" },
+            { "name" : "syrenaliantier3chestpa" }
+			],
+            "legs" : [ { "name" : "syrenaliantier1pantspa" },
+            { "name" : "syrenaliantier2pantspa" },
+            { "name" : "syrenaliantier3pantspa" }
+			],
             "primary" : [
           { "name" : "commonaxe" },
           { "name" : "commonbroadsword" },

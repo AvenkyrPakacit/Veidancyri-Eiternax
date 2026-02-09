@@ -9,7 +9,7 @@
       "role" : {
         "type" : "axilarium",
         "name" : "Unitari",
-        "field" : ["Law Enforcement", "Medical", "Special Forces", "Strategist"],
+        "field" : "Special Forces",
         "uniformColorIndex" : 6
       }
     },
@@ -18,7 +18,7 @@
         "offer" : {
           "default" : {
             "default" : [
-              "<field> <role>, <selfname>, at your command."
+              "Special Forces Axilarium, <selfname>, at your command."
             ]
           }
         },
@@ -68,27 +68,12 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier4headpa" },
-            { "name" : "syrenaliantier5ahead" },
-            { "name" : "syrenaliantier5mhead" },
-            { "name" : "syrenaliantier5shead" },
-            { "name" : "syrenaliantier6ahead" },
-            { "name" : "syrenaliantier6mhead" },
-            { "name" : "syrenaliantier6shead" }],
-            "chest" : [ { "name" : "syrenaliantier1chest" },
-            { "name" : "syrenaliantier2chest" },
-            { "name" : "syrenaliantier3chest" },
-            { "name" : "syrenaliantier4chest" },
-            { "name" : "syrenaliantier5achest" },
-            { "name" : "syrenaliantier5mchest" },
-            { "name" : "syrenaliantier5schest" }],
-            "legs" : [ { "name" : "syrenaliantier1pants" },
-            { "name" : "syrenaliantier2pants" },
-            { "name" : "syrenaliantier3pants" },
-            { "name" : "syrenaliantier4pants" },
-            { "name" : "syrenaliantier5apants" },
-            { "name" : "syrenaliantier5mpants" },
-            { "name" : "syrenaliantier5spants" }],
+            "head" : [ { "name" : "syrenaliantier4headpa" }
+			],
+            "chest" : [ { "name" : "syrenaliantier4chestpa" }
+			],
+            "legs" : [ { "name" : "syrenaliantier4pantspa" }
+			],
             "primary" : [
           { "name" : "commonaxe" },
           { "name" : "commonbroadsword" },
