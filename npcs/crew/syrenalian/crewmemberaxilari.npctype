@@ -73,14 +73,9 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier1headla" },
-            { "name" : "syrenaliantier2headpa" }
+            "chest" : [ { "name" : "syrenaliantier1chestla" }
 			],
-            "chest" : [ { "name" : "syrenaliantier1chestla" },
-            { "name" : "syrenaliantier2chestpa" }
-			],
-            "legs" : [ { "name" : "syrenaliantier1pantsla" },
-            { "name" : "syrenaliantier2pantspa" }
+            "legs" : [ { "name" : "syrenaliantier1pantsla" }
 			],
             "primary" : [
           { "name" : "commonaxe" },

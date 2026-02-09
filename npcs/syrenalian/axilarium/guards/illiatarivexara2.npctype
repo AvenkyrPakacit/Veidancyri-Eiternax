@@ -5,7 +5,7 @@
   "dropPools" : [ "axilariumTreasure3" ],
   "scriptConfig" : {
     "behaviorConfig" : {
-      "friendlyNpcTypes" : ["crewmembervexara"]
+      "friendlyNpcTypes" : ["crewmembersyrenalianstate"]
     },
     "dialog" : {
       "attack" : "/dialog/axilariumvexara.config:attack",

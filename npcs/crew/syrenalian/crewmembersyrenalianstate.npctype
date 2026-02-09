@@ -1,7 +1,7 @@
 {
   "type" : "crewmembersyrenalianstate",
   "baseType" : "base",
-  "dropPools" : [ "villagertreasure" ],
+  "dropPools" : [ "axilariumTreasure1" ],
   "damageTeamType" : "friendly",
   // Remove protection and powermultiplier gained from being level 1 as scaling is from player armor
   "innateStatusEffects" : [ { "stat" : "protection", "amount": -25 }, {"stat" : "powerMultiplier", "amount" : -0.5} ], 
@@ -119,16 +119,24 @@
     "default" : [
       [0, [
           {
-            "chest" : [ { "name" : "protectoratechest" } ],
-            "legs" : [ { "name" : "protectoratepants" } ],
-            "primary" : [ "npcassaultrifle" ],
-            "sheathedprimary" : [ "npcbroadsword" ]
-          },
-          {
-            "chest" : [ { "name" : "protectoratechest" } ],
-            "legs" : [ { "name" : "protectoratepants" } ],
-            "primary" : [ "npcbroadsword" ],
-            "sheathedprimary" : [ "npcassaultrifle" ]
+            "chest" : [ { "name" : "syrenaliantier1chestla" }
+			],
+            "legs" : [ { "name" : "syrenaliantier1pantsla" }
+			],
+            "primary" : [
+          { "name" : "commonaxe" },
+          { "name" : "commonbroadsword" },
+          { "name" : "commonhammer" },
+          { "name" : "commonshortsword" },
+          { "name" : "commonspear" }],
+            "sheathedprimary" : [
+         { "name" : "unitariumbattlerifle" },
+          { "name" : "unitariumbolter" },
+          { "name" : "unitariumcombatrifle" }],
+          "alt" : [
+          { "name" : "commondagger" },
+          { "name" : "commonmachinepistol" },
+          { "name" : "commonpistol" }]
           }
         ] ]
     ]

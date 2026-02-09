@@ -13,8 +13,8 @@
         "uniformColorIndex" : 6
       },
     "defaultUniform" : {
-		"chest" : "syrenaliantier4chestla",
-		"legs" : "syrenaliantier4pantsla"
+		"chest" : "syrenaliantier1chestla",
+    "legs" : "syrenaliantier1pantsla"
 	  },
       "uniformSlots" : ["chest", "chestCosmetic", "legs", "legsCosmetic", "back", "backCosmetic"]
     },
@@ -73,11 +73,9 @@
     "default" : [
       [0, [
           {
-            "head" : [ { "name" : "syrenaliantier4headla" }
+            "chest" : [ { "name" : "syrenaliantier1chestla" }
 			],
-            "chest" : [ { "name" : "syrenaliantier4chestpla" }
-			],
-            "legs" : [ { "name" : "syrenaliantier4pantsla" }
+            "legs" : [ { "name" : "syrenaliantier1pantsla" }
 			],
             "primary" : [
           { "name" : "commonaxe" },
@@ -86,7 +84,7 @@
           { "name" : "commonshortsword" },
           { "name" : "commonspear" }],
             "sheathedprimary" : [
-          { "name" : "unitariumbattlerifle" },
+         { "name" : "unitariumbattlerifle" },
           { "name" : "unitariumbolter" },
           { "name" : "unitariumcombatrifle" }],
           "alt" : [

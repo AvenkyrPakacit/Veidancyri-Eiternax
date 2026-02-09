@@ -5,7 +5,7 @@
   "dropPools" : [ "axilariumTreasure1" ],
   "scriptConfig" : {
     "behaviorConfig" : {
-      "friendlyNpcTypes" : ["crewmemberaxilari"]
+      "friendlyNpcTypes" : ["crewmembersyrenalianstate"]
     },
     "dialog" : {
       "attack" : "/dialog/axilariumaxilari.config:attack",
