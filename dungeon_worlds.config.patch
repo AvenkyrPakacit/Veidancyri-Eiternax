@@ -19,7 +19,7 @@
       "ambientLightLevel" : [32, 32, 32],
       "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
 			"biome": "ve_lush",
-      "musicTrack" : "/music/tranquility-base.ogg"
+      "musicTrack" : "/music/Winds of Eilasalia.ogg"
     }
   },
   {
