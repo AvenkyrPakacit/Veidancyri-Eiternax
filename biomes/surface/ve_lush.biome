@@ -71,10 +71,10 @@
   },
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Eilasalian Call.ogg", "/music/Winds of Eilasalia.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Eilasalian Call.ogg", "/music/Winds of Eilasalia.ogg" ]
     }
   },
   "surfacePlaceables" : {

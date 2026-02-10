@@ -93,10 +93,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Echoes of Athyrimiita.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Echoes of Athyrimiita.ogg" ]
     }
   },
 

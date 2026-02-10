@@ -40,10 +40,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Eikal Sanctuary.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Eikal Sanctuary.ogg" ]
     }
   },
 

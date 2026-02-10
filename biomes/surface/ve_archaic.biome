@@ -85,10 +85,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Avenskol Corrupting Soul.ogg", "/music/Beckon Eiternax.ogg", "/music/Eiternax akuit Inferna.ogg", "/music/Eiternax Catalyst.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Avenskol Corrupting Soul.ogg", "/music/Beckon Eiternax.ogg", "/music/Eiternax akuit Inferna.ogg", "/music/Eiternax Catalyst.ogg" ]
     }
   },
 
