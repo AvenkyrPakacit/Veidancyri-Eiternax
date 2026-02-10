@@ -85,10 +85,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Ralkinian Respite.ogg", "/music/Saiyralian Glory.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Ralkinian Respite.ogg", "/music/Saiyralian Glory.ogg" ]
     }
   },
 

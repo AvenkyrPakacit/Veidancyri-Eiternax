@@ -40,10 +40,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Avenskol Crying Skies.ogg", "/music/Avenskol HoS.ogg", "/music/Avenskol Peace.ogg", "/music/Avenskol Showering Blessing.ogg", "/music/Bliss of Avenskol.ogg", "/music/Dawn of Avenskol.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Eiternax akuit Inferna.ogg" ]
+      "tracks" : [ "/music/Avenskol Crying Skies.ogg", "/music/Avenskol HoS.ogg", "/music/Avenskol Peace.ogg", "/music/Avenskol Showering Blessing.ogg", "/music/Bliss of Avenskol.ogg", "/music/Dawn of Avenskol.ogg" ]
     }
   },
 
