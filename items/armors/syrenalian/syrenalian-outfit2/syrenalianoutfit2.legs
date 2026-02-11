@@ -9,8 +9,8 @@
   "shortdescription" : "Commander Trousers",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "pantsm.png",
-  "femaleFrames" : "pantsf.png",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
 
   "colorOptions" : [
     // RED
