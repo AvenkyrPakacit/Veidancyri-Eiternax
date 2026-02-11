@@ -152,7 +152,7 @@
                             "ve_elder"
                         ],
                         "secondaryRegions": [],
-                        "dungeons": []
+                        "dungeons": [[4.0, "voderaivillage"]]
                     },
                     "subsurface": {
                         "primaryRegion": [
