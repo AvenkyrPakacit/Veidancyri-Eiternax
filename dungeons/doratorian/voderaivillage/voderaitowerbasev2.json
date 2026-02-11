@@ -49,16 +49,24 @@
                  "y":176.020756115641
                 }, 
                 {
-                 "gid":2147483957,
+                 "gid":309,
                  "height":40,
                  "id":3,
                  "name":"",
+                 "properties":
+                    {
+                     "tilesetDirection":"left"
+                    },
+                 "propertytypes":
+                    {
+                     "tilesetDirection":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":7.95184321449249,
-                 "y":177.101199590938
+                 "x":9.15046019489971,
+                 "y":177.500738584407
                 }, 
                 {
                  "gid":444,
@@ -153,17 +161,19 @@
                  "y":177.541882876205
                 }, 
                 {
-                 "gid":2147484535,
+                 "gid":887,
                  "height":24,
                  "id":11,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\" : [\"doratorianOriginPools\"]}"
+                     "parameters":"{\"treasurePools\" : [\"doratorianOriginPools\"]}",
+                     "tilesetDirection":"left"
                     },
                  "propertytypes":
                     {
-                     "parameters":"string"
+                     "parameters":"string",
+                     "tilesetDirection":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -213,24 +223,26 @@
                  "y":104.24314306894
                 }, 
                 {
-                 "gid":2147484526,
+                 "gid":878,
                  "height":16,
                  "id":14,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\" : [\"doratorianOriginPools\"]}"
+                     "parameters":"{\"treasurePools\" : [\"doratorianOriginPools\"]}",
+                     "tilesetDirection":"left"
                     },
                  "propertytypes":
                     {
-                     "parameters":"string"
+                     "parameters":"string",
+                     "tilesetDirection":"string"
                     },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":32.2935507783543,
-                 "y":103.768717568569
+                 "x":36.6884797065141,
+                 "y":104.967334548976
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -282,8 +294,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408,
-                 "x":82.045009909909,
-                 "y":150.420282915975
+                 "x":81.6762046851683,
+                 "y":151.157893365456
                 }, 
                 {
                  "height":9.2513,
