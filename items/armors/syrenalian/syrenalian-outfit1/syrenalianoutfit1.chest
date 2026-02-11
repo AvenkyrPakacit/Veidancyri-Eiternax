@@ -9,12 +9,12 @@
   "shortdescription" : "Protectorate T-Shirt",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chestm.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chestf.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
