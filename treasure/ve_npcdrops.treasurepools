@@ -79,6 +79,142 @@
       "allowDuplication" : false
     }]
   ],
+  "doratorianbrute1pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier1headha"},
+        {"weight" : 1.0, "item" : "doratoriantier1chestha"},
+        {"weight" : 1.0, "item" : "doratoriantier1pantsha"},
+        {"weight" : 1.0, "item" : "doratorianmacetier1"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianbrute2pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier2headha"},
+        {"weight" : 1.0, "item" : "doratoriantier2chestha"},
+        {"weight" : 1.0, "item" : "doratoriantier2pantsha"},
+        {"weight" : 1.0, "item" : "doratorianmacetier2"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianbrute3pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier3headha"},
+        {"weight" : 1.0, "item" : "doratoriantier3chestha"},
+        {"weight" : 1.0, "item" : "doratoriantier3pantsha"},
+        {"weight" : 1.0, "item" : "doratorianmacetier3"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianbrute4pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier4headha"},
+        {"weight" : 1.0, "item" : "doratoriantier4chestha"},
+        {"weight" : 1.0, "item" : "doratoriantier4pantsha"},
+        {"weight" : 1.0, "item" : "doratorianmacetier4"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianbrute5pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier5headha"},
+        {"weight" : 1.0, "item" : "doratoriantier5chestha"},
+        {"weight" : 1.0, "item" : "doratoriantier5pantsha"},
+        {"weight" : 1.0, "item" : "doratorianmacetier5"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianbrute6pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier6headha"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestha"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsha"},
+        {"weight" : 1.0, "item" : "doratorianmacetier6"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianbrute7pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier6headha"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestha"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsha"},
+        {"weight" : 1.0, "item" : "doratorianmacetier7"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "doratorianbrute8pool" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "doratoriantier6headha"},
+        {"weight" : 1.0, "item" : "doratoriantier6chestha"},
+        {"weight" : 1.0, "item" : "doratoriantier6pantsha"},
+        {"weight" : 1.0, "item" : "doratorianmacetier8"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.40, 1],
+        [0.20, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
   "doratoriansniper1pool" : [
     [1, {
       "pool" : [

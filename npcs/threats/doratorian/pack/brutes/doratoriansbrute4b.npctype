@@ -1,0 +1,48 @@
+{
+  "type" : "doratoriansbrute4b",
+  "baseType" : "hostile",
+  "dropPools" : [ "doratorianbrute4pool" ],
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmember"]
+    }
+  },
+  "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Attack!"
+          ]
+        },
+        "voderaiarkai" : {
+          "default" : [
+            "*hissing* Let me at em!",
+            "*hissing* Ready to fucking die!?",
+            "*barking hiss* I'll cave your skull in!",
+            "*barking hiss* Ready to die? READY TO FUCKING DIE!? GODS, I CAN FEEL MY INSTINCTS TAKING HOLD!"
+          ]
+        }
+      }
+    },
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "doratoriantier4headha" }
+			],
+            "chest" : [ { "name" : "doratoriantier4chestha" }
+			],
+            "legs" : [ { "name" : "doratoriantier4pantsha" }
+			],
+            "primary" : [
+          { "name" : "doratorianmacetier4" }
+        ],
+        "alt" : [
+          { "name" : "doratorianmacetier4" }
+        ]
+          }
+        ] ]
+    ]
+  }
+}
