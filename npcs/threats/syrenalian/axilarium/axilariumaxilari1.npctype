@@ -36,7 +36,7 @@
             "head" : [ { "name" : "syrenaliantier1headpa" },
             { "name" : "syrenaliantier2headpa" }
 			],
-            "chest" : [ { "name" : "syrenaliantier1lachestpa" },
+            "chest" : [ { "name" : "syrenaliantier1lchestpa" },
             { "name" : "syrenaliantier2chestpa" }
 			],
             "legs" : [ { "name" : "syrenaliantier1pantspa" },
