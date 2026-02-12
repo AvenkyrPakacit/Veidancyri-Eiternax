@@ -1,33 +1,33 @@
 { "backgroundcolor":"#000000",
  "compressionlevel":-1,
- "height":24,
+ "height":26,
  "infinite":false,
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztksEJgDAMRTuV7pCpPHYBZyp48KALmUICQaKNkiiIgUehNK\/lNynptSKAjA2Azt4pq99Sk6Nfc0W\/P9rfK9TergEc9Gpv1Xotfm3PkoU1n7PM+K\/5XCau+vd90h3l1\/Lx8GfhlbPilT\/fVb0DYZkVKyC8Mp9\/Pr8xn2\/6vf9X+j3nn2uh1cvNsLsgcxDlATZxD9f0",
+         "data":"eJztk1EKgCAMhneqvMNO1aMX6EyCDz3UhUpQGDKn1YwghQ+i3D5Y\/xwAuAK78O3OXQ\/lgydLBRTqPfFI56kHhkfNYxhCj6kCFmpLHq5nq4d7J3m4mbTMTZplvj\/pvo1c9eR1APz+9PBIc9PwWMZDs6X1f5LTEM8caclWK0j6jlz\/N9df8vTKAfVo7g\/1bPFZq38OREdwrZ1xL3ve4ADCRiPF",
          "encoding":"base64",
-         "height":24,
+         "height":26,
          "id":2,
          "name":"back",
          "opacity":0.5,
          "type":"tilelayer",
          "visible":true,
-         "width":24,
+         "width":26,
          "x":0,
          "y":0
         }, 
         {
          "compression":"zlib",
-         "data":"eJztk8EJwCAMRZ3K7uBU3U7w0EM7hku0hQhBvjbI11M\/PAqheSQQncO5HkJVy4JOkH9HYvVbkoh+5EJhzj\/bvwHeXi\/kilIPjV40q6+og+Z3oA\/tZNmz5e+5Eqix\/AnUmP6vGsOvb4XpL95dQPejad0nIigv2okxv6XG8K+6T0us\/tH8fr7\/lG\/vvYxQ3PHhmERcwA3WGnAh",
+         "data":"eJztk9sJgDAMRTOV7tCp3K7QDz90jC4hhRRCuKnFPhDxwgG1bQ7B1BORNzgLa0\/2BrLj1HtkSntkgvCU0uqh39PNswJSjYWJivzdGWctj6yZ0UH9EDgne0Seu1geHeQJYK2XB92f0f3M8sjZ6unJdbNnY9C8Say5RjhR96v\/Z\/Zc16TWI\/N73u85+Ll051ogdiTXPhg\/2TODC848u+M=",
          "encoding":"base64",
-         "height":24,
+         "height":26,
          "id":1,
          "name":"Front",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":24,
+         "width":26,
          "x":0,
          "y":0
         }, 
@@ -45,20 +45,28 @@
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":152.690882134915,
-                 "y":168.020756115641
+                 "x":160.690882134915,
+                 "y":176.020756115641
                 }, 
                 {
-                 "gid":2147483957,
+                 "gid":309,
                  "height":40,
                  "id":3,
                  "name":"",
+                 "properties":
+                    {
+                     "tilesetDirection":"left"
+                    },
+                 "propertytypes":
+                    {
+                     "tilesetDirection":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":-0.785767234988882,
-                 "y":168.732394366197
+                 "x":9.15046019489971,
+                 "y":177.500738584407
                 }, 
                 {
                  "gid":444,
@@ -69,8 +77,8 @@
                  "type":"",
                  "visible":true,
                  "width":6,
-                 "x":24.5166790214974,
-                 "y":128.504077094144
+                 "x":32.8854842462381,
+                 "y":135.766466644663
                 }, 
                 {
                  "gid":444,
@@ -81,8 +89,8 @@
                  "type":"",
                  "visible":true,
                  "width":6,
-                 "x":24.0422535211268,
-                 "y":72.9962935507783
+                 "x":32.0422535211268,
+                 "y":80.9962935507783
                 }, 
                 {
                  "gid":444,
@@ -93,8 +101,8 @@
                  "type":"",
                  "visible":true,
                  "width":6,
-                 "x":64.6056338028169,
-                 "y":19.6234247590808
+                 "x":72.6056338028169,
+                 "y":27.6234247590808
                 }, 
                 {
                  "gid":445,
@@ -105,8 +113,8 @@
                  "type":"",
                  "visible":true,
                  "width":10,
-                 "x":119.77390659748,
-                 "y":19.3862120088955
+                 "x":127.77390659748,
+                 "y":27.3862120088955
                 }, 
                 {
                  "gid":445,
@@ -117,8 +125,8 @@
                  "type":"",
                  "visible":true,
                  "width":10,
-                 "x":159.862861378799,
-                 "y":72.5218680504077
+                 "x":167.862861378799,
+                 "y":80.5218680504077
                 }, 
                 {
                  "gid":445,
@@ -129,8 +137,8 @@
                  "type":"",
                  "visible":true,
                  "width":10,
-                 "x":159.388435878428,
-                 "y":127.792438843588
+                 "x":167.388435878428,
+                 "y":135.792438843588
                 }, 
                 {
                  "gid":878,
@@ -149,28 +157,30 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":47.3031875463306,
-                 "y":169.541882876205
+                 "x":55.3031875463306,
+                 "y":177.541882876205
                 }, 
                 {
-                 "gid":2147484535,
+                 "gid":887,
                  "height":24,
                  "id":11,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\" : [\"doratorianOriginPools\"]}"
+                     "parameters":"{\"treasurePools\" : [\"doratorianOriginPools\"]}",
+                     "tilesetDirection":"left"
                     },
                  "propertytypes":
                     {
-                     "parameters":"string"
+                     "parameters":"string",
+                     "tilesetDirection":"string"
                     },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":104.504077094144,
-                 "y":168.797627872498
+                 "x":112.504077094144,
+                 "y":176.797627872498
                 }, 
                 {
                  "gid":878,
@@ -189,8 +199,8 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":113.24833209785,
-                 "y":144.634544106746
+                 "x":121.24833209785,
+                 "y":152.634544106746
                 }, 
                 {
                  "gid":878,
@@ -209,28 +219,30 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":143.848776871757,
-                 "y":96.24314306894
+                 "x":151.848776871757,
+                 "y":104.24314306894
                 }, 
                 {
-                 "gid":2147484526,
+                 "gid":878,
                  "height":16,
                  "id":14,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\" : [\"doratorianOriginPools\"]}"
+                     "parameters":"{\"treasurePools\" : [\"doratorianOriginPools\"]}",
+                     "tilesetDirection":"left"
                     },
                  "propertytypes":
                     {
-                     "parameters":"string"
+                     "parameters":"string",
+                     "tilesetDirection":"string"
                     },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":24.2935507783543,
-                 "y":95.7687175685693
+                 "x":36.6884797065141,
+                 "y":104.967334548976
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -261,8 +273,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408450704227,
-                 "x":143.988139362491,
-                 "y":143.750926612305
+                 "x":151.988139362491,
+                 "y":151.750926612305
                 }, 
                 {
                  "height":9.2513,
@@ -282,8 +294,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408,
-                 "x":39.3773187842847,
-                 "y":143.157893365456
+                 "x":81.6762046851683,
+                 "y":151.157893365456
                 }, 
                 {
                  "height":9.2513,
@@ -303,8 +315,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408,
-                 "x":63.5730193031876,
-                 "y":71.0452173091178
+                 "x":71.5730193031876,
+                 "y":79.0452173091178
                 }, 
                 {
                  "height":9.2513,
@@ -324,8 +336,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408,
-                 "x":120.029653847294,
-                 "y":73.8917703113417
+                 "x":128.029653847294,
+                 "y":81.8917703113417
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -367,5 +379,5 @@
  "tilewidth":8,
  "type":"map",
  "version":1.1,
- "width":24
+ "width":26
 }

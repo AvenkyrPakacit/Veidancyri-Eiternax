@@ -61,7 +61,7 @@
 				"*Rattling bark* Fucking kill!",
 				"*Rattling growl*",
 				"*Rattling growl* May you perish, Syrenalian!",
-				"*Rattling hiss*"
+				"*Rattling hiss*",
 				"*Rattling hiss* Die Syrenal!"
 			],
 			"einfieran": [
@@ -75,7 +75,7 @@
 				"*Rattling bark* Fucking kill!",
 				"*Rattling growl*",
 				"*Rattling growl* May you perish, Syrenalian!",
-				"*Rattling hiss*"
+				"*Rattling hiss*",
 				"*Rattling hiss* Die Syrenal!"
 			],
 			"octusarian": [
@@ -89,7 +89,7 @@
 				"*Rattling bark* Fucking kill!",
 				"*Rattling growl*",
 				"*Rattling growl* May you perish, Syrenalian!",
-				"*Rattling hiss*"
+				"*Rattling hiss*",
 				"*Rattling hiss* Die Syrenal!"
 			]
 		}
@@ -237,6 +237,7 @@
 			]
 		}
 	},
+  {
 		"op": "add",
 		"path": "/outOfSight/voderaiarkai",
 		"value": {
@@ -247,8 +248,10 @@
 				"*Rattling bark*",
 				"*Rattling growl*",
 				"*Rattling hiss*"
-		]
+		  ]
+    }
 	},
+  {
 		"op": "add",
 		"path": "/reattack/voderaiarkai",
 		"value": {
@@ -259,6 +262,7 @@
 				"*Rattling bark*",
 				"*Rattling growl*",
 				"*Rattling hiss*"
-		]
+		  ]
+    }
 	}
 ]
