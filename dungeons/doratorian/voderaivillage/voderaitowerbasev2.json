@@ -1,33 +1,33 @@
 { "backgroundcolor":"#000000",
  "compressionlevel":-1,
- "height":26,
+ "height":28,
  "infinite":false,
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztk1EKgCAMhneqvMNO1aMX6EyCDz3UhUpQGDKn1YwghQ+i3D5Y\/xwAuAK78O3OXQ\/lgydLBRTqPfFI56kHhkfNYxhCj6kCFmpLHq5nq4d7J3m4mbTMTZplvj\/pvo1c9eR1APz+9PBIc9PwWMZDs6X1f5LTEM8caclWK0j6jlz\/N9df8vTKAfVo7g\/1bPFZq38OREdwrZ1xL3ve4ADCRiPF",
+         "data":"eJztkzEOgCAMADv4Jll4Aa9y9AN+isEBP6REiISUUiMQNTS5hdAeKa0cAOSL2KDOXQ3pUAdLBkXka+QdVDz1Qfc18wkEW2vMoBK5OR9Wm+vDzjg+rFecflI9Tu2fz5sdd31xng1q\/2r4OP0s4ZsJXziLpf7PuwXim+CEM4tcFFx1+z70ffiyr\/a8hL6S+4f5jDsr5YmxYSLnCnWJ+9na91d2ricMJQ==",
          "encoding":"base64",
-         "height":26,
+         "height":28,
          "id":2,
          "name":"back",
          "opacity":0.5,
          "type":"tilelayer",
          "visible":true,
-         "width":26,
+         "width":28,
          "x":0,
          "y":0
         }, 
         {
          "compression":"zlib",
-         "data":"eJztk9sJgDAMRTOV7tCp3K7QDz90jC4hhRRCuKnFPhDxwgG1bQ7B1BORNzgLa0\/2BrLj1HtkSntkgvCU0uqh39PNswJSjYWJivzdGWctj6yZ0UH9EDgne0Seu1geHeQJYK2XB92f0f3M8sjZ6unJdbNnY9C8Say5RjhR96v\/Z\/Zc16TWI\/N73u85+Ll051ogdiTXPhg\/2TODC848u+M=",
+         "data":"eJztk8ENgCAMRf\/BmfTiBEzlfBw86BgsYYwQm6YUErQa40\/eQQJ9ltCxA8YXseKevR75OPYdItoeGi\/8h5ZWH36fmW8Q2Gv1kcBI6y5ztuSjtRM8Un8QztGeNV8pOR+P5vPCnqt82vxZ9Wfto2\/xSl+qy30TDqT3ScnNg4TDWffp+7T2PTUPNan10fy+7\/iWuKbNbgt7FuaccS\/8Pq19X2UD42+kQw==",
          "encoding":"base64",
-         "height":26,
+         "height":28,
          "id":1,
          "name":"Front",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":26,
+         "width":28,
          "x":0,
          "y":0
         }, 
@@ -45,8 +45,8 @@
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":160.690882134915,
-                 "y":176.020756115641
+                 "x":168.690882134915,
+                 "y":184.020756115641
                 }, 
                 {
                  "gid":309,
@@ -65,8 +65,8 @@
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":9.15046019489971,
-                 "y":177.500738584407
+                 "x":17.1504601948997,
+                 "y":185.500738584407
                 }, 
                 {
                  "gid":444,
@@ -77,8 +77,8 @@
                  "type":"",
                  "visible":true,
                  "width":6,
-                 "x":32.8854842462381,
-                 "y":135.766466644663
+                 "x":40.8854842462381,
+                 "y":143.766466644663
                 }, 
                 {
                  "gid":444,
@@ -89,8 +89,8 @@
                  "type":"",
                  "visible":true,
                  "width":6,
-                 "x":32.0422535211268,
-                 "y":80.9962935507783
+                 "x":40.0422535211268,
+                 "y":88.9962935507783
                 }, 
                 {
                  "gid":444,
@@ -101,8 +101,8 @@
                  "type":"",
                  "visible":true,
                  "width":6,
-                 "x":72.6056338028169,
-                 "y":27.6234247590808
+                 "x":80.6056338028169,
+                 "y":35.6234247590808
                 }, 
                 {
                  "gid":445,
@@ -113,8 +113,8 @@
                  "type":"",
                  "visible":true,
                  "width":10,
-                 "x":127.77390659748,
-                 "y":27.3862120088955
+                 "x":135.77390659748,
+                 "y":35.3862120088955
                 }, 
                 {
                  "gid":445,
@@ -125,8 +125,8 @@
                  "type":"",
                  "visible":true,
                  "width":10,
-                 "x":167.862861378799,
-                 "y":80.5218680504077
+                 "x":175.862861378799,
+                 "y":88.5218680504077
                 }, 
                 {
                  "gid":445,
@@ -137,8 +137,8 @@
                  "type":"",
                  "visible":true,
                  "width":10,
-                 "x":167.388435878428,
-                 "y":135.792438843588
+                 "x":175.388435878428,
+                 "y":143.792438843588
                 }, 
                 {
                  "gid":878,
@@ -157,8 +157,8 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":55.3031875463306,
-                 "y":177.541882876205
+                 "x":63.3031875463306,
+                 "y":185.541882876205
                 }, 
                 {
                  "gid":887,
@@ -179,8 +179,8 @@
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":112.504077094144,
-                 "y":176.797627872498
+                 "x":120.504077094144,
+                 "y":184.797627872498
                 }, 
                 {
                  "gid":878,
@@ -199,8 +199,8 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":121.24833209785,
-                 "y":152.634544106746
+                 "x":129.24833209785,
+                 "y":160.634544106746
                 }, 
                 {
                  "gid":878,
@@ -219,8 +219,8 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":151.848776871757,
-                 "y":104.24314306894
+                 "x":159.848776871757,
+                 "y":112.24314306894
                 }, 
                 {
                  "gid":878,
@@ -241,8 +241,8 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":36.6884797065141,
-                 "y":104.967334548976
+                 "x":44.6884797065141,
+                 "y":112.967334548976
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -273,8 +273,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408450704227,
-                 "x":151.988139362491,
-                 "y":151.750926612305
+                 "x":159.988139362491,
+                 "y":159.750926612305
                 }, 
                 {
                  "height":9.2513,
@@ -294,8 +294,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408,
-                 "x":81.6762046851683,
-                 "y":151.157893365456
+                 "x":89.6762046851683,
+                 "y":159.157893365456
                 }, 
                 {
                  "height":9.2513,
@@ -315,8 +315,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408,
-                 "x":71.5730193031876,
-                 "y":79.0452173091178
+                 "x":79.5730193031876,
+                 "y":87.0452173091178
                 }, 
                 {
                  "height":9.2513,
@@ -336,8 +336,8 @@
                  "type":"",
                  "visible":true,
                  "width":9.01408,
-                 "x":128.029653847294,
-                 "y":81.8917703113417
+                 "x":136.029653847294,
+                 "y":89.8917703113417
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -375,9 +375,13 @@
         {
          "firstgid":849,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-category\/storage.json"
+        }, 
+        {
+         "firstgid":1083,
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }],
  "tilewidth":8,
  "type":"map",
  "version":1.1,
- "width":26
+ "width":28
 }

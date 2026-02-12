@@ -4,7 +4,7 @@
     "species" : "voderaiarkai",
     "rules" : [
     ],
-    "anchor" : [ "voderaitowerbasev1", "voderaitowerbasev2" ],
+    "anchor" : [ "voderaivillagecenter" ],
     "gravity" : 80,
     "maxRadius" : 1000000,
     "maxParts" : 15,
@@ -12,6 +12,14 @@
     "protected" : false
   },
   "parts" : [
+    {
+      "name" : "voderaivillagecenter",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "voderaivillagecenter" ] ]
+      ],
+      "def" : [ "tmx", "voderaivillagecenter.json" ]
+    },
     {
       "name" : "voderaitowerbasev1",
       "rules" : [
