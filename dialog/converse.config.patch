@@ -1,4 +1,56 @@
 [
+    {
+		"op": "add",
+		"path": "/greeting/voderaiarkai",
+		"value": {
+			"default": [
+				"*Chattering bark* Hi?",
+				"*Chattering chirp* HI!",
+				"*Chattering growl* What?",
+				"*Chattering hiss* What exactly?",
+				"*Chattering purr* You look cute."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/greeting/eilasalian",
+		"value": {
+			"default": [
+				"Hi?",
+				"HI!",
+				"What?",
+				"What exactly?",
+				"El Chinore!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/greeting/einfieran",
+		"value": {
+			"default": [
+				"Hi?",
+				"HI!",
+				"What?",
+				"What exactly?",
+				"El Chinore!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/greeting/octusarian",
+		"value": {
+			"default": [
+				"Hi?",
+				"HI!",
+				"What?",
+				"What exactly?",
+				"El Chinore!"
+			]
+		}
+	},
 	{
 		"op": "add",
 		"path": "/converse/eilasalian",
