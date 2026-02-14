@@ -63,6 +63,24 @@
         [ "doNotCombineWith", [ "voderaitowerupperv1"] ]
       ],
       "def" : [ "tmx", "voderaitowerupperv2.json" ]
+    },
+    {
+      "name" : "voderaiarmoryv1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "voderaiarmoryv1" ] ],
+        [ "doNotCombineWith", [ "voderaiarmoryv2"] ]
+      ],
+      "def" : [ "tmx", "voderaiarmoryv1.json" ]
+    },
+    {
+      "name" : "voderaiarmoryv2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "voderaiarmoryv2" ] ],
+        [ "doNotCombineWith", [ "voderaiarmoryv1"] ]
+      ],
+      "def" : [ "tmx", "voderaiarmoryv2.json" ]
     }
   ]
 }
