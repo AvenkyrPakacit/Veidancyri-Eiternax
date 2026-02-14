@@ -23,7 +23,7 @@
     {
       "name" : "voderaihatchery",
       "rules" : [
-        [ "maxSpawnCount", [3] ],
+        [ "maxSpawnCount", [1] ],
         [ "doNotConnectToPart", [ "voderaihatchery" ] ]
       ],
       "def" : [ "tmx", "voderaihatchery.json" ]
@@ -32,7 +32,8 @@
       "name" : "voderaitowerbasev1",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "voderaitowerbasev1", "voderaitowerbasev2" ] ]
+        [ "doNotConnectToPart", [ "voderaitowerbasev1" ] ],
+        [ "doNotCombineWith", [ "voderaitowerbasev2"] ]
       ],
       "def" : [ "tmx", "voderaitowerbasev1.json" ]
     },
@@ -40,7 +41,8 @@
       "name" : "voderaitowerbasev2",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "voderaitowerbasev1", "voderaitowerbasev2" ] ]
+        [ "doNotConnectToPart", [ "voderaitowerbasev2" ] ],
+        [ "doNotCombineWith", [ "voderaitowerbasev1"] ]
       ],
       "def" : [ "tmx", "voderaitowerbasev2.json" ]
     }
