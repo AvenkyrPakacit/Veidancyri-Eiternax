@@ -21,6 +21,14 @@
       "def" : [ "tmx", "voderaivillagecenter.json" ]
     },
     {
+      "name" : "voderaihatchery",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "voderaihatchery" ] ]
+      ],
+      "def" : [ "tmx", "voderaihatchery.json" ]
+    },
+    {
       "name" : "voderaitowerbasev1",
       "rules" : [
         [ "maxSpawnCount", [1] ],
