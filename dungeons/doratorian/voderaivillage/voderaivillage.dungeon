@@ -45,6 +45,24 @@
         [ "doNotCombineWith", [ "voderaitowerbasev1"] ]
       ],
       "def" : [ "tmx", "voderaitowerbasev2.json" ]
+    },
+    {
+      "name" : "voderaitowerupperv1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "voderaitowerupperv1" ] ],
+        [ "doNotCombineWith", [ "voderaitowerupperv2"] ]
+      ],
+      "def" : [ "tmx", "voderaitowerupperv1.json" ]
+    },
+    {
+      "name" : "voderaitowerupperv2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "voderaitowerupperv2" ] ],
+        [ "doNotCombineWith", [ "voderaitowerupperv1"] ]
+      ],
+      "def" : [ "tmx", "voderaitowerupperv2.json" ]
     }
   ]
 }
