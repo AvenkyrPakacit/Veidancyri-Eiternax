@@ -1,0 +1,36 @@
+{
+  "objectName" : "doratoriannest2",
+  "colonyTags" : ["doratorian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 45,
+  "description" : "A nest for laying eggs.",
+  "shortdescription" : "Nest",
+  "race" : "generic",
+  "apexDescription" : "This is a large bird nest. With a small box inside.",
+  "avianDescription" : "A nest. With a small box inside.",
+  "floranDescription" : "Floran lick nessst. Nessst tasste like thatch. With a small box inside.",
+  "glitchDescription" : "Interested. A fine nest. With a small box inside.",
+  "humanDescription" : "A nest. For large birds? With a small box inside.",
+  "hylotlDescription" : "This nest is finely made. With a small box inside.",
+  "inventoryIcon" : "doratoriannest2icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "doratoriannest2.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

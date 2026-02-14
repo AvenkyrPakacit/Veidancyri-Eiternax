@@ -1,0 +1,14 @@
+{
+  "ve_doratoriannests" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "egg"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.60, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}
