@@ -1,0 +1,41 @@
+{
+  "objectName" : "doratorianmarkdeco1",
+  "colonyTags" : ["doratorian", "magic", "spiritual"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "A engraved statue.",
+  "shortdescription" : "Doratorian Sigil Engraving",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 90,
+  "apexDescription" : "This is engraved with fire.",
+  "avianDescription" : "A statue bearing a sigil!",
+  "floranDescription" : "Floran hatesss fire. Floran fearss mark!",
+  "glitchDescription" : "Interested. A flaming sigil!",
+  "humanDescription" : "A statue. With glowing engravings?",
+  "hylotlDescription" : "This statue bears an ancient sigil.",
+  "voderaiarkaiDescription" : "A sigil to welcome the spirits.",
+  "inventoryIcon" : "doratorianmarkdeco1icon.png",
+  "lightColor": [
+		253,
+		209,
+		77
+	],
+	"lightPosition": [
+		0,
+		1
+	],
+  "orientations" : [
+		{
+			"imageLayers" : [ { "image" : "doratorianmarkdeco1.png:<color>.<frames>", "fullbright" : true }, { "image" : "doratorianmarkdeco1lit.png:<color>.<frames>" } ],
+            "imagePosition": [
+				-11,
+				0
+			],
+			"frames": 2,
+			"animationCycle": 0.5,
+			"spaceScan": 0.1,
+			"anchors": ["bottom"]
+		}
+	]
+}

@@ -1,6 +1,6 @@
 {
   "objectName" : "doratorianmerchant",
-  "colonyTags" : ["doratorian", "commerce"],
+  "colonyTags" : ["doratorian", "commerce", "spiritual"],
   "rarity" : "Common",
   "interactAction" : "OpenMerchantInterface",
   "interactData" : {
