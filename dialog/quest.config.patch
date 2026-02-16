@@ -1,0 +1,185 @@
+[
+	{"op": "add","path": "/share_secret/pleaseTakeReply/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Tale this back to <questGiver>."
+			]
+		}
+	},
+	{"op": "add","path": "/intimidate/intimidated/voderaiarkai","value": {
+			"default": [
+				"*Growling hiss* Dont point that <item> at me!"
+			]
+		}
+	},
+	{"op": "add","path": "/intimidate/notIntimidated/voderaiarkai","value": {
+			"default": [
+				"*Rattling growl* Why should I?"
+			]
+		}
+	},
+	{"op": "add","path": "/bribe/giftAccepted/voderaiarkai","value": {
+			"default": [
+				"*Rattling chirp* Thanks?"
+			]
+		}
+	},
+	{"op": "add","path": "/bribe/giftAccepted2/voderaiarkai","value": {
+			"default": [
+				"*Chattering chirp* What does <questGiver> want?"
+			]
+		}
+	},
+	{"op": "add","path": "/bribe/requestAdditionToHouse/voderaiarkai","value": {
+			"default": [
+				"*Rattling chirp* Can you by potential chance put it in here?"
+			]
+		}
+	},
+	{"op": "add","path": "/gift/giftAccepted/voderaiarkai","value": {
+			"default": [
+				"*Chattering chirp* Thanks?"
+			]
+		}
+	},
+	{"op": "add","path": "/gift/giftAccepted2/voderaiarkai","value": {
+			"default": [
+				"*Rattling chirp* Thanks?"
+			]
+		}
+	},
+	{"op": "add","path": "/gift/requestAdditionToHouse/voderaiarkai","value": {
+			"default": [
+				"*Rattling chirp* Can you by potential chance put it in here?"
+			]
+		}
+	},
+	{"op": "add","path": "/return_stolen/objectTaken/voderaiarkai","value": {
+			"default": [
+				"*Growling chirp* <item>? Here, if you need it"
+			]
+		}
+	},
+	{"op": "add","path": "/collect_fine/fineCollected/voderaiarkai","value": {
+			"default": [
+				"*Growling bark* Here!"
+			]
+		}
+	},
+	{"op": "add","path": "/collect_gift/giftProvided/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Here!"
+			]
+		}
+	},
+	{"op": "add","path": "/request_craft/giftProvided/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Here's the <item>!",
+				"*Chattering bark* Here's one I put together earlier!"
+			]
+		}
+	},
+	{"op": "add","path": "/borrow/giftProvided/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* <questGiver> can use it.",
+				"Sure! <questGiver> can use this <item>!"
+			]
+		}
+	},
+	{"op": "add","path": "/extort/giftProvided/voderaiarkai","value": {
+			"default": [
+				"*Chattering hiss* H-here, take it!"
+			]
+		}
+	},
+	{"op": "add","path": "/hat/crafting/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* You have what I asked for!? Let me have it!",
+				"*Chattering bark* Yes! I could easily make use of that!"
+			]
+		}
+	},
+	{"op": "add","path": "/hat/crafted/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Here's a hat!"
+			]
+		}
+	},
+	{"op": "add","path": "/helmet/crafting/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* You have what I asked for!? Let me have it!",
+				"*Chattering bark* Yes! I could easily make use of that!"
+			]
+		}
+	},
+	{"op": "add","path": "/helmet/crafted/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Here's a helmet!"
+			]
+		}
+	},
+	{"op": "add","path": "/new_stock/trade/voderaiarkai","value": {
+			"default": [
+          		"*Chattering chirp* Thanks for the stuff! Here's <questGiver>'s thing. Hope it helps!"
+			]
+		}
+	},
+	{"op": "add","path": "/kidnapping/kidnappersDead/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Thanks!",
+				"*Chattering bark* Thanks! Although I can handle myself!"
+			]
+		}
+	},
+	{"op": "add","path": "/kidnapping/followHome/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Can you take me to <questGiver>, if possible?"
+			]
+		}
+	},
+	{"op": "add","path": "/escort/found/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Where am I? Wait, do you know where <questGiver> is?"
+			]
+		}
+	},
+	{"op": "add","path": "/barter/trade/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Thanks for the stuff! Here's <questGiver>'s <receivedItems>. Hope it helps!"
+			]
+		}
+	},
+	{"op": "add","path": "/escort_trade/collectDelivery/voderaiarkai","value": {
+			"default": [
+				"*Chattering chirp* Do you have anything for me?"
+			]
+		}
+	},
+	{"op": "add","path": "/escort_trade/provideDelivery/voderaiarkai","value": {
+			"default": [
+				"*Chattering bark* Here's your stuff!"
+			]
+		}
+	},
+	{"op": "add","path": "/kill_npcs/assistantIntro/voderaiarkai","value": {
+			"default": [
+				"*Rattling bark* <questGiver> asked me to help you against <enemy>."
+			]
+		}
+	},
+	{"op": "add","path": "/kill_npc/surrender/voderaiarkai","value": {
+			"default": [
+				"*Rattling bark* At ease, I'm standing down!"
+			]
+		}
+	},
+	{"op": "add","path": "/kill_npc/betray/voderaiarkai","value": {
+			"default": [
+				"*Rattling hiss* You fucking idiot!",
+				"*Rattling hiss* You fucking fool!",
+				"*Rattling hiss* Why the fuck would you fall for that!?",
+				"*Rattling hiss* Fool!",
+				"*Rattling hiss* Idiot!"
+			]
+		}
+	}
+]

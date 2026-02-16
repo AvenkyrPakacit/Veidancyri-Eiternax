@@ -5,8 +5,7 @@
   "scriptConfig" : {
     "behaviorConfig" : {
       "friendlyNpcTypes" : ["crewmember"]
-    }
-  },
+    },
   "dialog" : {
       "attack" : {
         "default" : {
@@ -23,7 +22,8 @@
           ]
         }
       }
-    },
+    }
+  },
   "matchColorIndices" : true,
   "items" : {
     "override" : [
