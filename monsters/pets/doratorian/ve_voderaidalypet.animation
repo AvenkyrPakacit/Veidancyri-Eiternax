@@ -12,22 +12,25 @@
             "frames" : 1
           },
           "run" : {
-            "frames" : 6,
-            "cycle" : 0.5,
+            "frames" : 4,
+            "cycle" : 0.25,
             "mode" : "loop"
           },
           "blink" : {
             "frames" : 1
           },
           "walk" : {
-            "frames" : 6,
-            "cycle" : 1,
+            "frames" : 8,
+            "cycle" : 0.6,
             "mode" : "loop"
           },
           "jumping" : {
             "frames" : 3,
             "cycle" : 0.4,
-            "mode" : "loop"
+            "mode" : "loop",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/quadruped/catmhead_pain2.ogg"
+            }
           },
           "falling" : {
             "frames" : 2,
@@ -40,8 +43,8 @@
             "mode" : "transition",
             "transition" : "eatloop",
             "properties" : {
-              "immediateSound" : "/sfx/npc/smallbiped/spidermonkey_attack2.ogg"
-            }   
+              "immediateSound" : "/sfx/npc/quadruped/catmhead_attack1.ogg"
+            }
           },
           "eatloop" : {
             "frames" : 2,
@@ -56,7 +59,7 @@
             "frames" : 4,
             "cycle" : 0.5,
             "properties" : {
-              "persistentSound" : "/sfx/npc/smallbiped/spidermonkey_idle1.ogg",
+              "persistentSound" : "/sfx/npc/quadruped/catmhead_idle2.ogg",
               "persistentSoundStopTime" : 0.9
             }
           },
@@ -71,7 +74,10 @@
             "transition" : "stand"
           },
           "sleep" : {
-            "frames" : 1
+            "frames" : 1,
+            "properties" : {
+              "persistentSound" : "/sfx/npc/quadruped/catmhead_idle2.ogg"
+            }
           },
           "invisible" : {
             "frames" : 1
@@ -79,7 +85,6 @@
         }
       }
     },
-
     "parts" : {
       "body" : {
         "properties" : {
@@ -163,7 +168,6 @@
       }
     }
   },
-
   "particleEmitters" : {
     "damage" : {
       "emissionRate" : 0.7,
@@ -350,7 +354,6 @@
         }
       ]
     },
-
     "emotehappy" : {
       "emissionRate" : 1,
       "particles" : [
@@ -370,7 +373,6 @@
         }
       ]
     },
-
     "emotesad" : {
       "emissionRate" : 1,
       "particles" : [
@@ -390,7 +392,6 @@
         }
       ]
     },
-
     "emoteconfused" : {
       "emissionRate" : 1,
       "particles" : [
@@ -410,7 +411,6 @@
         }
       ]
     },
-
     "emotesleepy" : {
       "emissionRate" : 1,
       "particles" : [
@@ -430,7 +430,6 @@
         }
       ]
     },
-
     "sleep" : {
       "emissionRate" : 2,
       "particles" : [
@@ -454,7 +453,6 @@
       ]
     }
   },
-
   "effects" : {
     "blink" : {
       "type" : "flash",
@@ -462,7 +460,6 @@
       "directives" : "fade=ffffff;0.5"
     }
   },
-
   "sounds" : {
     "turnHostile" : [ ],
     "deathPuff" : [ "/sfx/npc/enemydeathpuff.ogg" ],

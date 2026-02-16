@@ -1,9 +1,8 @@
 {
-  "name" : "red",
+  "name" : "male1",
   "category" : "ve_voderaidalypet",
   "type" : "body",
-
   "frames" : {
-    "body" : "red.png"
+    "body" : "male1.png"
   }
 }
