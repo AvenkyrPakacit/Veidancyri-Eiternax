@@ -1,9 +1,0 @@
-{
-  "name" : "fullgrey",
-  "category" : "doratorianpet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fullgrey.png"
-  }
-}

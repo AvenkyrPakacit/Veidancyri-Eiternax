@@ -1,9 +1,0 @@
-{
-  "name" : "mint",
-  "category" : "ve_voderaidalypet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "mint.png"
-  }
-}

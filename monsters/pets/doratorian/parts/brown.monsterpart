@@ -1,9 +1,0 @@
-{
-  "name" : "brown",
-  "category" : "ve_voderaidalypet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "brown.png"
-  }
-}
