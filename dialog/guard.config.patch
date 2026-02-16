@@ -1,0 +1,12 @@
+[
+	{"op": "add", "path": "/hail/voderaiarkai", "value": {
+			"default": [
+				"*Rattling bark* Stay at will!",
+				"*Chattering bark* Stay at will.",
+				"*Rattling hiss* Be at ease!",
+				"*Chattering hiss* Be at ease.",
+				"*Growling bark* Try anything, and die!"
+			]
+		}
+	}
+]

@@ -5,8 +5,7 @@
   "scriptConfig" : {
     "behaviorConfig" : {
       "friendlyNpcTypes" : ["crewmember"]
-    }
-  },
+    },
   "dialog" : {
       "attack" : {
         "default" : {
@@ -19,11 +18,12 @@
             "*hissing* Give me the fucking guns, and I'll kill them!",
             "*hissing* Ready to fucking die!?",
             "*purring* I have two guns, one for each of ya!",
-            "*barking hiss* Ready to die? READY TO FUCKING DIE!? GODS, I CAN FEEL MY INSTINCTS TAKING HOLD!"
+            "*barking hiss* Ready to die? READY TO FUCKING DIE!?"
           ]
         }
       }
-    },
+    }
+  },
   "matchColorIndices" : true,
   "items" : {
     "override" : [
