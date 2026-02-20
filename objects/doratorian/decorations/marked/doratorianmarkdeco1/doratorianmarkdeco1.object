@@ -25,6 +25,11 @@
 		0,
 		1
 	],
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
   "orientations" : [
 		{
 			"imageLayers" : [ { "image" : "doratorianmarkdeco1.png:<color>.<frames>", "fullbright" : true }, { "image" : "doratorianmarkdeco1lit.png:<color>.<frames>" } ],
