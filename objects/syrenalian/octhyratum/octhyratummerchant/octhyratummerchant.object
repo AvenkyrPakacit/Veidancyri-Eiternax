@@ -17,7 +17,8 @@
     { "item" : "syrenalianmerchant" },
     { "item" : "octhyratumbattlerifle" },
     { "item" : "octhyratumbolter" },
-    { "item" : "octhyratumcombatrifle" }
+    { "item" : "octhyratumcombatrifle" },
+    { "item" : "octhyratumshotgun" }
     ]
   },
   "description" : "A Syrenalian trade table.",

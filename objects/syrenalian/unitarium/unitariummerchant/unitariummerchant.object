@@ -17,7 +17,8 @@
     { "item" : "syrenalianmerchant" },
     { "item" : "unitariumbattlerifle" },
     { "item" : "unitariumbolter" },
-    { "item" : "unitariumcombatrifle" }
+    { "item" : "unitariumcombatrifle" },
+    { "item" : "unitariumshotgun" }
     ]
   },
   "description" : "A Syrenalian trade table.",

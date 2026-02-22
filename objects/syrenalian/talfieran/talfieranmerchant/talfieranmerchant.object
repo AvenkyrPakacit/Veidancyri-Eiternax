@@ -17,7 +17,8 @@
     { "item" : "syrenalianmerchant" },
     { "item" : "talfieranbattlerifle" },
     { "item" : "talfieranbolter" },
-    { "item" : "talfierancombatrifle" }
+    { "item" : "talfierancombatrifle" },
+    { "item" : "talfieranshotgun" }
     ]
   },
   "description" : "A Syrenalian trade table.",
