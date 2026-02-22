@@ -1,0 +1,39 @@
+{
+  "projectileName" : "ve_pquadshot",
+  "image" : "ve_pquadshot.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "timeToLive" : 0.1,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "iceplasma",
+      "inheritDamageFactor" : 0.333,
+      "angleAdjust" : 10
+    },
+    {
+      "action" : "projectile",
+      "type" : "electricplasma",
+      "inheritDamageFactor" : 0.333,
+      "angleAdjust" : 5
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireplasma",
+      "inheritDamageFactor" : 0.333,
+      "angleAdjust" : -5
+    },
+    {
+      "action" : "projectile",
+      "type" : "poisonplasma",
+      "inheritDamageFactor" : 0.333,
+      "angleAdjust" : -10
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 75,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

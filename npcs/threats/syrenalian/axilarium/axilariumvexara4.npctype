@@ -46,7 +46,8 @@
           { "name" : "commonsyrnlpolearm" }
         ],
         "sheathedprimary" : [
-          { "name" : "commonaxe" }
+          { "name" : "commonaxe" },
+          { "name" : "unitariumshotgun" }
         ],
         "alt" : [
           { "name" : "commondagger" },
