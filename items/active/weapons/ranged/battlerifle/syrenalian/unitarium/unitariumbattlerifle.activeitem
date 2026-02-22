@@ -64,12 +64,12 @@
     "animationParts" : {
       "butt" : {
         "path" : "/items/active/weapons/ranged/battlerifle/syrenalian/butt/<variant>.png",
-        "variants" : 10,
+        "variants" : 9,
         "paletteSwap" : true
       },
       "middle" : {
         "path" : "/items/active/weapons/ranged/battlerifle/syrenalian/middle/<variant>.png",
-        "variants" : 8,
+        "variants" : 5,
         "paletteSwap" : true
       },
       "barrel" : {
