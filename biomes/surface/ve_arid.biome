@@ -85,10 +85,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Ralkinian Respite.ogg", "/music/Saiyralian Glory.ogg" ]
+      "tracks" : [ "/music/Ralkinian_Respite.ogg", "/music/Saiyralian_Glory.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Ralkinian Respite.ogg", "/music/Saiyralian Glory.ogg" ]
+      "tracks" : [ "/music/Ralkinian_Respite.ogg", "/music/Saiyralian_Glory.ogg" ]
     }
   },
 

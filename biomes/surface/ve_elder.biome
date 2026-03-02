@@ -91,10 +91,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Eikal Sanctuary.ogg" ]
+      "tracks" : [ "/music/Eikal_Sanctuary.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Eikal Sanctuary.ogg" ]
+      "tracks" : [ "/music/Eikal_Sanctuary.ogg" ]
     }
   },
 

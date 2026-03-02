@@ -93,10 +93,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Echoes of Athyrimiita.ogg" ]
+      "tracks" : [ "/music/Echoes_of_Athyrimiita.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Echoes of Athyrimiita.ogg" ]
+      "tracks" : [ "/music/Echoes_of_Athyrimiita.ogg" ]
     }
   },
 
