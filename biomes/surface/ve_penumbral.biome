@@ -85,10 +85,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/Avenskol Darkness Calls.ogg", "/music/Darkness of Avenskol.ogg", "/music/OcthyratumGenesis.ogg", "/music/OcthyratumPulsar.ogg" ]
+      "tracks" : [ "/music/Avenskol_Darkness_Calls.ogg", "/music/Darkness_of_Avenskol.ogg", "/music/OcthyratumGenesis.ogg", "/music/OcthyratumPulsar.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/Avenskol Darkness Calls.ogg", "/music/Darkness of Avenskol.ogg", "/music/OcthyratumGenesis.ogg", "/music/OcthyratumPulsar.ogg" ]
+      "tracks" : [ "/music/Avenskol_Darkness_Calls.ogg", "/music/Darkness_of_Avenskol.ogg", "/music/OcthyratumGenesis.ogg", "/music/OcthyratumPulsar.ogg" ]
     }
   },
 
