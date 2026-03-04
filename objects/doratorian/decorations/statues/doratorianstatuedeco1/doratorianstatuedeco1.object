@@ -1,0 +1,43 @@
+{
+  "objectName" : "doratorianstatuedeco1",
+  "colonyTags" : ["doratorian", "light", "spiritual"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "A ancient statue.",
+  "shortdescription" : "Doratorian Statue of Dorator",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 180,
+  "apexDescription" : "This is a statue made by an ancient race.",
+  "avianDescription" : "A statue in the shape of a sacred icon!",
+  "floranDescription" : "Floran sseesss icon. Floran curious.",
+  "glitchDescription" : "Interested. A icon of some ancient diety!",
+  "humanDescription" : "A statue. With a sacred icon?",
+  "hylotlDescription" : "This statue bears an sacred icon.",
+  "voderaiarkaiDescription" : "A statue to welcome the spirits.",
+  "inventoryIcon" : "doratorianstatuedeco1icon.png",
+  "lightColor": [
+		96,
+		184,
+		234
+	],
+	"lightPosition": [
+		0,
+		1
+	],
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+  "orientations" : [
+		{
+      "dualImage" : "doratorianstatuedeco1.png:<color>",
+      "imagePosition" : [-11, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+	]
+}
