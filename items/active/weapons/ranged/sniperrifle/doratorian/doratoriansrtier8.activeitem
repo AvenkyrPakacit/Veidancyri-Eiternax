@@ -11,12 +11,12 @@
   "itemTags" : ["weapon","ranged","sniperrifle","upgradeableWeapon"],
   "level" : 7,
 
-  "inventoryIcon" : "doratoriansrtier8.png",
+  "inventoryIcon" : "ve_anacal_t8.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "doratoriansrtier8.png",
+    "middle" : "ve_anacal_t8.png",
     "barrel" : "",
     "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
   },
