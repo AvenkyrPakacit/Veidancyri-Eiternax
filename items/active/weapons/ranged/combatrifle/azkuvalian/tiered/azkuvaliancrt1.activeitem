@@ -22,7 +22,7 @@
       "parts" : {
         "middlefullbright" : {
 		  "properties" : {
-		    "offset" : [0.875, 0.125]
+		    "offset" : [0.0, 0.0]
 		  }
 		}
       }
