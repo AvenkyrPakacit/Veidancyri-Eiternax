@@ -1,0 +1,92 @@
+{
+  "itemName" : "azkuvaliancrt1",
+  "price" : 325,
+  "inventoryIcon" : "ve_akredaita_t1.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "An Azkuvalina energy combat rifle.",
+  "shortdescription" : "Akredaita",
+  "level" : 1,
+  "tooltipKind" : "gun",
+  "category" : "ve_combatRifle",
+  "itemTags" : ["weapon","ranged","combatrifle","upgradeableWeapon"],
+  "twoHanded" : true,
+	"animation": "/items/active/weapons/ranged/ve_gun_fullbright_static.animation",
+  "animationParts" : {
+    "middle" : "ve_akredaita_t1.png",
+    "middlefullbright" : "ve_akredaita_lights.png",
+    "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+  },
+  "animationCustom" : {
+    "animatedParts" : {
+      "parts" : {
+        "middlefullbright" : {
+		  "properties" : {
+		    "offset" : [0.875, 0.125]
+		  }
+		}
+      }
+    },
+    "particleEmitters" : {
+    },
+    "sounds" : {
+      "fire" : ["/sfx/gun/plasma_ar1.ogg"]
+    }
+  },
+
+  "baseOffset" : [0.875, 0.125],
+  "muzzleOffset" : [2.0, 0.375],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "electric",
+
+  "primaryAbility" : {
+  "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+    "fireTime" : 0.33,
+    "baseDps" : 28.5,
+    "energyUsage" : 28.5,
+    "inaccuracy" : 0.06,
+    "burstTime" : 0.225,
+    "burstCount" : 1,
+    "fireType" : ["auto"],
+    "projectileType" : "electricplasma",
+    "projectileParameters" : {
+      "knockbackRange" : [4,8]
+    },
+	
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 4,
+        "weaponRotation" : 4,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.125,
+        "armRotation" : 4,
+        "weaponRotation" : 4,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+  
+  "altAbilityType" : "spray",
+
+  "builder" : "/items/buildscripts/buildweapon.lua"
+}
