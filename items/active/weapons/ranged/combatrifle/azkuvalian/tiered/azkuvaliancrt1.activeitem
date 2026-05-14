@@ -14,13 +14,13 @@
 	"animation": "/items/active/weapons/ranged/ve_gun_fullbright_static.animation",
   "animationParts" : {
     "middle" : "ve_akredaita_t1.png",
-    "middleFullbright" : "ve_akredaita_lights.png",
+    "middlefullbright" : "ve_akredaita_lights.png",
     "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
   },
   "animationCustom" : {
     "animatedParts" : {
       "parts" : {
-        "middleFullbright" : {
+        "middlefullbright" : {
 		  "properties" : {
 		    "offset" : [0.875, 0.125]
 		  }
