@@ -11,8 +11,7 @@
   "category" : "ve_combatRifle",
   "itemTags" : ["weapon","ranged","combatrifle","upgradeableWeapon"],
   "twoHanded" : true,
-
-  "animation" : "/items/active/weapons/ranged/gun.animation",
+	"animation": "azkuvaliancrt1.animation",
   "animationParts" : {
     "middle" : "ve_akredaita_t1.png",
     "middleFullbright" : "ve_akredaita_lights.png",
