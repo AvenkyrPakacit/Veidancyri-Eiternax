@@ -36,6 +36,16 @@
           "transformationGroups" : ["weapon"]
         }
       },
+			"middlefullbright": {
+				"properties": {
+					"centered": true,
+					"offset": [0.875, 0.25],
+					"zLevel": 2,
+					"transformationGroups": ["weapon"],
+					"fullbright": true,
+					"image" : "<partImage><paletteSwaps>"
+        }
+      },
       "barrel" : {
         "properties" : {
           "centered" : true,
@@ -51,15 +61,6 @@
           "offset" : [0.75, 0],
           "fullbright" : true,
           "transformationGroups" : ["muzzle"]
-        },
-			"middlefullbright": {
-				"properties": {
-					"centered": true,
-					"offset": [0.875, 0.25],
-					"zLevel": 2,
-					"transformationGroups": ["weapon"],
-					"fullbright": true
-				}
 			},
         "partStates" : {
           "firing" : {
